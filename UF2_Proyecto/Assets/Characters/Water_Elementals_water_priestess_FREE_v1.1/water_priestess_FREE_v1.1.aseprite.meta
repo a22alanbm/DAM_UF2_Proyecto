@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  script: {instanceID: 0}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 6bf7008c827a2d845a84e06249fedf35
+    spriteID: c165f24ca8475ae428aafdf7555476bb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: efb9bad21da391e48a3a2abb86ed35d1
+    spriteID: 485623951e7bd24408e33f0b97fe65e0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 423e4396cd83b61468282b93ab737ceb
+    spriteID: 56de136941bb46941aaba265a22b87d7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 020a6e70164e6db4fb4c4feefc0b710d
+    spriteID: d8884ad4b3687884abc264201fdf02fc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: c56e0b3375a63114998ef04639e1de02
+    spriteID: 3c65441a436570c418a794214db8581e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 0f0d7c318f1065f4f994ff3dfef8623e
+    spriteID: 1e02e0b558dd2344aa128ef95993daa7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 809e6f7d2ef2d6d45a42535b0ef39257
+    spriteID: 530b2cf4e12591a49bc6339f036db375
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 2e8c6bacdd0995c438cc0f664c50a79a
+    spriteID: e60a2ff2d30bcca4882af8a4e2205536
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: afb99e59a2771c941b44b2d2b5852f13
+    spriteID: bfd43b9b37fa7b14d8978994d87de555
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: f7fa8ec0d0a6b9e4595a453a24a3d233
+    spriteID: 585c34a54a2d1bc4f9627fd9f916cd2b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 933bf0f83ae566f4fa71547089d436cf
+    spriteID: df4ee72a0abd1034c9116e9be39f080e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 5f7fcf125b2918849843e01beb1d9dcb
+    spriteID: 767c82e1e171a9b4d98e73167e76a09b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 4
       width: 288
       height: 128
-    spriteID: 516fb8874f4ccc349ac2dcf165438160
+    spriteID: faeb41fca5743ee4bb9b6eb3e31b4f74
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: 0d29dc7cbaafbba4490aa223bd2835e6
+    spriteID: acad7d4ac886a514881c5ac1f679c319
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: 529e12731d139774f919269860b6e2a9
+    spriteID: 37bddacf854ce5d449f544956cc0062c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: 3d32744d39e831c4cb5be966da31c0fb
+    spriteID: 7d6798e1696247946856f1977c23effc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -452,7 +452,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: a9218c282d4fc49458e0d491c082207c
+    spriteID: d7da7a692545eca4cbfe7a1e4f466484
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -472,7 +472,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: a4e46c59750bde748ac05936245d07fb
+    spriteID: 8b2c58f3693f75f41b679b36d7d7c3cc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -492,7 +492,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: 6036996f72c424b469b57eed4d6ddb14
+    spriteID: a1fc81750c73eea44b3178323376036e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: fb8848bddf9961e4f92522cc93b3894e
+    spriteID: 311f4da1833bbe84ab5fdec109ee3f2f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -532,7 +532,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: db8ad8b7cc2b1d24fb140b182798b22f
+    spriteID: b2fdd92faf7a1d646b16307cc1643b29
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -552,7 +552,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: babbe33f51f60fd4ca4fe13bfc7fd1df
+    spriteID: ef7a5f7af93430345951f46ff982efb8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -572,7 +572,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: 61ff9e0347d613d46815c4cd86dfa2a3
+    spriteID: 1210e7e860f860549bfc34d6ed50e253
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -592,7 +592,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: b364e8853dd8cd54784164753a5c5f4d
+    spriteID: 93cfe85322486b54eaf3f5bbbf8e9e19
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -612,7 +612,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: 6789a494b84a7424faeab17961314465
+    spriteID: eb37050a13ca09149abbbbdb922574cb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -632,7 +632,7 @@ ScriptedImporter:
       y: 140
       width: 288
       height: 128
-    spriteID: 82f9ef650b9bfad418e930fe9ee63344
+    spriteID: fd6da78fa12d3d747869f1caa87568d4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 389987b3d277cc34ab5f234235e1322a
+    spriteID: 8a6410659d2740d4f9de2b98a90e6dc9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -672,7 +672,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: d9768a17486b0c040aae3adb1f4dcd49
+    spriteID: cc0bc5ef63d9ffc43bb01628c55e04df
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -692,7 +692,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: d9413282aed8eaf448154cc1446232b4
+    spriteID: 185f333db1cdf2149a6d9814e7de9205
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -712,7 +712,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 35ce90d0e663d7f44af4c2cbbb347832
+    spriteID: a3ccc3827fed1764485978525cc34b07
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -732,7 +732,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 0239bf7c0be62f14b9e429360d227599
+    spriteID: 2b09ba0dec7023b4eacf88ac62a6c759
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -752,7 +752,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 950f5e6b3cf0ed94684e000a6748af76
+    spriteID: 931acca3e68284f408b71e87eec45bb4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -772,7 +772,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 0d4ca92ad6749294db5cc50fcce9fae1
+    spriteID: 989f546cfdcdf34478a1cf783223c381
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -792,7 +792,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 6eef596b62e52fd40be21d16b1f48923
+    spriteID: ff3ef3ad3e99caa48a7277bfe96e8910
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -812,7 +812,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 083287057f9ce194aa319fe279d05ad5
+    spriteID: ec5b25fa6cffd0a43bb93264a27972a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -832,7 +832,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: dec22dbc6b873154bb7ee8b1eeb8324e
+    spriteID: 36195411bc5e526488e0e1f941a9ddbc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -852,7 +852,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 457ae5c48b6781a41bd2b7fc45f3010e
+    spriteID: dbc0dac654b203e4e9ac7f0a79f3af08
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -872,7 +872,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 3a5dfcff78ad0964db699dfc505d3d89
+    spriteID: 50978a345f87d944da2841c69b3971bb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -892,7 +892,7 @@ ScriptedImporter:
       y: 276
       width: 288
       height: 128
-    spriteID: 303f67230d734484b9900d4d72ce3328
+    spriteID: 26ba31fe774c4454baf8e4b3c09e8284
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -912,7 +912,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 1c5d03c708512094ba7ce39133307b0a
+    spriteID: 1abf72c1a2c7c7b4489f8fedf47a64b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -932,7 +932,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: db8355f631e0f104eb377d667043fbbb
+    spriteID: 58f48d80117525349926fac4637eeec4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -952,7 +952,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: cc713810a22d32248ae3cf6e16fece6d
+    spriteID: ddfd6842b36e21448a66af9594d69c6d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -972,7 +972,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 658eec0fb3ef28349af0607f688290ec
+    spriteID: b311674733099d448a8719ba3c0463d6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -992,7 +992,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 381384bc8346bbb49b4dece9012374fb
+    spriteID: 1737e6823599532449a895406f355125
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1012,7 +1012,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 68ff6a61888d2f44dbb813e60de1ed56
+    spriteID: 032947d3dec41584783c1fc3956d9e3b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1032,7 +1032,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 6169908b73ee8ec4b867ecaa33a75c16
+    spriteID: 5e2a59f532a846440b1fd6b7b8f1b8cc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1052,7 +1052,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 86a34fe9a76ed5c47988425d57e0c84e
+    spriteID: 4dcd049a6aaed194da27a2483062e717
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1072,7 +1072,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 4395bff615bfdea439fa87e618b517c1
+    spriteID: 8b093936ec6f6124a92534102a82edac
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1092,7 +1092,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: d3a5da61c46e50948ae364f62147d582
+    spriteID: c0e8c55f1c216ea4bb7b37ff30aad3b2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1112,7 +1112,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: f428d1500f302734ba5d8eb4a307274b
+    spriteID: 62f6485927d8753488df7d50c23daf0e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1132,7 +1132,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 85f838f728a2e9a499dee7319139c47e
+    spriteID: e399a2aa15666e442ab44ce73b6af32d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1152,7 +1152,7 @@ ScriptedImporter:
       y: 412
       width: 288
       height: 128
-    spriteID: 163328a6cb1873048916060499958e13
+    spriteID: 70228e65b0d587441b7cae57398f0336
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1172,7 +1172,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: 9761c847f1623424584796196e7d7731
+    spriteID: 35ffd611281e1534eab28c8fe0aa871a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1192,7 +1192,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: ef8b606b8eda8d04083a19c28b66ad06
+    spriteID: ce7e2083ceea1bb47aec2e77a8c7bf95
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1212,7 +1212,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: e659f311c42924e4cbf42121871daaca
+    spriteID: fa41bceefeaeac44087d482a26c2cd0c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1232,7 +1232,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: dad0738545252cd48a5bf1f59d727696
+    spriteID: 193a2b77c1c1a36438a67125e7055b2b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1252,7 +1252,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: e2e058c115283ae418e7617867ca2b95
+    spriteID: ca6be06392f0d5c45865f7f6f90aa066
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1272,7 +1272,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: 1f7890d050e55cd4bb93bd3da0a971ea
+    spriteID: ca57a9b8739c5184da7df3dfa3f0dac2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1292,7 +1292,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: b546c61efda223847bfbb774a2964f58
+    spriteID: cf93741242dfe164cb8a2012ff220233
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1312,7 +1312,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: 5ac0fa52c5ba996409a6278a1d831c71
+    spriteID: 142984dc928a3354fa03f36fa56094de
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1332,7 +1332,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: 26c300bad5c2b9944ae472e581ce51a0
+    spriteID: 03399fd82ccec0b47aec4d34eadcc0c4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1352,7 +1352,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: 2631561b42f711548a3c7b406eace8cf
+    spriteID: ef672cd34c2ae2c40879b69394416f22
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1372,7 +1372,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: dd861ac7835d42941bcc5c146a30f90e
+    spriteID: d3532d742987af34b9345623750649fc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1392,7 +1392,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: f117374404491f24ebce91c6a374b694
+    spriteID: efa79ac3edb754c458be843d5da9c826
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1412,7 +1412,7 @@ ScriptedImporter:
       y: 548
       width: 288
       height: 128
-    spriteID: f3ef228a9c318b34480c23dc05198dd1
+    spriteID: 5fb1d6b194336954e86f2a55a4685e99
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1432,7 +1432,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 575933b5766fec04f83f8a9a136e184a
+    spriteID: c2ffe7417d70e7845b6851ea5842dbf2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1452,7 +1452,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 44551aeb069ebc04d976cb5b806d4341
+    spriteID: 61f51e3f87b5aa54197c83005a5beb43
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1472,7 +1472,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 7b369a38efe05104b97b79c7d5ba3808
+    spriteID: 85233f9f36ba87f4bb02acbc83b213bb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1492,7 +1492,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 19f11b279edb1e645916e615048fd764
+    spriteID: 2c547d386605a344b9d9ac0ca0b0d462
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1512,7 +1512,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 10cdccd3407a5494ba555c9c24316cc3
+    spriteID: fd4d2d44248555b4ca15953f65a1c0ff
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1532,7 +1532,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 2a7a555a8b221c94ca72e68e80d9490c
+    spriteID: 26a34849fe54df24783ddedceb5d8c40
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1552,7 +1552,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 225407d06ff6318448ff9636a70f5961
+    spriteID: c96c6494a9dd8fd409b3b073aa58605c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1572,7 +1572,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: f73ccbd12b16110438a82c2db517719c
+    spriteID: baa2db0be8263cb418ba2934655c6dae
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1592,7 +1592,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 1df5afaa90f8f9143816271b66cfcd65
+    spriteID: ab8152beee9a76244a4468de697b1a8f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1612,7 +1612,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: c512782fbbcd01049876ddde06b856b2
+    spriteID: a99da943004b2c345803d890f59e9fab
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1632,7 +1632,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 2c4bf65877bf264449c8d0d525c55565
+    spriteID: 29bd5c3e47994c748bb89e759a23f51d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1652,7 +1652,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 197e4eaed5fc5a442963724a745f4b49
+    spriteID: 32e00799fca2a114c81f72ce5f865015
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1672,7 +1672,7 @@ ScriptedImporter:
       y: 684
       width: 288
       height: 128
-    spriteID: 028fc5bcc5387414a9f4c54fbd20a6fd
+    spriteID: f63dcaefba9f0e94290b3f113da1a431
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1692,7 +1692,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: d1472337d989e114a8e5aa16f7a05e78
+    spriteID: ee051aafeb35f2549b613140e73de314
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1712,7 +1712,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: bb638d880a38aa94cb620e0d523422ad
+    spriteID: ea023528bcc35fb4dbc58fde115891c1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1732,7 +1732,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: 9398b88969e71334cb164b46c75b6007
+    spriteID: e42321a63befb61409505a9a18e4e6f8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1752,7 +1752,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: b793453fca7116042b3b35a9b4d98fb5
+    spriteID: 174dd940eb17bd54ba7946607aa479da
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1772,7 +1772,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: 0451dc589ca7cad498a9c2a4f36f4899
+    spriteID: bfabd962285cc724f9381309ee569cc1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1792,7 +1792,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: ac2c41d593588894f9f867589a03afe5
+    spriteID: 30f08d366c2fb42498afd7337bc6ebe5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1812,7 +1812,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: 4d9126a75bc274f4cb5540fe82db0522
+    spriteID: 2f802527bbbdfad4994aa50849e3d00b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1832,7 +1832,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: 48ac3dc9abe4efc4ba2c8ad89327d2de
+    spriteID: 825756cb658bd844394b8ddcc8ab6391
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1852,7 +1852,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: 827cfd0cbce630746815ff24d3305839
+    spriteID: 9b86149d633747e4b92bcc17a0665ba7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1872,7 +1872,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: 560dfbc99d552424182dd186c9bf5cf9
+    spriteID: 86205e8294a4179488c376b28a806bd1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1892,7 +1892,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: bb939c50471057b45a3d93443e4f629c
+    spriteID: 43304481c69d08940b104c9d945d9f44
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1912,7 +1912,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: 7730bfdb67a73f146a7f6e8199752cf1
+    spriteID: a3069e94ac788364383e4b6b3934933a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1932,7 +1932,7 @@ ScriptedImporter:
       y: 820
       width: 288
       height: 128
-    spriteID: a50ea89efdac27749aedafcfa499ccb1
+    spriteID: 8f419a1d0538d7a46a48b22c90e96221
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1952,7 +1952,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 14fcca5570a0f304eb67d901048dae9f
+    spriteID: c046d5ceb4a692e4d98a6523e394edc3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1972,7 +1972,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 40281af1fa34a6140a454654c556303a
+    spriteID: a6cc7f5aee310cf4a96acaa43d42f98e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1992,7 +1992,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: b6d8ea57876e26b4981915f23947e8ea
+    spriteID: 6f741f54232f91a48ad9eb79b4537ec8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2012,7 +2012,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 6f1e0b447b97dcb43ab1ac1c5c6f3225
+    spriteID: 38691d385548b624dbb8eda3a5edb1aa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2032,7 +2032,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 43549c59cd65bfa45af0084ce8f08a0e
+    spriteID: 724954fcaabfa4e4cb3b562d34fddcdf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2052,7 +2052,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 40e7c3bc31e556a46bbef27ca28f0b9d
+    spriteID: a550d24299c3a9d4db09e236ab4b65fa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2072,7 +2072,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: de395f3fdfb3259428635cacdf0281fa
+    spriteID: 023c1f4af1bbe5342ad0af4f78332040
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2092,7 +2092,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 57b148afe5f9a2542a6b4d6392c10421
+    spriteID: 355b1791015b534408d01df557b9a9fa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2112,7 +2112,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 02a1b1dde704bfa47a3a2ffc2987dc5b
+    spriteID: 105eddde5662cb24f8e8e21a836dde08
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2132,7 +2132,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: d5867ed0312c04543ad878e16fe23ac7
+    spriteID: aa3f53fd29283cc43a4aa62a04211117
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2152,7 +2152,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: 9595d261d31fda24f805f8bacc5d1dbe
+    spriteID: a31f1ea1ff17e384f8431e5df248cb4c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2172,7 +2172,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: eefca1ce920f2204db3c34e12de17c8a
+    spriteID: ee8daff64b0fd4646a03ebcc0dcf9204
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2192,7 +2192,7 @@ ScriptedImporter:
       y: 956
       width: 288
       height: 128
-    spriteID: a7b87e67a0f03084894d5dead88073f2
+    spriteID: 452e0b3a52370b046b0d51427e1ee6a1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2212,7 +2212,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 9e58166945d207946b8bc2259a2e3089
+    spriteID: 8aa8c676bcbd4224a823cd4031063f6b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2232,7 +2232,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: c3d98f56d81ea7d45b3194896bfa6f72
+    spriteID: b49d8e2d5dd0760489953a5695281bc8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2252,7 +2252,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: e88fccd1c15d7f0488e0ac82a577f36f
+    spriteID: b2843d15931f686419b874d75cdc96d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2272,7 +2272,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: a5e6c8cea031e7946817c70b2f3e7cef
+    spriteID: eef6cbefce978e34c8bebebf81a56dbc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2292,7 +2292,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 2fa481828b69c654e8b105ee1069acbb
+    spriteID: f45e406c3fc112942bf5d9bc4837ec81
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2312,7 +2312,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: a2bfe6988e3555545bd1234b9cdebb1f
+    spriteID: a0f63040e050d0846b51befb1dfbac66
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2332,7 +2332,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 735690af5bd461540ad4778984c82bb2
+    spriteID: d9c6e3c36effb564185faf51a7f23c94
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2352,7 +2352,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 1863144f1c52d3f45aa43fe0514bfc9c
+    spriteID: 6f51a5fc7c1b8ca4594e2c9104e95f8f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2372,7 +2372,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 84751d8644085be45bb329e2ea768a24
+    spriteID: 990dd2307dc259b4294fbb5c4abdfa81
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2392,7 +2392,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 6b5c2b3510d787d4ab7875bab9fafd77
+    spriteID: 7b729a1be720a514b866389b1c632732
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2412,7 +2412,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: c8a6e3e8cb7adee449693bbc75c5f98b
+    spriteID: 4b92e246c7a10c944b3e956401fbb0d1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2432,7 +2432,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 30eba7d4c99ba1b458da8183c672e1c8
+    spriteID: 14098e3e27ce32d49bce26970678c51f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2452,7 +2452,7 @@ ScriptedImporter:
       y: 1092
       width: 288
       height: 128
-    spriteID: 413b5ee17bfce5247be105c11edbf49b
+    spriteID: 22e07344519af4f4b9dc3e83e2d5ff22
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2472,7 +2472,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: ef563273e4143a846ac6ec99a785f40e
+    spriteID: 4221039b03d16a94fb92ff03ea0370ae
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2492,7 +2492,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: f340118f6a2e53a4ca9599d6a9f30a45
+    spriteID: 58689ea4dd67f8648bc0f9dca0f4947e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2512,7 +2512,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: d58f5461367ba2944a5b5af13ec5d395
+    spriteID: 8bca998eec2b7ad44938f8cf3281ebfd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2532,7 +2532,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: 61484f655d3067144b6238fe0fa15b3f
+    spriteID: d9d71a53016f5c141b61d2389db58a8c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2552,7 +2552,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: e7053c805122f324eb481ce52bdb122c
+    spriteID: 014ae9616e334fd4ea2e4f6264276343
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2572,7 +2572,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: 13b31490849ceb641a912af3defcf60e
+    spriteID: 49a3859e753152349a8129f7f30c9351
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2592,7 +2592,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: fd04ff89b8ee28443b5e23d435ea6195
+    spriteID: 80e0c822bfee497418b4e7826a1c9126
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2612,7 +2612,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: e40aaeaad93930f44a2015555fc5a598
+    spriteID: 6797611d3910c6a45987aa3645ce1d23
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2632,7 +2632,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: 3f010561de410784e8aaf95b6fda9356
+    spriteID: 2c62cfb41cea855439ac627755442a4e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2652,7 +2652,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: afa6519e19c69a145a65eb64fee35775
+    spriteID: ccfd59bbd77e25940a6d0130c68c93b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2672,7 +2672,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: 56f12d65e0b23314a9a30d66d515b8fd
+    spriteID: 1441e567bc4d53a448a88feb1a5c6062
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2692,7 +2692,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: 1f883a03d2ff4ba4bb540d00865f20cc
+    spriteID: bb0028d2a7151e74995abc8293f927fe
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2712,7 +2712,7 @@ ScriptedImporter:
       y: 1228
       width: 288
       height: 128
-    spriteID: fb89f0f4b45037f4f9ca4733bfeb9a2e
+    spriteID: f10429f0678534940b821218fbc02319
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2732,7 +2732,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: b4ba299dca4284d45848a2c0db480f45
+    spriteID: fb7eca4029dfafa41b5d331218e6f32d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2752,7 +2752,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: e344a34b5ae63c04dbf9f1d58de801d4
+    spriteID: 594b8d912873b9f49868c48b76f41606
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2772,7 +2772,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: 0ea6de341e01f594fab42d4a6469dfc6
+    spriteID: 7539c511ac7501945b5b1c46c4728fda
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2792,7 +2792,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: 14550614cbe6e8d42b061050a796073b
+    spriteID: 0faa2b8f2c4b6b84ea5cf77b18440599
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2812,7 +2812,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: cdb38abe5cba3834f8aa191cb091ba6f
+    spriteID: c97c110ab82dc1141b6d72bdd2d2ac14
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2832,7 +2832,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: 1100ccacc0e8a4d449bcde8689479180
+    spriteID: 32536d3919f3dfe41b79abdecf291743
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2852,7 +2852,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: 48d704a86aa3b1e448d55541dc9e126f
+    spriteID: 42300510b93299a4f8dd7025e4cb00b6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2872,7 +2872,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: de8209e12d4e3c54ca1e695a91282ee8
+    spriteID: 694ada66e8b71fb4195d0c663a3aa423
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2892,7 +2892,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: dc6d350dd34c9df40b6e53f28928b8cf
+    spriteID: 4bf872731e7a2dc4c8f6856a81dc8192
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2912,7 +2912,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: 575117e17edf6d745a76dbd29b0e04b1
+    spriteID: 5da536ead67056541a45beedc21a0fdf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2932,7 +2932,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: 3e35c460c9718994fae0dc0cd155732a
+    spriteID: 40ac1360f5e92e84ca7afbfff672e737
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2952,7 +2952,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: fbac1f1b9b13feb448c64648d491b402
+    spriteID: 74360567493b4104daeffeb1d4f2483b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2972,7 +2972,7 @@ ScriptedImporter:
       y: 1364
       width: 288
       height: 128
-    spriteID: abf1c4bcc3be94049a482b4f003931c0
+    spriteID: 9ca2e2c600775e54b821f77328c29112
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2992,7 +2992,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: dbabce8c9caf7104a8db041187ce5c6a
+    spriteID: ebdc87ced9cc75c46a8d5e7a7b5c409d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3012,7 +3012,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: c41134b572a458441ac85a73cf1b152d
+    spriteID: a5ff9739dfcf09e48af069483ef688ac
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3032,7 +3032,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: d07931619f784c742b83caac1a9745aa
+    spriteID: 48caf4f0526889843b9e08cc4d6cc644
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3052,7 +3052,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: 7c145591d9fe831478e44c1954cf56f5
+    spriteID: 2bdb0ed4e9a5ad741bf53e0359ce0271
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3072,7 +3072,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: d670bb6452cc4d347b3e924bd94c0792
+    spriteID: f68a3ebb1d903b24db13b991a8fcdfac
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3092,7 +3092,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: 13d4080b3e87cab41a5ddf0412caae15
+    spriteID: 36cf4c560eeb7534f8c6f46e2fc0ccbf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3112,7 +3112,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: ba9c46c487549894bb63fd56160c2058
+    spriteID: 39eded8245501c34b9c8414e00ef2466
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3132,7 +3132,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: f39d2ffda7f28b846b43d2664227ec16
+    spriteID: d48967d3f09e1cd4abf9995735d075cd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3152,7 +3152,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: 44c0475c002bc2e4887f0495e5ce35f2
+    spriteID: 54e78fdd7b793334b8177c3a13e245e9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3172,7 +3172,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: b5694658892f44242a0f8a29b090b206
+    spriteID: 123489acb745f334fb66f30c70ff8179
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3192,7 +3192,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: f3bf3df362e8a9448a30c782c815dfa7
+    spriteID: 9b7230c5e7e0ea143b3f869910530cb3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3212,7 +3212,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: 28420a778d408ea449f1457991449236
+    spriteID: 167c6907f3a65344595eac4927abfacc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3232,7 +3232,7 @@ ScriptedImporter:
       y: 1500
       width: 288
       height: 128
-    spriteID: da83ec8a71655c14e9360fc30135d6e1
+    spriteID: b44eabeb9a06081468adad90c45041a8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3252,7 +3252,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: b64f01a0280cf0d4c9b9156cb5e4d949
+    spriteID: af0b533006ee51b43be3cbe2089898ec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3272,7 +3272,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 45b10f1f2ed09f74a8ef03dcaacc2a23
+    spriteID: a4592e9b2e476a84f8fbc7fcb2dc1377
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3292,7 +3292,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 858991638307986449811b9a77966f86
+    spriteID: 0aef48eb9c0e63b4884a0cfef17eb049
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3312,7 +3312,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: f609925f907ad434f8d373bac359a5c0
+    spriteID: 486904a0820667b41a9683dfb63eb6c9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3332,7 +3332,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 3e3057fe35dc1754b9b13d534464fc32
+    spriteID: fadba6c8aa2e6dc4e875f6a0616bb09a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3352,7 +3352,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 9b7f18efa9a5b6c42aa3c74c4319471c
+    spriteID: 6f4378879a7fd0a4aa5740d39333cb3f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3372,7 +3372,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 5901b61770e3e474a8271e074cf8c813
+    spriteID: 1b1f65d7f1c35e24d8ea76bfee871645
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3392,7 +3392,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 2675a1af279872d4d9a75fc63357bccd
+    spriteID: a1637c0cc9fbd594293120fdc051d88c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3412,7 +3412,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 9e5566bf3aacb7340ae0fdbabc7a9680
+    spriteID: 81e1f328c7a328b48a9d0918a9fb93d0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3432,7 +3432,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 88c23cbec6c2d58439a0442cab6b1c4d
+    spriteID: 41a12521f1cd7a448b0b89d2407cb20d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3452,7 +3452,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 285e657e80ac4c34dbcb37d37e34a9f1
+    spriteID: 530f378a6f7b3f14ba64088933c74f07
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3472,7 +3472,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 927afeccdbfd7714aa62aa9273b99297
+    spriteID: b5d77466767e8a54c82671cbb88abc3f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3492,7 +3492,7 @@ ScriptedImporter:
       y: 1636
       width: 288
       height: 128
-    spriteID: 48bfaa2a33493db4dade92309d6e6f20
+    spriteID: ba05e19aea73e2a459a87e95216bc4bc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3512,7 +3512,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 1a5950f402728b34ba8c904c5c5df4f6
+    spriteID: 31fddc36387437c4281200716ef7960b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3532,7 +3532,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 92b3ee9bd68ee594db59ae604839b77e
+    spriteID: b0c7fdf0fde57e842af79ae2a7af2277
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3552,7 +3552,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 191d16941a2abc148a3acfb75a57398e
+    spriteID: 8d5e6ae886fc28444b249fe4c5020e94
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3572,7 +3572,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 05995871a16db3e488d2f03cc1cf8dc5
+    spriteID: 3309b2ed19c5b414081c59ab995d563c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3592,7 +3592,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: a18ebb202732d4548921a7a01a0f9944
+    spriteID: fa72045221dc31347bd7586ffc55e87d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3612,7 +3612,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 25b40a9b0f44ab54a89e3e99da24b542
+    spriteID: 1c60d8ddffa261b438b73956161f127b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3632,7 +3632,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 2412d50e91b6ba448875ba556c3be172
+    spriteID: 3a7d9bab576106a408d762da77eb9464
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3652,7 +3652,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 5c27f6757dd3a6e4ba97fdbca85f7998
+    spriteID: b621050833e82174ca4746e1109b2b4c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3672,7 +3672,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: d1b310b3eedb29b43bda08ceddf6ae57
+    spriteID: fccebd014e2aa724baf97400a2960643
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3692,7 +3692,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 812b946d76b312e4ebf4abc9e64f504e
+    spriteID: 035fb13c62e5ba648bac9fb15b6f7db7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3712,7 +3712,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: b2eb5c1d29adb6f4387b33b052a5239c
+    spriteID: c495bb10d75967c459186393fcab7eab
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3732,7 +3732,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 174359a532390244d9aef47f30f5c7b3
+    spriteID: 20b1c240e6662954e9ba2b38bef9c260
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3752,7 +3752,7 @@ ScriptedImporter:
       y: 1772
       width: 288
       height: 128
-    spriteID: 24b4dafc513666d47b1e4bbf2fede654
+    spriteID: 09d346d53d461ea4e9d65499ee1f9cec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3772,7 +3772,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 50cddaf15bcf3fa489f408c57428d29a
+    spriteID: 2aee73b63ffa79844b476f9e0bd909b9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3792,7 +3792,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 45ffef3d1e922f94c9320ac297ff6cbb
+    spriteID: d273e9defd414224db9d52505a28da77
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3812,7 +3812,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 1ea28a4f47d4504448b9bf1f2460300a
+    spriteID: be0181da6ca940a4b9b8c98b0b3ea768
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3832,7 +3832,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: cf98c6130b2af414d8e025f348fe54c5
+    spriteID: d78e8e152c5b5e2439535f75cc402345
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3852,7 +3852,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 7d0ca1a5a8c30514899bafa2f74516db
+    spriteID: 671836c9ace666a40b5b32e2203de75c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3872,7 +3872,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 3db42b72e3e766848a8d628df0f83bc5
+    spriteID: a1d73d7b99fb387428175260f235d650
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3892,7 +3892,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 7803f717a5556994e9c21568921e1748
+    spriteID: 1e8766dd42dfe424f8a2fab94aa34a3c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3912,7 +3912,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 6d0ba7bf631f04a42a00a7bf8aa8bde8
+    spriteID: cd19b54328c5e804d9dc85e0a152eb67
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3932,7 +3932,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 87f7ad7153be3c34391976da8a99d667
+    spriteID: 2b7a073127c354947ab628c822b2e513
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3952,7 +3952,7 @@ ScriptedImporter:
       y: 1908
       width: 288
       height: 128
-    spriteID: 3969cb1f4b959be4abc5dc319478fe62
+    spriteID: 0d9f09a83c511c8479adfa6da6ae2287
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -3977,7 +3977,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6bf7008c827a2d845a84e06249fedf35
+      spriteId: c165f24ca8475ae428aafdf7555476bb
     - name: water_priestess_FREE_v1.1_Frame_1
       frameIndex: 1
       cellRect:
@@ -3985,7 +3985,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: efb9bad21da391e48a3a2abb86ed35d1
+      spriteId: 485623951e7bd24408e33f0b97fe65e0
     - name: water_priestess_FREE_v1.1_Frame_2
       frameIndex: 2
       cellRect:
@@ -3993,7 +3993,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 423e4396cd83b61468282b93ab737ceb
+      spriteId: 56de136941bb46941aaba265a22b87d7
     - name: water_priestess_FREE_v1.1_Frame_3
       frameIndex: 3
       cellRect:
@@ -4001,7 +4001,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 020a6e70164e6db4fb4c4feefc0b710d
+      spriteId: d8884ad4b3687884abc264201fdf02fc
     - name: water_priestess_FREE_v1.1_Frame_4
       frameIndex: 4
       cellRect:
@@ -4009,7 +4009,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: c56e0b3375a63114998ef04639e1de02
+      spriteId: 3c65441a436570c418a794214db8581e
     - name: water_priestess_FREE_v1.1_Frame_5
       frameIndex: 5
       cellRect:
@@ -4017,7 +4017,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 0f0d7c318f1065f4f994ff3dfef8623e
+      spriteId: 1e02e0b558dd2344aa128ef95993daa7
     - name: water_priestess_FREE_v1.1_Frame_6
       frameIndex: 6
       cellRect:
@@ -4025,7 +4025,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 809e6f7d2ef2d6d45a42535b0ef39257
+      spriteId: 530b2cf4e12591a49bc6339f036db375
     - name: water_priestess_FREE_v1.1_Frame_7
       frameIndex: 7
       cellRect:
@@ -4033,7 +4033,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 2e8c6bacdd0995c438cc0f664c50a79a
+      spriteId: e60a2ff2d30bcca4882af8a4e2205536
     - name: water_priestess_FREE_v1.1_Frame_8
       frameIndex: 8
       cellRect:
@@ -4041,7 +4041,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: afb99e59a2771c941b44b2d2b5852f13
+      spriteId: bfd43b9b37fa7b14d8978994d87de555
     - name: water_priestess_FREE_v1.1_Frame_9
       frameIndex: 9
       cellRect:
@@ -4049,7 +4049,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f7fa8ec0d0a6b9e4595a453a24a3d233
+      spriteId: 585c34a54a2d1bc4f9627fd9f916cd2b
     - name: water_priestess_FREE_v1.1_Frame_10
       frameIndex: 10
       cellRect:
@@ -4057,7 +4057,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 933bf0f83ae566f4fa71547089d436cf
+      spriteId: df4ee72a0abd1034c9116e9be39f080e
     - name: water_priestess_FREE_v1.1_Frame_11
       frameIndex: 11
       cellRect:
@@ -4065,7 +4065,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 5f7fcf125b2918849843e01beb1d9dcb
+      spriteId: 767c82e1e171a9b4d98e73167e76a09b
     - name: water_priestess_FREE_v1.1_Frame_12
       frameIndex: 12
       cellRect:
@@ -4073,7 +4073,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 516fb8874f4ccc349ac2dcf165438160
+      spriteId: faeb41fca5743ee4bb9b6eb3e31b4f74
     - name: water_priestess_FREE_v1.1_Frame_13
       frameIndex: 13
       cellRect:
@@ -4081,7 +4081,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 0d29dc7cbaafbba4490aa223bd2835e6
+      spriteId: acad7d4ac886a514881c5ac1f679c319
     - name: water_priestess_FREE_v1.1_Frame_14
       frameIndex: 14
       cellRect:
@@ -4089,7 +4089,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 529e12731d139774f919269860b6e2a9
+      spriteId: 37bddacf854ce5d449f544956cc0062c
     - name: water_priestess_FREE_v1.1_Frame_15
       frameIndex: 15
       cellRect:
@@ -4097,7 +4097,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 3d32744d39e831c4cb5be966da31c0fb
+      spriteId: 7d6798e1696247946856f1977c23effc
     - name: water_priestess_FREE_v1.1_Frame_16
       frameIndex: 16
       cellRect:
@@ -4105,7 +4105,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: a9218c282d4fc49458e0d491c082207c
+      spriteId: d7da7a692545eca4cbfe7a1e4f466484
     - name: water_priestess_FREE_v1.1_Frame_17
       frameIndex: 17
       cellRect:
@@ -4113,7 +4113,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: a4e46c59750bde748ac05936245d07fb
+      spriteId: 8b2c58f3693f75f41b679b36d7d7c3cc
     - name: water_priestess_FREE_v1.1_Frame_18
       frameIndex: 18
       cellRect:
@@ -4121,7 +4121,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6036996f72c424b469b57eed4d6ddb14
+      spriteId: a1fc81750c73eea44b3178323376036e
     - name: water_priestess_FREE_v1.1_Frame_19
       frameIndex: 19
       cellRect:
@@ -4129,7 +4129,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: fb8848bddf9961e4f92522cc93b3894e
+      spriteId: 311f4da1833bbe84ab5fdec109ee3f2f
     - name: water_priestess_FREE_v1.1_Frame_20
       frameIndex: 20
       cellRect:
@@ -4137,7 +4137,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: db8ad8b7cc2b1d24fb140b182798b22f
+      spriteId: b2fdd92faf7a1d646b16307cc1643b29
     - name: water_priestess_FREE_v1.1_Frame_21
       frameIndex: 21
       cellRect:
@@ -4145,7 +4145,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: babbe33f51f60fd4ca4fe13bfc7fd1df
+      spriteId: ef7a5f7af93430345951f46ff982efb8
     - name: water_priestess_FREE_v1.1_Frame_22
       frameIndex: 22
       cellRect:
@@ -4153,7 +4153,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 61ff9e0347d613d46815c4cd86dfa2a3
+      spriteId: 1210e7e860f860549bfc34d6ed50e253
     - name: water_priestess_FREE_v1.1_Frame_23
       frameIndex: 23
       cellRect:
@@ -4161,7 +4161,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b364e8853dd8cd54784164753a5c5f4d
+      spriteId: 93cfe85322486b54eaf3f5bbbf8e9e19
     - name: water_priestess_FREE_v1.1_Frame_24
       frameIndex: 24
       cellRect:
@@ -4169,7 +4169,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6789a494b84a7424faeab17961314465
+      spriteId: eb37050a13ca09149abbbbdb922574cb
     - name: water_priestess_FREE_v1.1_Frame_25
       frameIndex: 25
       cellRect:
@@ -4177,7 +4177,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 82f9ef650b9bfad418e930fe9ee63344
+      spriteId: fd6da78fa12d3d747869f1caa87568d4
     - name: water_priestess_FREE_v1.1_Frame_26
       frameIndex: 26
       cellRect:
@@ -4185,7 +4185,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 389987b3d277cc34ab5f234235e1322a
+      spriteId: 8a6410659d2740d4f9de2b98a90e6dc9
     - name: water_priestess_FREE_v1.1_Frame_27
       frameIndex: 27
       cellRect:
@@ -4193,7 +4193,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d9768a17486b0c040aae3adb1f4dcd49
+      spriteId: cc0bc5ef63d9ffc43bb01628c55e04df
     - name: water_priestess_FREE_v1.1_Frame_28
       frameIndex: 28
       cellRect:
@@ -4201,7 +4201,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d9413282aed8eaf448154cc1446232b4
+      spriteId: 185f333db1cdf2149a6d9814e7de9205
     - name: water_priestess_FREE_v1.1_Frame_29
       frameIndex: 29
       cellRect:
@@ -4209,7 +4209,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 35ce90d0e663d7f44af4c2cbbb347832
+      spriteId: a3ccc3827fed1764485978525cc34b07
     - name: water_priestess_FREE_v1.1_Frame_30
       frameIndex: 30
       cellRect:
@@ -4217,7 +4217,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 0239bf7c0be62f14b9e429360d227599
+      spriteId: 2b09ba0dec7023b4eacf88ac62a6c759
     - name: water_priestess_FREE_v1.1_Frame_31
       frameIndex: 31
       cellRect:
@@ -4225,7 +4225,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 950f5e6b3cf0ed94684e000a6748af76
+      spriteId: 931acca3e68284f408b71e87eec45bb4
     - name: water_priestess_FREE_v1.1_Frame_32
       frameIndex: 32
       cellRect:
@@ -4233,7 +4233,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 0d4ca92ad6749294db5cc50fcce9fae1
+      spriteId: 989f546cfdcdf34478a1cf783223c381
     - name: water_priestess_FREE_v1.1_Frame_33
       frameIndex: 33
       cellRect:
@@ -4241,7 +4241,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6eef596b62e52fd40be21d16b1f48923
+      spriteId: ff3ef3ad3e99caa48a7277bfe96e8910
     - name: water_priestess_FREE_v1.1_Frame_34
       frameIndex: 34
       cellRect:
@@ -4249,7 +4249,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 083287057f9ce194aa319fe279d05ad5
+      spriteId: ec5b25fa6cffd0a43bb93264a27972a7
     - name: water_priestess_FREE_v1.1_Frame_35
       frameIndex: 35
       cellRect:
@@ -4257,7 +4257,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: dec22dbc6b873154bb7ee8b1eeb8324e
+      spriteId: 36195411bc5e526488e0e1f941a9ddbc
     - name: water_priestess_FREE_v1.1_Frame_36
       frameIndex: 36
       cellRect:
@@ -4265,7 +4265,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 457ae5c48b6781a41bd2b7fc45f3010e
+      spriteId: dbc0dac654b203e4e9ac7f0a79f3af08
     - name: water_priestess_FREE_v1.1_Frame_37
       frameIndex: 37
       cellRect:
@@ -4273,7 +4273,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 3a5dfcff78ad0964db699dfc505d3d89
+      spriteId: 50978a345f87d944da2841c69b3971bb
     - name: water_priestess_FREE_v1.1_Frame_38
       frameIndex: 38
       cellRect:
@@ -4281,7 +4281,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 303f67230d734484b9900d4d72ce3328
+      spriteId: 26ba31fe774c4454baf8e4b3c09e8284
     - name: water_priestess_FREE_v1.1_Frame_39
       frameIndex: 39
       cellRect:
@@ -4289,7 +4289,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1c5d03c708512094ba7ce39133307b0a
+      spriteId: 1abf72c1a2c7c7b4489f8fedf47a64b7
     - name: water_priestess_FREE_v1.1_Frame_40
       frameIndex: 40
       cellRect:
@@ -4297,7 +4297,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: db8355f631e0f104eb377d667043fbbb
+      spriteId: 58f48d80117525349926fac4637eeec4
     - name: water_priestess_FREE_v1.1_Frame_41
       frameIndex: 41
       cellRect:
@@ -4305,7 +4305,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: cc713810a22d32248ae3cf6e16fece6d
+      spriteId: ddfd6842b36e21448a66af9594d69c6d
     - name: water_priestess_FREE_v1.1_Frame_42
       frameIndex: 42
       cellRect:
@@ -4313,7 +4313,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 658eec0fb3ef28349af0607f688290ec
+      spriteId: b311674733099d448a8719ba3c0463d6
     - name: water_priestess_FREE_v1.1_Frame_43
       frameIndex: 43
       cellRect:
@@ -4321,7 +4321,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 381384bc8346bbb49b4dece9012374fb
+      spriteId: 1737e6823599532449a895406f355125
     - name: water_priestess_FREE_v1.1_Frame_44
       frameIndex: 44
       cellRect:
@@ -4329,7 +4329,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 68ff6a61888d2f44dbb813e60de1ed56
+      spriteId: 032947d3dec41584783c1fc3956d9e3b
     - name: water_priestess_FREE_v1.1_Frame_45
       frameIndex: 45
       cellRect:
@@ -4337,7 +4337,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6169908b73ee8ec4b867ecaa33a75c16
+      spriteId: 5e2a59f532a846440b1fd6b7b8f1b8cc
     - name: water_priestess_FREE_v1.1_Frame_46
       frameIndex: 46
       cellRect:
@@ -4345,7 +4345,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 86a34fe9a76ed5c47988425d57e0c84e
+      spriteId: 4dcd049a6aaed194da27a2483062e717
     - name: water_priestess_FREE_v1.1_Frame_47
       frameIndex: 47
       cellRect:
@@ -4353,7 +4353,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 4395bff615bfdea439fa87e618b517c1
+      spriteId: 8b093936ec6f6124a92534102a82edac
     - name: water_priestess_FREE_v1.1_Frame_48
       frameIndex: 48
       cellRect:
@@ -4361,7 +4361,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d3a5da61c46e50948ae364f62147d582
+      spriteId: c0e8c55f1c216ea4bb7b37ff30aad3b2
     - name: water_priestess_FREE_v1.1_Frame_49
       frameIndex: 49
       cellRect:
@@ -4369,7 +4369,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f428d1500f302734ba5d8eb4a307274b
+      spriteId: 62f6485927d8753488df7d50c23daf0e
     - name: water_priestess_FREE_v1.1_Frame_50
       frameIndex: 50
       cellRect:
@@ -4377,7 +4377,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 85f838f728a2e9a499dee7319139c47e
+      spriteId: e399a2aa15666e442ab44ce73b6af32d
     - name: water_priestess_FREE_v1.1_Frame_51
       frameIndex: 51
       cellRect:
@@ -4385,7 +4385,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 163328a6cb1873048916060499958e13
+      spriteId: 70228e65b0d587441b7cae57398f0336
     - name: water_priestess_FREE_v1.1_Frame_52
       frameIndex: 52
       cellRect:
@@ -4393,7 +4393,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 9761c847f1623424584796196e7d7731
+      spriteId: 35ffd611281e1534eab28c8fe0aa871a
     - name: water_priestess_FREE_v1.1_Frame_53
       frameIndex: 53
       cellRect:
@@ -4401,7 +4401,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: ef8b606b8eda8d04083a19c28b66ad06
+      spriteId: ce7e2083ceea1bb47aec2e77a8c7bf95
     - name: water_priestess_FREE_v1.1_Frame_54
       frameIndex: 54
       cellRect:
@@ -4409,7 +4409,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: e659f311c42924e4cbf42121871daaca
+      spriteId: fa41bceefeaeac44087d482a26c2cd0c
     - name: water_priestess_FREE_v1.1_Frame_55
       frameIndex: 55
       cellRect:
@@ -4417,7 +4417,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: dad0738545252cd48a5bf1f59d727696
+      spriteId: 193a2b77c1c1a36438a67125e7055b2b
     - name: water_priestess_FREE_v1.1_Frame_56
       frameIndex: 56
       cellRect:
@@ -4425,7 +4425,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: e2e058c115283ae418e7617867ca2b95
+      spriteId: ca6be06392f0d5c45865f7f6f90aa066
     - name: water_priestess_FREE_v1.1_Frame_57
       frameIndex: 57
       cellRect:
@@ -4433,7 +4433,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1f7890d050e55cd4bb93bd3da0a971ea
+      spriteId: ca57a9b8739c5184da7df3dfa3f0dac2
     - name: water_priestess_FREE_v1.1_Frame_58
       frameIndex: 58
       cellRect:
@@ -4441,7 +4441,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b546c61efda223847bfbb774a2964f58
+      spriteId: cf93741242dfe164cb8a2012ff220233
     - name: water_priestess_FREE_v1.1_Frame_59
       frameIndex: 59
       cellRect:
@@ -4449,7 +4449,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 5ac0fa52c5ba996409a6278a1d831c71
+      spriteId: 142984dc928a3354fa03f36fa56094de
     - name: water_priestess_FREE_v1.1_Frame_60
       frameIndex: 60
       cellRect:
@@ -4457,7 +4457,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 26c300bad5c2b9944ae472e581ce51a0
+      spriteId: 03399fd82ccec0b47aec4d34eadcc0c4
     - name: water_priestess_FREE_v1.1_Frame_61
       frameIndex: 61
       cellRect:
@@ -4465,7 +4465,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 2631561b42f711548a3c7b406eace8cf
+      spriteId: ef672cd34c2ae2c40879b69394416f22
     - name: water_priestess_FREE_v1.1_Frame_62
       frameIndex: 62
       cellRect:
@@ -4473,7 +4473,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: dd861ac7835d42941bcc5c146a30f90e
+      spriteId: d3532d742987af34b9345623750649fc
     - name: water_priestess_FREE_v1.1_Frame_63
       frameIndex: 63
       cellRect:
@@ -4481,7 +4481,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f117374404491f24ebce91c6a374b694
+      spriteId: efa79ac3edb754c458be843d5da9c826
     - name: water_priestess_FREE_v1.1_Frame_64
       frameIndex: 64
       cellRect:
@@ -4489,7 +4489,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f3ef228a9c318b34480c23dc05198dd1
+      spriteId: 5fb1d6b194336954e86f2a55a4685e99
     - name: water_priestess_FREE_v1.1_Frame_65
       frameIndex: 65
       cellRect:
@@ -4497,7 +4497,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 575933b5766fec04f83f8a9a136e184a
+      spriteId: c2ffe7417d70e7845b6851ea5842dbf2
     - name: water_priestess_FREE_v1.1_Frame_66
       frameIndex: 66
       cellRect:
@@ -4505,7 +4505,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 44551aeb069ebc04d976cb5b806d4341
+      spriteId: 61f51e3f87b5aa54197c83005a5beb43
     - name: water_priestess_FREE_v1.1_Frame_67
       frameIndex: 67
       cellRect:
@@ -4513,7 +4513,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 7b369a38efe05104b97b79c7d5ba3808
+      spriteId: 85233f9f36ba87f4bb02acbc83b213bb
     - name: water_priestess_FREE_v1.1_Frame_68
       frameIndex: 68
       cellRect:
@@ -4521,7 +4521,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 19f11b279edb1e645916e615048fd764
+      spriteId: 2c547d386605a344b9d9ac0ca0b0d462
     - name: water_priestess_FREE_v1.1_Frame_69
       frameIndex: 69
       cellRect:
@@ -4529,7 +4529,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 10cdccd3407a5494ba555c9c24316cc3
+      spriteId: fd4d2d44248555b4ca15953f65a1c0ff
     - name: water_priestess_FREE_v1.1_Frame_70
       frameIndex: 70
       cellRect:
@@ -4537,7 +4537,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 2a7a555a8b221c94ca72e68e80d9490c
+      spriteId: 26a34849fe54df24783ddedceb5d8c40
     - name: water_priestess_FREE_v1.1_Frame_71
       frameIndex: 71
       cellRect:
@@ -4545,7 +4545,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 225407d06ff6318448ff9636a70f5961
+      spriteId: c96c6494a9dd8fd409b3b073aa58605c
     - name: water_priestess_FREE_v1.1_Frame_72
       frameIndex: 72
       cellRect:
@@ -4553,7 +4553,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f73ccbd12b16110438a82c2db517719c
+      spriteId: baa2db0be8263cb418ba2934655c6dae
     - name: water_priestess_FREE_v1.1_Frame_73
       frameIndex: 73
       cellRect:
@@ -4561,7 +4561,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1df5afaa90f8f9143816271b66cfcd65
+      spriteId: ab8152beee9a76244a4468de697b1a8f
     - name: water_priestess_FREE_v1.1_Frame_74
       frameIndex: 74
       cellRect:
@@ -4569,7 +4569,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: c512782fbbcd01049876ddde06b856b2
+      spriteId: a99da943004b2c345803d890f59e9fab
     - name: water_priestess_FREE_v1.1_Frame_75
       frameIndex: 75
       cellRect:
@@ -4577,7 +4577,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 2c4bf65877bf264449c8d0d525c55565
+      spriteId: 29bd5c3e47994c748bb89e759a23f51d
     - name: water_priestess_FREE_v1.1_Frame_76
       frameIndex: 76
       cellRect:
@@ -4585,7 +4585,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 197e4eaed5fc5a442963724a745f4b49
+      spriteId: 32e00799fca2a114c81f72ce5f865015
     - name: water_priestess_FREE_v1.1_Frame_77
       frameIndex: 77
       cellRect:
@@ -4593,7 +4593,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 028fc5bcc5387414a9f4c54fbd20a6fd
+      spriteId: f63dcaefba9f0e94290b3f113da1a431
     - name: water_priestess_FREE_v1.1_Frame_78
       frameIndex: 78
       cellRect:
@@ -4601,7 +4601,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d1472337d989e114a8e5aa16f7a05e78
+      spriteId: ee051aafeb35f2549b613140e73de314
     - name: water_priestess_FREE_v1.1_Frame_79
       frameIndex: 79
       cellRect:
@@ -4609,7 +4609,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: bb638d880a38aa94cb620e0d523422ad
+      spriteId: ea023528bcc35fb4dbc58fde115891c1
     - name: water_priestess_FREE_v1.1_Frame_80
       frameIndex: 80
       cellRect:
@@ -4617,7 +4617,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 9398b88969e71334cb164b46c75b6007
+      spriteId: e42321a63befb61409505a9a18e4e6f8
     - name: water_priestess_FREE_v1.1_Frame_81
       frameIndex: 81
       cellRect:
@@ -4625,7 +4625,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b793453fca7116042b3b35a9b4d98fb5
+      spriteId: 174dd940eb17bd54ba7946607aa479da
     - name: water_priestess_FREE_v1.1_Frame_82
       frameIndex: 82
       cellRect:
@@ -4633,7 +4633,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 0451dc589ca7cad498a9c2a4f36f4899
+      spriteId: bfabd962285cc724f9381309ee569cc1
     - name: water_priestess_FREE_v1.1_Frame_83
       frameIndex: 83
       cellRect:
@@ -4641,7 +4641,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: ac2c41d593588894f9f867589a03afe5
+      spriteId: 30f08d366c2fb42498afd7337bc6ebe5
     - name: water_priestess_FREE_v1.1_Frame_84
       frameIndex: 84
       cellRect:
@@ -4649,7 +4649,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 4d9126a75bc274f4cb5540fe82db0522
+      spriteId: 2f802527bbbdfad4994aa50849e3d00b
     - name: water_priestess_FREE_v1.1_Frame_85
       frameIndex: 85
       cellRect:
@@ -4657,7 +4657,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 48ac3dc9abe4efc4ba2c8ad89327d2de
+      spriteId: 825756cb658bd844394b8ddcc8ab6391
     - name: water_priestess_FREE_v1.1_Frame_86
       frameIndex: 86
       cellRect:
@@ -4665,7 +4665,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 827cfd0cbce630746815ff24d3305839
+      spriteId: 9b86149d633747e4b92bcc17a0665ba7
     - name: water_priestess_FREE_v1.1_Frame_87
       frameIndex: 87
       cellRect:
@@ -4673,7 +4673,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 560dfbc99d552424182dd186c9bf5cf9
+      spriteId: 86205e8294a4179488c376b28a806bd1
     - name: water_priestess_FREE_v1.1_Frame_88
       frameIndex: 88
       cellRect:
@@ -4681,7 +4681,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: bb939c50471057b45a3d93443e4f629c
+      spriteId: 43304481c69d08940b104c9d945d9f44
     - name: water_priestess_FREE_v1.1_Frame_89
       frameIndex: 89
       cellRect:
@@ -4689,7 +4689,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 7730bfdb67a73f146a7f6e8199752cf1
+      spriteId: a3069e94ac788364383e4b6b3934933a
     - name: water_priestess_FREE_v1.1_Frame_90
       frameIndex: 90
       cellRect:
@@ -4697,7 +4697,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: a50ea89efdac27749aedafcfa499ccb1
+      spriteId: 8f419a1d0538d7a46a48b22c90e96221
     - name: water_priestess_FREE_v1.1_Frame_91
       frameIndex: 91
       cellRect:
@@ -4705,7 +4705,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 14fcca5570a0f304eb67d901048dae9f
+      spriteId: c046d5ceb4a692e4d98a6523e394edc3
     - name: water_priestess_FREE_v1.1_Frame_92
       frameIndex: 92
       cellRect:
@@ -4713,7 +4713,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 40281af1fa34a6140a454654c556303a
+      spriteId: a6cc7f5aee310cf4a96acaa43d42f98e
     - name: water_priestess_FREE_v1.1_Frame_93
       frameIndex: 93
       cellRect:
@@ -4721,7 +4721,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b6d8ea57876e26b4981915f23947e8ea
+      spriteId: 6f741f54232f91a48ad9eb79b4537ec8
     - name: water_priestess_FREE_v1.1_Frame_94
       frameIndex: 94
       cellRect:
@@ -4729,7 +4729,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6f1e0b447b97dcb43ab1ac1c5c6f3225
+      spriteId: 38691d385548b624dbb8eda3a5edb1aa
     - name: water_priestess_FREE_v1.1_Frame_95
       frameIndex: 95
       cellRect:
@@ -4737,7 +4737,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 43549c59cd65bfa45af0084ce8f08a0e
+      spriteId: 724954fcaabfa4e4cb3b562d34fddcdf
     - name: water_priestess_FREE_v1.1_Frame_96
       frameIndex: 96
       cellRect:
@@ -4745,7 +4745,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 40e7c3bc31e556a46bbef27ca28f0b9d
+      spriteId: a550d24299c3a9d4db09e236ab4b65fa
     - name: water_priestess_FREE_v1.1_Frame_97
       frameIndex: 97
       cellRect:
@@ -4753,7 +4753,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: de395f3fdfb3259428635cacdf0281fa
+      spriteId: 023c1f4af1bbe5342ad0af4f78332040
     - name: water_priestess_FREE_v1.1_Frame_98
       frameIndex: 98
       cellRect:
@@ -4761,7 +4761,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 57b148afe5f9a2542a6b4d6392c10421
+      spriteId: 355b1791015b534408d01df557b9a9fa
     - name: water_priestess_FREE_v1.1_Frame_99
       frameIndex: 99
       cellRect:
@@ -4769,7 +4769,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 02a1b1dde704bfa47a3a2ffc2987dc5b
+      spriteId: 105eddde5662cb24f8e8e21a836dde08
     - name: water_priestess_FREE_v1.1_Frame_100
       frameIndex: 100
       cellRect:
@@ -4777,7 +4777,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d5867ed0312c04543ad878e16fe23ac7
+      spriteId: aa3f53fd29283cc43a4aa62a04211117
     - name: water_priestess_FREE_v1.1_Frame_101
       frameIndex: 101
       cellRect:
@@ -4785,7 +4785,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 9595d261d31fda24f805f8bacc5d1dbe
+      spriteId: a31f1ea1ff17e384f8431e5df248cb4c
     - name: water_priestess_FREE_v1.1_Frame_102
       frameIndex: 102
       cellRect:
@@ -4793,7 +4793,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: eefca1ce920f2204db3c34e12de17c8a
+      spriteId: ee8daff64b0fd4646a03ebcc0dcf9204
     - name: water_priestess_FREE_v1.1_Frame_103
       frameIndex: 103
       cellRect:
@@ -4801,7 +4801,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: a7b87e67a0f03084894d5dead88073f2
+      spriteId: 452e0b3a52370b046b0d51427e1ee6a1
     - name: water_priestess_FREE_v1.1_Frame_104
       frameIndex: 104
       cellRect:
@@ -4809,7 +4809,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 9e58166945d207946b8bc2259a2e3089
+      spriteId: 8aa8c676bcbd4224a823cd4031063f6b
     - name: water_priestess_FREE_v1.1_Frame_105
       frameIndex: 105
       cellRect:
@@ -4817,7 +4817,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: c3d98f56d81ea7d45b3194896bfa6f72
+      spriteId: b49d8e2d5dd0760489953a5695281bc8
     - name: water_priestess_FREE_v1.1_Frame_106
       frameIndex: 106
       cellRect:
@@ -4825,7 +4825,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: e88fccd1c15d7f0488e0ac82a577f36f
+      spriteId: b2843d15931f686419b874d75cdc96d8
     - name: water_priestess_FREE_v1.1_Frame_107
       frameIndex: 107
       cellRect:
@@ -4833,7 +4833,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: a5e6c8cea031e7946817c70b2f3e7cef
+      spriteId: eef6cbefce978e34c8bebebf81a56dbc
     - name: water_priestess_FREE_v1.1_Frame_108
       frameIndex: 108
       cellRect:
@@ -4841,7 +4841,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 2fa481828b69c654e8b105ee1069acbb
+      spriteId: f45e406c3fc112942bf5d9bc4837ec81
     - name: water_priestess_FREE_v1.1_Frame_109
       frameIndex: 109
       cellRect:
@@ -4849,7 +4849,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: a2bfe6988e3555545bd1234b9cdebb1f
+      spriteId: a0f63040e050d0846b51befb1dfbac66
     - name: water_priestess_FREE_v1.1_Frame_110
       frameIndex: 110
       cellRect:
@@ -4857,7 +4857,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 735690af5bd461540ad4778984c82bb2
+      spriteId: d9c6e3c36effb564185faf51a7f23c94
     - name: water_priestess_FREE_v1.1_Frame_111
       frameIndex: 111
       cellRect:
@@ -4865,7 +4865,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1863144f1c52d3f45aa43fe0514bfc9c
+      spriteId: 6f51a5fc7c1b8ca4594e2c9104e95f8f
     - name: water_priestess_FREE_v1.1_Frame_112
       frameIndex: 112
       cellRect:
@@ -4873,7 +4873,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 84751d8644085be45bb329e2ea768a24
+      spriteId: 990dd2307dc259b4294fbb5c4abdfa81
     - name: water_priestess_FREE_v1.1_Frame_113
       frameIndex: 113
       cellRect:
@@ -4881,7 +4881,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6b5c2b3510d787d4ab7875bab9fafd77
+      spriteId: 7b729a1be720a514b866389b1c632732
     - name: water_priestess_FREE_v1.1_Frame_114
       frameIndex: 114
       cellRect:
@@ -4889,7 +4889,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: c8a6e3e8cb7adee449693bbc75c5f98b
+      spriteId: 4b92e246c7a10c944b3e956401fbb0d1
     - name: water_priestess_FREE_v1.1_Frame_115
       frameIndex: 115
       cellRect:
@@ -4897,7 +4897,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 30eba7d4c99ba1b458da8183c672e1c8
+      spriteId: 14098e3e27ce32d49bce26970678c51f
     - name: water_priestess_FREE_v1.1_Frame_116
       frameIndex: 116
       cellRect:
@@ -4905,7 +4905,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 413b5ee17bfce5247be105c11edbf49b
+      spriteId: 22e07344519af4f4b9dc3e83e2d5ff22
     - name: water_priestess_FREE_v1.1_Frame_117
       frameIndex: 117
       cellRect:
@@ -4913,7 +4913,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: ef563273e4143a846ac6ec99a785f40e
+      spriteId: 4221039b03d16a94fb92ff03ea0370ae
     - name: water_priestess_FREE_v1.1_Frame_118
       frameIndex: 118
       cellRect:
@@ -4921,7 +4921,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f340118f6a2e53a4ca9599d6a9f30a45
+      spriteId: 58689ea4dd67f8648bc0f9dca0f4947e
     - name: water_priestess_FREE_v1.1_Frame_119
       frameIndex: 119
       cellRect:
@@ -4929,7 +4929,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d58f5461367ba2944a5b5af13ec5d395
+      spriteId: 8bca998eec2b7ad44938f8cf3281ebfd
     - name: water_priestess_FREE_v1.1_Frame_120
       frameIndex: 120
       cellRect:
@@ -4937,7 +4937,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 61484f655d3067144b6238fe0fa15b3f
+      spriteId: d9d71a53016f5c141b61d2389db58a8c
     - name: water_priestess_FREE_v1.1_Frame_121
       frameIndex: 121
       cellRect:
@@ -4945,7 +4945,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: e7053c805122f324eb481ce52bdb122c
+      spriteId: 014ae9616e334fd4ea2e4f6264276343
     - name: water_priestess_FREE_v1.1_Frame_122
       frameIndex: 122
       cellRect:
@@ -4953,7 +4953,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 13b31490849ceb641a912af3defcf60e
+      spriteId: 49a3859e753152349a8129f7f30c9351
     - name: water_priestess_FREE_v1.1_Frame_123
       frameIndex: 123
       cellRect:
@@ -4961,7 +4961,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: fd04ff89b8ee28443b5e23d435ea6195
+      spriteId: 80e0c822bfee497418b4e7826a1c9126
     - name: water_priestess_FREE_v1.1_Frame_124
       frameIndex: 124
       cellRect:
@@ -4969,7 +4969,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: e40aaeaad93930f44a2015555fc5a598
+      spriteId: 6797611d3910c6a45987aa3645ce1d23
     - name: water_priestess_FREE_v1.1_Frame_125
       frameIndex: 125
       cellRect:
@@ -4977,7 +4977,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 3f010561de410784e8aaf95b6fda9356
+      spriteId: 2c62cfb41cea855439ac627755442a4e
     - name: water_priestess_FREE_v1.1_Frame_126
       frameIndex: 126
       cellRect:
@@ -4985,7 +4985,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: afa6519e19c69a145a65eb64fee35775
+      spriteId: ccfd59bbd77e25940a6d0130c68c93b7
     - name: water_priestess_FREE_v1.1_Frame_127
       frameIndex: 127
       cellRect:
@@ -4993,7 +4993,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 56f12d65e0b23314a9a30d66d515b8fd
+      spriteId: 1441e567bc4d53a448a88feb1a5c6062
     - name: water_priestess_FREE_v1.1_Frame_128
       frameIndex: 128
       cellRect:
@@ -5001,7 +5001,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1f883a03d2ff4ba4bb540d00865f20cc
+      spriteId: bb0028d2a7151e74995abc8293f927fe
     - name: water_priestess_FREE_v1.1_Frame_129
       frameIndex: 129
       cellRect:
@@ -5009,7 +5009,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: fb89f0f4b45037f4f9ca4733bfeb9a2e
+      spriteId: f10429f0678534940b821218fbc02319
     - name: water_priestess_FREE_v1.1_Frame_130
       frameIndex: 130
       cellRect:
@@ -5017,7 +5017,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b4ba299dca4284d45848a2c0db480f45
+      spriteId: fb7eca4029dfafa41b5d331218e6f32d
     - name: water_priestess_FREE_v1.1_Frame_131
       frameIndex: 131
       cellRect:
@@ -5025,7 +5025,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: e344a34b5ae63c04dbf9f1d58de801d4
+      spriteId: 594b8d912873b9f49868c48b76f41606
     - name: water_priestess_FREE_v1.1_Frame_132
       frameIndex: 132
       cellRect:
@@ -5033,7 +5033,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 0ea6de341e01f594fab42d4a6469dfc6
+      spriteId: 7539c511ac7501945b5b1c46c4728fda
     - name: water_priestess_FREE_v1.1_Frame_133
       frameIndex: 133
       cellRect:
@@ -5041,7 +5041,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 14550614cbe6e8d42b061050a796073b
+      spriteId: 0faa2b8f2c4b6b84ea5cf77b18440599
     - name: water_priestess_FREE_v1.1_Frame_134
       frameIndex: 134
       cellRect:
@@ -5049,7 +5049,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: cdb38abe5cba3834f8aa191cb091ba6f
+      spriteId: c97c110ab82dc1141b6d72bdd2d2ac14
     - name: water_priestess_FREE_v1.1_Frame_135
       frameIndex: 135
       cellRect:
@@ -5057,7 +5057,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1100ccacc0e8a4d449bcde8689479180
+      spriteId: 32536d3919f3dfe41b79abdecf291743
     - name: water_priestess_FREE_v1.1_Frame_136
       frameIndex: 136
       cellRect:
@@ -5065,7 +5065,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 48d704a86aa3b1e448d55541dc9e126f
+      spriteId: 42300510b93299a4f8dd7025e4cb00b6
     - name: water_priestess_FREE_v1.1_Frame_137
       frameIndex: 137
       cellRect:
@@ -5073,7 +5073,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: de8209e12d4e3c54ca1e695a91282ee8
+      spriteId: 694ada66e8b71fb4195d0c663a3aa423
     - name: water_priestess_FREE_v1.1_Frame_138
       frameIndex: 138
       cellRect:
@@ -5081,7 +5081,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: dc6d350dd34c9df40b6e53f28928b8cf
+      spriteId: 4bf872731e7a2dc4c8f6856a81dc8192
     - name: water_priestess_FREE_v1.1_Frame_139
       frameIndex: 139
       cellRect:
@@ -5089,7 +5089,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 575117e17edf6d745a76dbd29b0e04b1
+      spriteId: 5da536ead67056541a45beedc21a0fdf
     - name: water_priestess_FREE_v1.1_Frame_140
       frameIndex: 140
       cellRect:
@@ -5097,7 +5097,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 3e35c460c9718994fae0dc0cd155732a
+      spriteId: 40ac1360f5e92e84ca7afbfff672e737
     - name: water_priestess_FREE_v1.1_Frame_141
       frameIndex: 141
       cellRect:
@@ -5105,7 +5105,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: fbac1f1b9b13feb448c64648d491b402
+      spriteId: 74360567493b4104daeffeb1d4f2483b
     - name: water_priestess_FREE_v1.1_Frame_142
       frameIndex: 142
       cellRect:
@@ -5113,7 +5113,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: abf1c4bcc3be94049a482b4f003931c0
+      spriteId: 9ca2e2c600775e54b821f77328c29112
     - name: water_priestess_FREE_v1.1_Frame_143
       frameIndex: 143
       cellRect:
@@ -5121,7 +5121,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: dbabce8c9caf7104a8db041187ce5c6a
+      spriteId: ebdc87ced9cc75c46a8d5e7a7b5c409d
     - name: water_priestess_FREE_v1.1_Frame_144
       frameIndex: 144
       cellRect:
@@ -5129,7 +5129,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: c41134b572a458441ac85a73cf1b152d
+      spriteId: a5ff9739dfcf09e48af069483ef688ac
     - name: water_priestess_FREE_v1.1_Frame_145
       frameIndex: 145
       cellRect:
@@ -5137,7 +5137,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d07931619f784c742b83caac1a9745aa
+      spriteId: 48caf4f0526889843b9e08cc4d6cc644
     - name: water_priestess_FREE_v1.1_Frame_146
       frameIndex: 146
       cellRect:
@@ -5145,7 +5145,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 7c145591d9fe831478e44c1954cf56f5
+      spriteId: 2bdb0ed4e9a5ad741bf53e0359ce0271
     - name: water_priestess_FREE_v1.1_Frame_147
       frameIndex: 147
       cellRect:
@@ -5153,7 +5153,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d670bb6452cc4d347b3e924bd94c0792
+      spriteId: f68a3ebb1d903b24db13b991a8fcdfac
     - name: water_priestess_FREE_v1.1_Frame_148
       frameIndex: 148
       cellRect:
@@ -5161,7 +5161,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 13d4080b3e87cab41a5ddf0412caae15
+      spriteId: 36cf4c560eeb7534f8c6f46e2fc0ccbf
     - name: water_priestess_FREE_v1.1_Frame_149
       frameIndex: 149
       cellRect:
@@ -5169,7 +5169,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: ba9c46c487549894bb63fd56160c2058
+      spriteId: 39eded8245501c34b9c8414e00ef2466
     - name: water_priestess_FREE_v1.1_Frame_150
       frameIndex: 150
       cellRect:
@@ -5177,7 +5177,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f39d2ffda7f28b846b43d2664227ec16
+      spriteId: d48967d3f09e1cd4abf9995735d075cd
     - name: water_priestess_FREE_v1.1_Frame_151
       frameIndex: 151
       cellRect:
@@ -5185,7 +5185,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 44c0475c002bc2e4887f0495e5ce35f2
+      spriteId: 54e78fdd7b793334b8177c3a13e245e9
     - name: water_priestess_FREE_v1.1_Frame_152
       frameIndex: 152
       cellRect:
@@ -5193,7 +5193,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b5694658892f44242a0f8a29b090b206
+      spriteId: 123489acb745f334fb66f30c70ff8179
     - name: water_priestess_FREE_v1.1_Frame_153
       frameIndex: 153
       cellRect:
@@ -5201,7 +5201,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f3bf3df362e8a9448a30c782c815dfa7
+      spriteId: 9b7230c5e7e0ea143b3f869910530cb3
     - name: water_priestess_FREE_v1.1_Frame_154
       frameIndex: 154
       cellRect:
@@ -5209,7 +5209,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 28420a778d408ea449f1457991449236
+      spriteId: 167c6907f3a65344595eac4927abfacc
     - name: water_priestess_FREE_v1.1_Frame_155
       frameIndex: 155
       cellRect:
@@ -5217,7 +5217,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: da83ec8a71655c14e9360fc30135d6e1
+      spriteId: b44eabeb9a06081468adad90c45041a8
     - name: water_priestess_FREE_v1.1_Frame_156
       frameIndex: 156
       cellRect:
@@ -5225,7 +5225,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b64f01a0280cf0d4c9b9156cb5e4d949
+      spriteId: af0b533006ee51b43be3cbe2089898ec
     - name: water_priestess_FREE_v1.1_Frame_157
       frameIndex: 157
       cellRect:
@@ -5233,7 +5233,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 45b10f1f2ed09f74a8ef03dcaacc2a23
+      spriteId: a4592e9b2e476a84f8fbc7fcb2dc1377
     - name: water_priestess_FREE_v1.1_Frame_158
       frameIndex: 158
       cellRect:
@@ -5241,7 +5241,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 858991638307986449811b9a77966f86
+      spriteId: 0aef48eb9c0e63b4884a0cfef17eb049
     - name: water_priestess_FREE_v1.1_Frame_159
       frameIndex: 159
       cellRect:
@@ -5249,7 +5249,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: f609925f907ad434f8d373bac359a5c0
+      spriteId: 486904a0820667b41a9683dfb63eb6c9
     - name: water_priestess_FREE_v1.1_Frame_160
       frameIndex: 160
       cellRect:
@@ -5257,7 +5257,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 3e3057fe35dc1754b9b13d534464fc32
+      spriteId: fadba6c8aa2e6dc4e875f6a0616bb09a
     - name: water_priestess_FREE_v1.1_Frame_161
       frameIndex: 161
       cellRect:
@@ -5265,7 +5265,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 9b7f18efa9a5b6c42aa3c74c4319471c
+      spriteId: 6f4378879a7fd0a4aa5740d39333cb3f
     - name: water_priestess_FREE_v1.1_Frame_162
       frameIndex: 162
       cellRect:
@@ -5273,7 +5273,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 5901b61770e3e474a8271e074cf8c813
+      spriteId: 1b1f65d7f1c35e24d8ea76bfee871645
     - name: water_priestess_FREE_v1.1_Frame_163
       frameIndex: 163
       cellRect:
@@ -5281,7 +5281,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 2675a1af279872d4d9a75fc63357bccd
+      spriteId: a1637c0cc9fbd594293120fdc051d88c
     - name: water_priestess_FREE_v1.1_Frame_164
       frameIndex: 164
       cellRect:
@@ -5289,7 +5289,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 9e5566bf3aacb7340ae0fdbabc7a9680
+      spriteId: 81e1f328c7a328b48a9d0918a9fb93d0
     - name: water_priestess_FREE_v1.1_Frame_165
       frameIndex: 165
       cellRect:
@@ -5297,7 +5297,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 88c23cbec6c2d58439a0442cab6b1c4d
+      spriteId: 41a12521f1cd7a448b0b89d2407cb20d
     - name: water_priestess_FREE_v1.1_Frame_166
       frameIndex: 166
       cellRect:
@@ -5305,7 +5305,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 285e657e80ac4c34dbcb37d37e34a9f1
+      spriteId: 530f378a6f7b3f14ba64088933c74f07
     - name: water_priestess_FREE_v1.1_Frame_167
       frameIndex: 167
       cellRect:
@@ -5313,7 +5313,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 927afeccdbfd7714aa62aa9273b99297
+      spriteId: b5d77466767e8a54c82671cbb88abc3f
     - name: water_priestess_FREE_v1.1_Frame_168
       frameIndex: 168
       cellRect:
@@ -5321,7 +5321,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 48bfaa2a33493db4dade92309d6e6f20
+      spriteId: ba05e19aea73e2a459a87e95216bc4bc
     - name: water_priestess_FREE_v1.1_Frame_169
       frameIndex: 169
       cellRect:
@@ -5329,7 +5329,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1a5950f402728b34ba8c904c5c5df4f6
+      spriteId: 31fddc36387437c4281200716ef7960b
     - name: water_priestess_FREE_v1.1_Frame_170
       frameIndex: 170
       cellRect:
@@ -5337,7 +5337,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 92b3ee9bd68ee594db59ae604839b77e
+      spriteId: b0c7fdf0fde57e842af79ae2a7af2277
     - name: water_priestess_FREE_v1.1_Frame_171
       frameIndex: 171
       cellRect:
@@ -5345,7 +5345,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 191d16941a2abc148a3acfb75a57398e
+      spriteId: 8d5e6ae886fc28444b249fe4c5020e94
     - name: water_priestess_FREE_v1.1_Frame_172
       frameIndex: 172
       cellRect:
@@ -5353,7 +5353,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 05995871a16db3e488d2f03cc1cf8dc5
+      spriteId: 3309b2ed19c5b414081c59ab995d563c
     - name: water_priestess_FREE_v1.1_Frame_173
       frameIndex: 173
       cellRect:
@@ -5361,7 +5361,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: a18ebb202732d4548921a7a01a0f9944
+      spriteId: fa72045221dc31347bd7586ffc55e87d
     - name: water_priestess_FREE_v1.1_Frame_174
       frameIndex: 174
       cellRect:
@@ -5369,7 +5369,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 25b40a9b0f44ab54a89e3e99da24b542
+      spriteId: 1c60d8ddffa261b438b73956161f127b
     - name: water_priestess_FREE_v1.1_Frame_175
       frameIndex: 175
       cellRect:
@@ -5377,7 +5377,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 2412d50e91b6ba448875ba556c3be172
+      spriteId: 3a7d9bab576106a408d762da77eb9464
     - name: water_priestess_FREE_v1.1_Frame_176
       frameIndex: 176
       cellRect:
@@ -5385,7 +5385,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 5c27f6757dd3a6e4ba97fdbca85f7998
+      spriteId: b621050833e82174ca4746e1109b2b4c
     - name: water_priestess_FREE_v1.1_Frame_177
       frameIndex: 177
       cellRect:
@@ -5393,7 +5393,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: d1b310b3eedb29b43bda08ceddf6ae57
+      spriteId: fccebd014e2aa724baf97400a2960643
     - name: water_priestess_FREE_v1.1_Frame_178
       frameIndex: 178
       cellRect:
@@ -5401,7 +5401,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 812b946d76b312e4ebf4abc9e64f504e
+      spriteId: 035fb13c62e5ba648bac9fb15b6f7db7
     - name: water_priestess_FREE_v1.1_Frame_179
       frameIndex: 179
       cellRect:
@@ -5409,7 +5409,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: b2eb5c1d29adb6f4387b33b052a5239c
+      spriteId: c495bb10d75967c459186393fcab7eab
     - name: water_priestess_FREE_v1.1_Frame_180
       frameIndex: 180
       cellRect:
@@ -5417,7 +5417,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 174359a532390244d9aef47f30f5c7b3
+      spriteId: 20b1c240e6662954e9ba2b38bef9c260
     - name: water_priestess_FREE_v1.1_Frame_181
       frameIndex: 181
       cellRect:
@@ -5425,7 +5425,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 24b4dafc513666d47b1e4bbf2fede654
+      spriteId: 09d346d53d461ea4e9d65499ee1f9cec
     - name: water_priestess_FREE_v1.1_Frame_182
       frameIndex: 182
       cellRect:
@@ -5433,7 +5433,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 50cddaf15bcf3fa489f408c57428d29a
+      spriteId: 2aee73b63ffa79844b476f9e0bd909b9
     - name: water_priestess_FREE_v1.1_Frame_183
       frameIndex: 183
       cellRect:
@@ -5441,7 +5441,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 45ffef3d1e922f94c9320ac297ff6cbb
+      spriteId: d273e9defd414224db9d52505a28da77
     - name: water_priestess_FREE_v1.1_Frame_184
       frameIndex: 184
       cellRect:
@@ -5449,7 +5449,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 1ea28a4f47d4504448b9bf1f2460300a
+      spriteId: be0181da6ca940a4b9b8c98b0b3ea768
     - name: water_priestess_FREE_v1.1_Frame_185
       frameIndex: 185
       cellRect:
@@ -5457,7 +5457,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: cf98c6130b2af414d8e025f348fe54c5
+      spriteId: d78e8e152c5b5e2439535f75cc402345
     - name: water_priestess_FREE_v1.1_Frame_186
       frameIndex: 186
       cellRect:
@@ -5465,7 +5465,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 7d0ca1a5a8c30514899bafa2f74516db
+      spriteId: 671836c9ace666a40b5b32e2203de75c
     - name: water_priestess_FREE_v1.1_Frame_187
       frameIndex: 187
       cellRect:
@@ -5473,7 +5473,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 3db42b72e3e766848a8d628df0f83bc5
+      spriteId: a1d73d7b99fb387428175260f235d650
     - name: water_priestess_FREE_v1.1_Frame_188
       frameIndex: 188
       cellRect:
@@ -5481,7 +5481,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 7803f717a5556994e9c21568921e1748
+      spriteId: 1e8766dd42dfe424f8a2fab94aa34a3c
     - name: water_priestess_FREE_v1.1_Frame_189
       frameIndex: 189
       cellRect:
@@ -5489,7 +5489,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 6d0ba7bf631f04a42a00a7bf8aa8bde8
+      spriteId: cd19b54328c5e804d9dc85e0a152eb67
     - name: water_priestess_FREE_v1.1_Frame_190
       frameIndex: 190
       cellRect:
@@ -5497,7 +5497,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 87f7ad7153be3c34391976da8a99d667
+      spriteId: 2b7a073127c354947ab628c822b2e513
     - name: water_priestess_FREE_v1.1_Frame_191
       frameIndex: 191
       cellRect:
@@ -5505,7 +5505,7 @@ ScriptedImporter:
         y: 0
         width: 288
         height: 128
-      spriteId: 3969cb1f4b959be4abc5dc319478fe62
+      spriteId: 0d9f09a83c511c8479adfa6da6ae2287
     linkedCells: []
     parentIndex: -1
   platformSettings: []
