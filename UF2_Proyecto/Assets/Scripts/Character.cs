@@ -60,7 +60,7 @@ public class Character : MonoBehaviour
                 Voltereta();
                 //Defender con la tecla S solo si está en el suelo
                 StartCoroutine(Defender());
-                AtkPrimario();
+                StartCoroutine(AtkPrimario());
                 StartCoroutine(AtkEspecial());
                 //Si hace el ataque en el aire no puede ejecutarse el codigo 
                 //enElAire, pues se sobreescribe y se pierde la amación
@@ -226,29 +226,42 @@ public class Character : MonoBehaviour
         puedeRealizarAcciones = true;
     }
 
-    private void AtkPrimario()
+    private IEnumerator AtkPrimario()
     {
-        /*
+        
         if (IsGrounded() && (Input.GetKeyDown(KeyCode.Q)))
         {
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("Atk1");
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(0.3f);
             atacando = false;
             puedeRealizarAcciones = true;
+
         }else if (IsGrounded() && Input.GetKey(KeyCode.Q)){
+
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("Atk2");
-            yield return new WaitForSeconds(1.5f);
+            yield return new WaitForSeconds(1.1f);
             atacando = false;
             puedeRealizarAcciones = true;
-        }*/
-        
+
+            if (IsGrounded() && Input.GetKey(KeyCode.Q)){
+
+                atacando = true;
+                puedeRealizarAcciones = false;
+                animator.SetTrigger("Atk3");
+                yield return new WaitForSeconds(1.0f);
+                atacando = false;
+                puedeRealizarAcciones = true;
+            }else{
+                animator.SetTrigger("AtkFinal");
+            }
+        }
 
 
-
+/*
 
        if(IsGrounded() && (Input.GetKeyUp(KeyCode.Q))){
           //              Console.Log("Pulso");
@@ -274,7 +287,7 @@ public class Character : MonoBehaviour
         } 
         
 
-
+*/
         
     }
 
