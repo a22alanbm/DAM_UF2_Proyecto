@@ -3,12 +3,12 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
-    public float moveSpeed = 5f;
-    public float jumpForce = 20f;
-    public float impulsoVoltereta = 5f;
-    [SerializeField] LayerMask sueloMask;
+    private float moveSpeed = 5f;
+    private float jumpForce = 13f;
+    private float impulsoVoltereta = 5f;
+    public LayerMask sueloMask;
 
-    public BoxCollider2D boxCollider2D;
+    private BoxCollider2D boxCollider2D;
 
     private Animator animator;
     private Rigidbody2D rb;
@@ -20,12 +20,18 @@ public class Character : MonoBehaviour
     private bool defendiendo = false;
     private bool atacando = false;
 
+    protected float TimeAtk1;
+    protected float TimeAtk2;
+    protected float TimeAtk3;
+    protected float TimeSpecialAtk;
+
     void Start()
     {
         boxCollider2D = GetComponent<BoxCollider2D>();
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        TimeInitializer();
     }
 
     void Update()
@@ -33,7 +39,7 @@ public class Character : MonoBehaviour
         if (puedeRealizarAcciones)
         {
             FueraDelMapa();
-            
+
             if (haciendoVoltereta)
             {
                 // Si está haciendo la voltereta, aplicar un pequeño movimiento lateral
@@ -41,10 +47,10 @@ public class Character : MonoBehaviour
                 rb.velocity = new Vector2(movimientoVoltereta, rb.velocity.y);
             }
             else if (defendiendo) { }
-            else if (atacando ) { }
+            else if (atacando) { }
             else
             {
-                
+
                 float horizontalInput = Input.GetAxis("Horizontal");
                 // Movimiento lateral normal
                 MovimientoLateral();
@@ -57,7 +63,7 @@ public class Character : MonoBehaviour
                 // Salto con la tecla espacio solo si está en el suelo
                 Saltar();
                 // Voltereta con la tecla R solo si está en el suelo
-                Voltereta();
+                StartCoroutine(Voltereta());
                 //Defender con la tecla S solo si está en el suelo
                 StartCoroutine(Defender());
                 StartCoroutine(AtkPrimario());
@@ -74,7 +80,7 @@ public class Character : MonoBehaviour
                     enElAire();
                 }
 
-                
+
 
             }
         }
@@ -88,13 +94,7 @@ public class Character : MonoBehaviour
     }
 
 
-    private void Voltereta()
-    {
-        if (IsGrounded() && Input.GetKeyDown(KeyCode.R))
-        {
-            StartCoroutine(IniciarVoltereta());
-        }
-    }
+
     private void FueraDelMapa()
     {
         if (transform.position.x >= 115.3f)
@@ -133,17 +133,20 @@ public class Character : MonoBehaviour
         spriteRenderer.flipX = !spriteRenderer.flipX;
     }
 
-    private IEnumerator IniciarVoltereta()
+    private IEnumerator Voltereta()
     {
-        // Reiniciar impulso previo
-        rb.velocity = new Vector2(0f, rb.velocity.y);
+        if (IsGrounded() && Input.GetKeyDown(KeyCode.R))
+        {
+            // Reiniciar impulso previo
+            rb.velocity = new Vector2(0f, rb.velocity.y);
 
-        haciendoVoltereta = true;
-        animator.SetTrigger("Voltereta");
+            haciendoVoltereta = true;
+            animator.SetTrigger("Voltereta");
 
-        yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(1f);
 
-        haciendoVoltereta = false;
+            haciendoVoltereta = false;
+        }
     }
 
     public bool IsGrounded()
@@ -228,67 +231,42 @@ public class Character : MonoBehaviour
 
     private IEnumerator AtkPrimario()
     {
-        
+
         if (IsGrounded() && (Input.GetKeyDown(KeyCode.Q)))
         {
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("Atk1");
-            yield return new WaitForSeconds(0.3f);
+            yield return new WaitForSeconds(TimeAtk1);
             atacando = false;
             puedeRealizarAcciones = true;
 
-        }else if (IsGrounded() && Input.GetKey(KeyCode.Q)){
+        }
+        else if (IsGrounded() && Input.GetKey(KeyCode.Q))
+        {
 
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("Atk2");
-            yield return new WaitForSeconds(1.1f);
+            yield return new WaitForSeconds(TimeAtk2);
             atacando = false;
             puedeRealizarAcciones = true;
 
-            if (IsGrounded() && Input.GetKey(KeyCode.Q)){
+            if (IsGrounded() && Input.GetKey(KeyCode.Q))
+            {
 
                 atacando = true;
                 puedeRealizarAcciones = false;
                 animator.SetTrigger("Atk3");
-                yield return new WaitForSeconds(1.0f);
+                yield return new WaitForSeconds(TimeAtk3);
                 atacando = false;
                 puedeRealizarAcciones = true;
-            }else{
+            }
+            else
+            {
                 animator.SetTrigger("AtkFinal");
             }
         }
-
-
-/*
-
-       if(IsGrounded() && (Input.GetKeyUp(KeyCode.Q))){
-          //              Console.Log("Pulso");
-
-            atacando = true;
-            puedeRealizarAcciones = false;
-            animator.SetTrigger("Atk1");
-         //   yield return null;
-            atacando = false;
-            puedeRealizarAcciones = true; 
-        
-        }else  if (IsGrounded() && (Input.GetKey(KeyCode.Q)))
-        {
-
-//            Console.Log("Mantengo pulstado");
-                atacando = true;
-                puedeRealizarAcciones = false;
-                animator.SetTrigger("Atk2");
-               // yield return   null;
-                atacando = false;
-                puedeRealizarAcciones = true;
-    
-        } 
-        
-
-*/
-        
     }
 
     private IEnumerator AtkEspecial()
@@ -298,11 +276,20 @@ public class Character : MonoBehaviour
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("SpecialAtk");
-            yield return new WaitForSeconds(2.8f);
+            yield return new WaitForSeconds(TimeSpecialAtk);
             atacando = false;
             puedeRealizarAcciones = true;
         }
     }
 
 
+    protected virtual void TimeInitializer(){
+
+    }
+
+    protected virtual void MakeAtk1(){}
+    protected virtual void MakeAtk2(){}
+    protected virtual void MakeAtk3(){}
+    protected virtual void MakeSpecialAtk(){}
+    protected virtual void MakeAirAtk(){}
 }

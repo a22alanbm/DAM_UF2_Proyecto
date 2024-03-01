@@ -64,8 +64,15 @@
     <Analyzer Include="/media/MV-Linux/MaquinasVirtuais/a22alanbm/unity/2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/WaterCharacter.cs" />
+    <Compile Include="Assets/Scripts/MetalCharacter.cs" />
+    <Compile Include="Assets/Scripts/LeafCharacter.cs" />
     <Compile Include="Assets/Scripts/Character.cs" />
+    <Compile Include="Assets/Scripts/GroundCharacter.cs" />
     <Compile Include="Assets/Scripts/SeguirPersonaje.cs" />
+    <Compile Include="Assets/Scripts/WindCharacter.cs" />
+    <Compile Include="Assets/Scripts/FireCharacter.cs" />
+    <Compile Include="Assets/Scripts/CrystalCharacter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/stringstar fields/!readme!.txt" />

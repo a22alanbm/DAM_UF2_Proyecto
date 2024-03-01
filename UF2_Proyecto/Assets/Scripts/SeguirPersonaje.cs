@@ -11,6 +11,10 @@ public class SeguirPersonaje : MonoBehaviour
     {
         if (objetivo != null)
         {
+            GameObject playerObject = GameObject.FindWithTag("Player");
+
+            objetivo = playerObject.transform;
+
             // Calcular la distancia entre la cámara y el objetivo
             float distancia = Vector2.Distance(transform.position, objetivo.position);
 
