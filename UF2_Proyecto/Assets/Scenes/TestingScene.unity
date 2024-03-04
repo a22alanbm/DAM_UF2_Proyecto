@@ -182,7 +182,7 @@ GameObject:
   - component: {fileID: 76116321}
   - component: {fileID: 76116320}
   - component: {fileID: 76116319}
-  - component: {fileID: 76116318}
+  - component: {fileID: 76116324}
   m_Layer: 0
   m_Name: FireCharacter
   m_TagString: Player
@@ -190,21 +190,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!114 &76116318
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 76116317}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 608065b16b8062549b3f5d42b785312f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sueloMask:
-    serializedVersion: 2
-    m_Bits: 1024
 --- !u!50 &76116319
 Rigidbody2D:
   serializedVersion: 4
@@ -365,6 +350,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &76116324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76116317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb5aea61ac1f78c60ba25e7d6f9371b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sueloMask:
+    serializedVersion: 2
+    m_Bits: 1024
 --- !u!1 &86381131
 GameObject:
   m_ObjectHideFlags: 0
@@ -726,29 +726,14 @@ GameObject:
   - component: {fileID: 782505709}
   - component: {fileID: 782505708}
   - component: {fileID: 782505707}
-  - component: {fileID: 782505706}
+  - component: {fileID: 782505712}
   m_Layer: 0
   m_Name: CrystalCharacter
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &782505706
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 782505705}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 608065b16b8062549b3f5d42b785312f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sueloMask:
-    serializedVersion: 2
-    m_Bits: 1024
+  m_IsActive: 1
 --- !u!50 &782505707
 Rigidbody2D:
   serializedVersion: 4
@@ -909,6 +894,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &782505712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782505705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 042161c38dd1d32e8b8c9c4847435946, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sueloMask:
+    serializedVersion: 2
+    m_Bits: 1024
 --- !u!4 &912916305 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7817929101759621799, guid: 70d865809974f08a8b5237b06dab658a, type: 3}
@@ -1685,7 +1685,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &2097647781
 Animator:
   serializedVersion: 5

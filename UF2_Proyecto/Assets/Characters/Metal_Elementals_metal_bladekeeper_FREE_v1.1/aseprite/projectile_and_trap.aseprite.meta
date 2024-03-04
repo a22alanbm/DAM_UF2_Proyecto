@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  script: {instanceID: 0}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 32
       width: 15
       height: 2
-    spriteID: 5c6ae00a11569d01186c68396ca697c4
+    spriteID: 8b20cc9c5e554024cbb6983ca87f7b20
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 32
       width: 11
       height: 6
-    spriteID: 205d4999ccadeb2449caba7edf5c3006
+    spriteID: b01cfd19f6080ec4ea7cdcca03acbbaa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 19
       width: 11
       height: 5
-    spriteID: a30300f5ca9ecdbef8739a15aac3bff2
+    spriteID: 62d26bdbd801a044abdce8bef98c2e59
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 19
       width: 11
       height: 3
-    spriteID: f8854217e8e49bd79bd12b569436a539
+    spriteID: a934dc86a4221c64383059049e97625e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 32
       width: 11
       height: 3
-    spriteID: d81b9e0c02a53977ebadd328b11ad32c
+    spriteID: 245ad332799738846859ca93ac1b13fa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 46
       width: 11
       height: 2
-    spriteID: 80505df48841a72a396cafece6390e1e
+    spriteID: 92b8a7f5eee22fd4c8b5b57b85cecb0f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 46
       width: 10
       height: 9
-    spriteID: f173af60c1db6547b91228c6604bc198
+    spriteID: 5531fc354a58669408c19b18114a0937
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 46
       width: 4
       height: 10
-    spriteID: 5f8298e5560c6ff99b0a102ebb481de8
+    spriteID: e084ad63d4edd704daf84aa83c636bdf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 46
       width: 4
       height: 10
-    spriteID: 41bd80998b5d4d0b3b9a93f53ba0fcd5
+    spriteID: 25a9641424a223941b4cb3c9a779d6bd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 46
       width: 2
       height: 10
-    spriteID: 56aa0c28096dfa4978189460f6986f32
+    spriteID: 20b30c62e09566e4eaed4a41b6aeddba
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 46
       width: 2
       height: 10
-    spriteID: 6fc92e4aca5c31e40903c140d4c76339
+    spriteID: 77338a319660be949b07dab80cacfbd8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 4
       width: 41
       height: 7
-    spriteID: 1f743832888dd63f588e6161e9a22e63
+    spriteID: 16fd7bcfa197dac4993c22d35528bdb4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 4
       width: 71
       height: 20
-    spriteID: c7f576f008f63529f8be4a33f3185341
+    spriteID: 23ae5b24816b50e449fa8bd1d32afcdd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 32
       width: 50
       height: 6
-    spriteID: a70ac9126a4eab82dae825c31ecc6d48
+    spriteID: 919807f02b2b79340ae99855c6ffb6d9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -417,7 +417,7 @@ ScriptedImporter:
         y: 14
         width: 15
         height: 2
-      spriteId: 5c6ae00a11569d01186c68396ca697c4
+      spriteId: 8b20cc9c5e554024cbb6983ca87f7b20
     - name: projectile_and_trap_Frame_1
       frameIndex: 1
       cellRect:
@@ -425,7 +425,7 @@ ScriptedImporter:
         y: 14
         width: 11
         height: 6
-      spriteId: 205d4999ccadeb2449caba7edf5c3006
+      spriteId: b01cfd19f6080ec4ea7cdcca03acbbaa
     - name: projectile_and_trap_Frame_2
       frameIndex: 2
       cellRect:
@@ -433,7 +433,7 @@ ScriptedImporter:
         y: 11
         width: 11
         height: 5
-      spriteId: a30300f5ca9ecdbef8739a15aac3bff2
+      spriteId: 62d26bdbd801a044abdce8bef98c2e59
     - name: projectile_and_trap_Frame_3
       frameIndex: 3
       cellRect:
@@ -441,7 +441,7 @@ ScriptedImporter:
         y: 14
         width: 11
         height: 3
-      spriteId: f8854217e8e49bd79bd12b569436a539
+      spriteId: a934dc86a4221c64383059049e97625e
     - name: projectile_and_trap_Frame_4
       frameIndex: 4
       cellRect:
@@ -449,7 +449,7 @@ ScriptedImporter:
         y: 13
         width: 11
         height: 3
-      spriteId: d81b9e0c02a53977ebadd328b11ad32c
+      spriteId: 245ad332799738846859ca93ac1b13fa
     - name: projectile_and_trap_Frame_5
       frameIndex: 5
       cellRect:
@@ -457,7 +457,7 @@ ScriptedImporter:
         y: 14
         width: 11
         height: 2
-      spriteId: 80505df48841a72a396cafece6390e1e
+      spriteId: 92b8a7f5eee22fd4c8b5b57b85cecb0f
     - name: projectile_and_trap_Frame_6
       frameIndex: 6
       cellRect:
@@ -465,7 +465,7 @@ ScriptedImporter:
         y: 10
         width: 10
         height: 9
-      spriteId: f173af60c1db6547b91228c6604bc198
+      spriteId: 5531fc354a58669408c19b18114a0937
     - name: projectile_and_trap_Frame_7
       frameIndex: 7
       cellRect:
@@ -473,7 +473,7 @@ ScriptedImporter:
         y: 1
         width: 4
         height: 10
-      spriteId: 5f8298e5560c6ff99b0a102ebb481de8
+      spriteId: e084ad63d4edd704daf84aa83c636bdf
     - name: projectile_and_trap_Frame_8
       frameIndex: 8
       cellRect:
@@ -481,7 +481,7 @@ ScriptedImporter:
         y: 1
         width: 4
         height: 10
-      spriteId: 41bd80998b5d4d0b3b9a93f53ba0fcd5
+      spriteId: 25a9641424a223941b4cb3c9a779d6bd
     - name: projectile_and_trap_Frame_9
       frameIndex: 9
       cellRect:
@@ -489,7 +489,7 @@ ScriptedImporter:
         y: 1
         width: 2
         height: 10
-      spriteId: 56aa0c28096dfa4978189460f6986f32
+      spriteId: 20b30c62e09566e4eaed4a41b6aeddba
     - name: projectile_and_trap_Frame_10
       frameIndex: 10
       cellRect:
@@ -497,7 +497,7 @@ ScriptedImporter:
         y: 1
         width: 2
         height: 10
-      spriteId: 6fc92e4aca5c31e40903c140d4c76339
+      spriteId: 77338a319660be949b07dab80cacfbd8
     - name: projectile_and_trap_Frame_11
       frameIndex: 11
       cellRect:
@@ -505,7 +505,7 @@ ScriptedImporter:
         y: 1
         width: 41
         height: 7
-      spriteId: 1f743832888dd63f588e6161e9a22e63
+      spriteId: 16fd7bcfa197dac4993c22d35528bdb4
     - name: projectile_and_trap_Frame_12
       frameIndex: 12
       cellRect:
@@ -513,7 +513,7 @@ ScriptedImporter:
         y: 1
         width: 71
         height: 20
-      spriteId: c7f576f008f63529f8be4a33f3185341
+      spriteId: 23ae5b24816b50e449fa8bd1d32afcdd
     - name: projectile_and_trap_Frame_13
       frameIndex: 13
       cellRect:
@@ -521,7 +521,7 @@ ScriptedImporter:
         y: 1
         width: 50
         height: 6
-      spriteId: a70ac9126a4eab82dae825c31ecc6d48
+      spriteId: 919807f02b2b79340ae99855c6ffb6d9
     linkedCells: []
     parentIndex: -1
   platformSettings: []
