@@ -24,7 +24,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-36881
+41023
 Successfully changed project path to: /media/MV-Linux/MaquinasVirtuais/a22alanbm/DAM_UF2_Proyecto/UF2_Proyecto
 /media/MV-Linux/MaquinasVirtuais/a22alanbm/DAM_UF2_Proyecto/UF2_Proyecto
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -58,12 +58,12 @@ Successfully changed project path to: /media/MV-Linux/MaquinasVirtuais/a22alanbm
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [140642972664768] Host "[IP] 10.21.0.6 [Port] 0 [Flags] 2 [Guid] 2716619110 [EditorId] 2716619110 [Version] 1048832 [Id] LinuxEditor(16,10.21.0.6) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [140595995833280] Host "[IP] 10.21.0.6 [Port] 0 [Flags] 2 [Guid] 2037718919 [EditorId] 2037718919 [Version] 1048832 [Id] LinuxEditor(16,10.21.0.6) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [140642972664768] Host "[IP] 10.21.0.6 [Port] 0 [Flags] 2 [Guid] 2716619110 [EditorId] 2716619110 [Version] 1048832 [Id] LinuxEditor(16,10.21.0.6) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [140595995833280] Host "[IP] 10.21.0.6 [Port] 0 [Flags] 2 [Guid] 2037718919 [EditorId] 2037718919 [Version] 1048832 [Id] LinuxEditor(16,10.21.0.6) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Refreshing native plugins compatible for Editor in 2,58 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 2,71 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Initialize engine version: 2022.3.17f1 (4fc78088f837)
 [Subsystems] Discovering subsystems at path /media/MV-Linux/MaquinasVirtuais/a22alanbm/unity/2022.3.17f1/Editor/Data/Resources/UnitySubsystems
@@ -79,51 +79,51 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_share
 d_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 2082537008
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1388416464
 Initialize mono
 Mono path[0] = '/media/MV-Linux/MaquinasVirtuais/a22alanbm/unity/2022.3.17f1/Editor/Data/Managed'
 Mono path[1] = '/media/MV-Linux/MaquinasVirtuais/a22alanbm/unity/2022.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
 Mono config path = '/media/MV-Linux/MaquinasVirtuais/a22alanbm/unity/2022.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56614
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56191
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /media/MV-Linux/MaquinasVirtuais/a22alanbm/unity/2022.3.17f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /media/MV-Linux/MaquinasVirtuais/a22alanbm/unity/2022.3.17f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0,005072 seconds.
-- Loaded All Assemblies, in  0,255 seconds
+Registered in 0,005053 seconds.
+- Loaded All Assemblies, in  0,273 seconds
 Native extension for LinuxStandalone target not found
 Native extension for Android target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0,270 seconds
-Domain Reload Profiling: 525ms
-	BeginReloadAssembly (58ms)
+- Finished resetting the current domain, in  0,293 seconds
+Domain Reload Profiling: 567ms
+	BeginReloadAssembly (64ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (28ms)
-	RebuildNativeTypeToScriptingClass (6ms)
-	initialDomainReloadingComplete (49ms)
-	LoadAllAssembliesAndSetupDomain (114ms)
-		LoadAssemblies (58ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (123ms)
+		LoadAssemblies (63ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (113ms)
-			TypeCache.Refresh (112ms)
-				TypeCache.ScanAssembly (101ms)
+		AnalyzeDomain (121ms)
+			TypeCache.Refresh (120ms)
+				TypeCache.ScanAssembly (109ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (270ms)
+	FinalizeReload (294ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (219ms)
+		SetupLoadedEditorAssemblies (240ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (73ms)
-			SetLoadedEditorAssemblies (4ms)
+			InitializePlatformSupportModulesInManaged (80ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (102ms)
-			ProcessInitializeOnLoadMethodAttributes (40ms)
+			ProcessInitializeOnLoadAttributes (109ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -131,8 +131,8 @@ Domain Reload Profiling: 525ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0,481 seconds
-Refreshing native plugins compatible for Editor in 1,39 ms, found 1 plugins.
+- Loaded All Assemblies, in  0,508 seconds
+Refreshing native plugins compatible for Editor in 1,80 ms, found 1 plugins.
 Native extension for LinuxStandalone target not found
 Native extension for Android target not found
 Package Manager log level set to [2]
@@ -140,47 +140,47 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0,513 seconds
-Domain Reload Profiling: 994ms
-	BeginReloadAssembly (103ms)
+- Finished resetting the current domain, in  0,531 seconds
+Domain Reload Profiling: 1039ms
+	BeginReloadAssembly (105ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (18ms)
-	RebuildCommonClasses (27ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (32ms)
 	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (38ms)
-	LoadAllAssembliesAndSetupDomain (305ms)
-		LoadAssemblies (208ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (325ms)
+		LoadAssemblies (206ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (148ms)
-			TypeCache.Refresh (126ms)
-				TypeCache.ScanAssembly (107ms)
-			ScanForSourceGeneratedMonoScriptInfo (18ms)
+		AnalyzeDomain (168ms)
+			TypeCache.Refresh (142ms)
+				TypeCache.ScanAssembly (123ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
 			ResolveRequiredComponents (4ms)
-	FinalizeReload (514ms)
+	FinalizeReload (531ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (370ms)
+		SetupLoadedEditorAssemblies (372ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (19ms)
+			InitializePlatformSupportModulesInManaged (22ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (58ms)
-			ProcessInitializeOnLoadAttributes (252ms)
-			ProcessInitializeOnLoadMethodAttributes (36ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (253ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
 			AfterProcessingInitializeOnLoad (3ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (3ms)
 Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 2,19 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1,39 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Unloading 4021 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 64 unused Assets / (52,0 KB). Loaded Objects now: 4486.
-Memory consumption went from 143,9 MB to 143,9 MB.
-Total: 5,684723 ms (FindLiveObjects: 0,617654 ms CreateObjectMapping: 0,598100 ms MarkObjects: 4,106930 ms  DeleteObjects: 0,360511 ms)
+Unloading 64 unused Assets / (51,8 KB). Loaded Objects now: 4486.
+Memory consumption went from 143,9 MB to 143,8 MB.
+Total: 3,818509 ms (FindLiveObjects: 0,267311 ms CreateObjectMapping: 0,223656 ms MarkObjects: 3,069402 ms  DeleteObjects: 0,257239 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -196,603 +196,99 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 364,162496 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/02_run/run_1.controller
-  artifactKey: Guid(25e23287d66d7117cb23f5e9dbc0f7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/02_run/run_1.controller using Guid(25e23287d66d7117cb23f5e9dbc0f7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936b250f9386a991df233744c640752c') in 0,010948 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 23,193032 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump
-  artifactKey: Guid(3029f5b67a540b20cb5e435e2383d43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump using Guid(3029f5b67a540b20cb5e435e2383d43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5cd9d7d1fbb60020f49f7331b9a416') in 0,000253 seconds
+  Time since last request: 13531,167073 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle
+  artifactKey: Guid(2a7531feebbf62a42bc24c3737ed57c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle using Guid(2a7531feebbf62a42bc24c3737ed57c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f332e995841e440217071b46dde6b2c9') in 0,001797 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0,038417 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_1.png
-  artifactKey: Guid(ccc2d2412a3e2fb44b4f97df4715ea71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_1.png using Guid(ccc2d2412a3e2fb44b4f97df4715ea71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c73f9d72eadaed470ba41e9852a512') in 0,054347 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000009 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_19.png
-  artifactKey: Guid(304968057d638ad99a80d7d8dc2f227c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_19.png using Guid(304968057d638ad99a80d7d8dc2f227c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9735dbe50c3277914dc550d0b58fff0f') in 0,015720 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_3.png
-  artifactKey: Guid(30984b42f561fb4539d50893fecea343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_3.png using Guid(30984b42f561fb4539d50893fecea343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b95dfaedb7ffe1d1d84da84ae15561') in 0,011805 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000015 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_18.png
-  artifactKey: Guid(69e84561772230eb686eb3e7c413e3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_18.png using Guid(69e84561772230eb686eb3e7c413e3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d41f57cb8fb781b82460633ce3f99fd') in 0,011807 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_15.png
-  artifactKey: Guid(64765994a20baf5a8835ccf0dc969f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_15.png using Guid(64765994a20baf5a8835ccf0dc969f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2b6124fcc8bf3f73dc937cabb46152') in 0,020788 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000036 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_12.png
-  artifactKey: Guid(79b8b9436ad7d643b8b77ed88e7c20cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_12.png using Guid(79b8b9436ad7d643b8b77ed88e7c20cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f72c18d091dcc4fbbbf4c38b063ded1') in 0,015256 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000047 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_13.png
-  artifactKey: Guid(b404183fe65f55359aec1496cc6dae87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_13.png using Guid(b404183fe65f55359aec1496cc6dae87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb05bb4e18e04810bf9de14c011d53c') in 0,012813 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000018 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_17.png
-  artifactKey: Guid(e38387d07f95265be9d0653b1e7100f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_17.png using Guid(e38387d07f95265be9d0653b1e7100f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b648cc5a8143fb375cdf9fd4d04cd75') in 0,013863 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000010 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_10.png
-  artifactKey: Guid(94e498dba7184fc0a9bf027c2ff6851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_10.png using Guid(94e498dba7184fc0a9bf027c2ff6851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6643fc33830c8c36823e32f03ad016c6') in 0,009620 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000010 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_16.png
-  artifactKey: Guid(af78644b3c277e8198cd4b324011a00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_16.png using Guid(af78644b3c277e8198cd4b324011a00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68a196dd280b5e94a377bb3d3963da8') in 0,019481 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 7,018731 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_down/jump_down_2.png
-  artifactKey: Guid(7c6b531a4c272bb598879d1a36ebd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_down/jump_down_2.png using Guid(7c6b531a4c272bb598879d1a36ebd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0300c9e1392b469b0cedf79cc4f69a8f') in 0,017072 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 22,996750 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_down/jump_down_2.png
-  artifactKey: Guid(7c6b531a4c272bb598879d1a36ebd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_down/jump_down_2.png using Guid(7c6b531a4c272bb598879d1a36ebd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0563b8472d7ea46e36a1cf28034fe0') in 0,013278 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 8,423960 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_up/jump_up_2.png
-  artifactKey: Guid(3331b618c9d412c599b9a6858198a59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_up/jump_up_2.png using Guid(3331b618c9d412c599b9a6858198a59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405aac7713070625ec4ee0c471cd5c6d') in 0,017983 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 6,454889 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_up/jump_up_3.png
-  artifactKey: Guid(2f5c80d0b510d95339a0b1cd4d8770ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump_up/jump_up_3.png using Guid(2f5c80d0b510d95339a0b1cd4d8770ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461414f6d518e605a436eb564ed069d2') in 0,014710 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 22,782339 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_2.png
-  artifactKey: Guid(fb5a617db67fe9b11860233428dc782f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_2.png using Guid(fb5a617db67fe9b11860233428dc782f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46513ffd32232520a1286c14f1064cc') in 0,018923 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000009 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_5.png
-  artifactKey: Guid(da071fe73dcce099e859dc891555b772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_5.png using Guid(da071fe73dcce099e859dc891555b772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3ac237dcb4c0c407b521654ccde95b') in 0,019172 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000129 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_8.png
-  artifactKey: Guid(241cb10bda0d1ec64882af9ffb402310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_8.png using Guid(241cb10bda0d1ec64882af9ffb402310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1392c8358ec4c85e44336ef37cad37b2') in 0,017242 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 7,495068 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_3.png
-  artifactKey: Guid(b0d3af2d3db1d7d379e9ee9c66b82c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_3.png using Guid(b0d3af2d3db1d7d379e9ee9c66b82c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8600ddccc12b8fac1ac2b54e76e5560e') in 0,015373 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000010 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_8.png
-  artifactKey: Guid(241cb10bda0d1ec64882af9ffb402310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_8.png using Guid(241cb10bda0d1ec64882af9ffb402310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646a15d70429734feedffca8aa8736d8') in 0,019756 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 52,735417 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_2.png
-  artifactKey: Guid(cb3975d96aa1c3a9886faf1f2dc964e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_2.png using Guid(cb3975d96aa1c3a9886faf1f2dc964e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11669497f268005e68e7c6a3a881edf7') in 0,013786 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000012 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_5.png
-  artifactKey: Guid(e54948643810b35a9984909fa08968d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_5.png using Guid(e54948643810b35a9984909fa08968d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbdb8a8a2423cd3dcc447f011346d834') in 0,020349 seconds
+  Time since last request: 0,000017 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_2.png
+  artifactKey: Guid(29352b2a8a32af843bdc4d1dc2a69ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_2.png using Guid(29352b2a8a32af843bdc4d1dc2a69ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c18af74b99c46d71793bf018814adb8') in 0,050544 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
   Time since last request: 0,000020 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_11.png
-  artifactKey: Guid(5d43dafaca2ee35d5b40253f106b8494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_11.png using Guid(5d43dafaca2ee35d5b40253f106b8494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e461cf3117d7482866a8680bc60111c3') in 0,015224 seconds
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_5.png
+  artifactKey: Guid(d4855a8bd7b5b5845b8dff1f5a7fcb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_5.png using Guid(d4855a8bd7b5b5845b8dff1f5a7fcb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a28588d65d79ea679a505ffd4313a6a') in 0,009880 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000036 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_6.png
-  artifactKey: Guid(a260b0424cd1a24b1944498f14c083e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_6.png using Guid(a260b0424cd1a24b1944498f14c083e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb9aaf05a928cdf1cf3d0e635e4e535') in 0,020937 seconds
+  Time since last request: 0,000044 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_6.png
+  artifactKey: Guid(92d278f92e3196646b93ffc5b6663560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_6.png using Guid(92d278f92e3196646b93ffc5b6663560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6dc63348bef038a4725c8d70117109') in 0,008571 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 6,500182 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_2.png
-  artifactKey: Guid(f9f296559e0feeaf6a2364a83032fd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_2.png using Guid(f9f296559e0feeaf6a2364a83032fd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e754162ccdbb883aa29f0ad060e178') in 0,011590 seconds
+  Time since last request: 0,000045 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_8.png
+  artifactKey: Guid(3dfa0cfb6de3b3447a40fe5c659552c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_8.png using Guid(3dfa0cfb6de3b3447a40fe5c659552c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f92052ff94948ae82d27b2a6afa7e79') in 0,008525 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000008 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_9.png
-  artifactKey: Guid(a806e023b26374af89683ee34eb45335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_9.png using Guid(a806e023b26374af89683ee34eb45335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7d5b6afe2d2f86a74bf43c36e3fba3') in 0,018122 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000016 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_4.png
-  artifactKey: Guid(418f993a8b8d93dd2bf186b94512b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_4.png using Guid(418f993a8b8d93dd2bf186b94512b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030a02340e4e0ec3be35c5659add01fe') in 0,017992 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000009 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_12.png
-  artifactKey: Guid(38dd8f8995861482f8377cea64ea1186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_12.png using Guid(38dd8f8995861482f8377cea64ea1186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b3b801aa0a6951e662744ec813a977a') in 0,009475 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000017 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_16.png
-  artifactKey: Guid(c7abc40a5324fc406abfcc12ae133c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_16.png using Guid(c7abc40a5324fc406abfcc12ae133c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '134d20128435e6a822bd113838db6be6') in 0,014507 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000015 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_11.png
-  artifactKey: Guid(2027b563037db751b9181b0855c67356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_11.png using Guid(2027b563037db751b9181b0855c67356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3c635c390a33e0b9e2e2a54c046b08') in 0,016450 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 2,927043 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_2.png
-  artifactKey: Guid(c843aee8cc960e208a4fc35792772414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_2.png using Guid(c843aee8cc960e208a4fc35792772414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209335d94ad44e00d00235e6ad05296a') in 0,011200 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000012 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_12.png
-  artifactKey: Guid(cef0f644e0ee8859ba5e81bb70a235ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_12.png using Guid(cef0f644e0ee8859ba5e81bb70a235ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1247cc52ca26657cb810a5ff79a5e49') in 0,011741 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000015 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_21.png
-  artifactKey: Guid(2459daa8c75840230aa2f9249e26c9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_21.png using Guid(2459daa8c75840230aa2f9249e26c9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6523b63eeb6860bc33b6ecb2fcae10') in 0,012842 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000017 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_10.png
-  artifactKey: Guid(09238d906c71916849188f02d2c39aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_10.png using Guid(09238d906c71916849188f02d2c39aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b628fad51e5fc05a1d59bcb4a96085b2') in 0,018500 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000020 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_7.png
-  artifactKey: Guid(41dee6a1bc8a9bc58a7818f94b18752d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_7.png using Guid(41dee6a1bc8a9bc58a7818f94b18752d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd0e25ace4ff921a861f640ff92b2f49') in 0,015902 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000016 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_23.png
-  artifactKey: Guid(296dcb013df5b0733958c43911dcb107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_23.png using Guid(296dcb013df5b0733958c43911dcb107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c2df6cd394dc5c0d69a20293ae5946') in 0,014159 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000010 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_8.png
-  artifactKey: Guid(6cd85e68e0fad7befadc8ec1668f532b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_8.png using Guid(6cd85e68e0fad7befadc8ec1668f532b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320d83fe3c7ff05cedfab236f746ceea') in 0,010838 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000012 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_28.png
-  artifactKey: Guid(291f8341a622236dbb0e449c2c36a6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_28.png using Guid(291f8341a622236dbb0e449c2c36a6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da48d8eea18052655aa56ab32f05f16') in 0,015162 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000010 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_5.png
-  artifactKey: Guid(b58d4181881071e109238c4476403295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_5.png using Guid(b58d4181881071e109238c4476403295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c94732b2363d7514a29feb75cd034eb') in 0,013539 seconds
+  Time since last request: 0,000077 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_1.png
+  artifactKey: Guid(c394eb31c5f90d84099c92085f1b3e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_1.png using Guid(c394eb31c5f90d84099c92085f1b3e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b34d9021d944f87a56c1fc825045e4') in 0,008828 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
   Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_26.png
-  artifactKey: Guid(0a6af92c669238bd6a1866b21e8fdab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_26.png using Guid(0a6af92c669238bd6a1866b21e8fdab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd34fe428038ed303174caa7e1d8e4532') in 0,018897 seconds
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_7.png
+  artifactKey: Guid(aae95ff5d92cdf3409e2290583540094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_7.png using Guid(aae95ff5d92cdf3409e2290583540094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c3887c2285d7765a18a1fbab9c957a') in 0,009309 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 5,349380 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_2.png
-  artifactKey: Guid(012cea79a2fcc9bf9b677f467e009466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_2.png using Guid(012cea79a2fcc9bf9b677f467e009466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2581bc55bdc2726c782e1fd7e92a348') in 0,010184 seconds
+  Time since last request: 10,682243 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_2.png
+  artifactKey: Guid(29352b2a8a32af843bdc4d1dc2a69ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_2.png using Guid(29352b2a8a32af843bdc4d1dc2a69ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8db3c4d7286aa45e4a52e47ad27bda4') in 0,011133 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_6.png
-  artifactKey: Guid(c70f6178b2a9eea91b3757540cd051b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_6.png using Guid(c70f6178b2a9eea91b3757540cd051b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c69f34e5b612a0d9f30c418d31608f') in 0,013241 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000016 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_13.png
-  artifactKey: Guid(ec580bb51537165b7b6776b561b0fd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_13.png using Guid(ec580bb51537165b7b6776b561b0fd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d32d36b56e55178b0a95e5325af092') in 0,019977 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000035 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_9.png
-  artifactKey: Guid(72c64b797c9e2bd26bed7ec2ac392db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_9.png using Guid(72c64b797c9e2bd26bed7ec2ac392db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249278199c36109637038c3e1b4a6106') in 0,013554 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000010 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_18.png
-  artifactKey: Guid(add6c25388312a6e4b4e4201a3502843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_18.png using Guid(add6c25388312a6e4b4e4201a3502843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e7db412cd0720c1d3ce81b20fe6c2e') in 0,013006 seconds
+  Time since last request: 0,000019 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_4.png
+  artifactKey: Guid(4b69aef9d703d7d46a3c59a3c1d83381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_4.png using Guid(4b69aef9d703d7d46a3c59a3c1d83381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a9f3e0d2f588b4d1461277ef871017') in 0,014256 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
   Time since last request: 0,000014 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_10.png
-  artifactKey: Guid(2458e1e6bb7087c2b9fd14525d6d038d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_10.png using Guid(2458e1e6bb7087c2b9fd14525d6d038d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40df3918c01fe0e486e5bb6da6671df5') in 0,014915 seconds
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_8.png
+  artifactKey: Guid(3dfa0cfb6de3b3447a40fe5c659552c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_8.png using Guid(3dfa0cfb6de3b3447a40fe5c659552c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d1f957733a8b8b4969833759c19ebc') in 0,012975 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000023 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_16.png
-  artifactKey: Guid(96c8d3d42a68f1f6cb3356db2482dd63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/08_sp_atk/sp_atk_16.png using Guid(96c8d3d42a68f1f6cb3356db2482dd63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61f5e954f7f82853dd94a6ce0e86e28') in 0,013567 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 22,033937 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_2.png
-  artifactKey: Guid(0e962a0ad3b3a76778df9d81f4a50700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_2.png using Guid(0e962a0ad3b3a76778df9d81f4a50700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed44702e3d1f1ac14a5c4dbae35eac9d') in 0,016822 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000009 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_10.png
-  artifactKey: Guid(a49af3b9fb438dbe79f5ecca3817e48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_10.png using Guid(a49af3b9fb438dbe79f5ecca3817e48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e46c0b88e3de24e72b5e31a6b4e4a00') in 0,021082 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_7.png
-  artifactKey: Guid(0f19c00d3f6575cbf89837c67a3b770d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_7.png using Guid(0f19c00d3f6575cbf89837c67a3b770d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846ce3d9b955c28939a9f7724aa90d32') in 0,018923 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000027 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_5.png
-  artifactKey: Guid(bfc95f48684cc55c38a2144498c0a334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_5.png using Guid(bfc95f48684cc55c38a2144498c0a334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5743c9dc953c757c3a71cfa90c6fe717') in 0,015935 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 17,002980 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_2.png
-  artifactKey: Guid(73d1c5ecf32faaecda1b2526186f140f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_2.png using Guid(73d1c5ecf32faaecda1b2526186f140f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8597fa59531cf70e74f6d3a5ee20eb') in 0,020239 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_6.png
-  artifactKey: Guid(7bc0b0e7963ecc50cb0ddf0cbcabdc4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_6.png using Guid(7bc0b0e7963ecc50cb0ddf0cbcabdc4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f840b67b4f958563246cf083c9e1f9b') in 0,009572 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 21,981396 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_3.png
-  artifactKey: Guid(b3a0ab3b3444e998baf9f09bee6338d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_3.png using Guid(b3a0ab3b3444e998baf9f09bee6338d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60536c40206835eb0ce9bee5fa596bc9') in 0,015463 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_5.png
-  artifactKey: Guid(b18faded5f2d8774eaad650bbd7cc5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/10_take_hit/take_hit_5.png using Guid(b18faded5f2d8774eaad650bbd7cc5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f19f39a3974e0aff8a803200d4e6bb2') in 0,010284 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 32,726283 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_3.png
-  artifactKey: Guid(53d42349c040cfbe1858ba0f6b31dd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_3.png using Guid(53d42349c040cfbe1858ba0f6b31dd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '753990e61a14708a5ac3489683562ed4') in 0,011043 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000009 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_9.png
-  artifactKey: Guid(a806e023b26374af89683ee34eb45335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_9.png using Guid(a806e023b26374af89683ee34eb45335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3fbcafa1e95e36633a56f12e40e73e7') in 0,011583 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000009 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_13.png
-  artifactKey: Guid(399c11886fd48134791a9af433932219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_13.png using Guid(399c11886fd48134791a9af433932219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1822cbe8e09a3e7776c66f2cee010391') in 0,009216 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_19.png
-  artifactKey: Guid(bfbd9b9c436067ff98538bd000e335bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_19.png using Guid(bfbd9b9c436067ff98538bd000e335bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b96ae6e1b0124d8cf6d75d00bad1c45') in 0,012458 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000036 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_18.png
-  artifactKey: Guid(5d72977913fbf861ea70e2419bf45449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_18.png using Guid(5d72977913fbf861ea70e2419bf45449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5e78b4846e7837f40f29aceb317815') in 0,010538 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000009 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_5.png
-  artifactKey: Guid(d1db08585c5175e83880a72299fe1594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/06_2_atk/2_atk_5.png using Guid(d1db08585c5175e83880a72299fe1594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95b447d83db40877daeb46f6d344dd7') in 0,015308 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 10,899015 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_2.png
-  artifactKey: Guid(c843aee8cc960e208a4fc35792772414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_2.png using Guid(c843aee8cc960e208a4fc35792772414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81210acf5d81432908fdb4600cec920d') in 0,025840 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000011 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_22.png
-  artifactKey: Guid(7a0dc3fbb78c25e2e92b97db46edd43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_22.png using Guid(7a0dc3fbb78c25e2e92b97db46edd43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f2a095572d637db7314b3654fdde29') in 0,024618 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000031 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_15.png
-  artifactKey: Guid(2dd286762c779db6784092ac95dc3f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_15.png using Guid(2dd286762c779db6784092ac95dc3f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba0921885c05d63a14d879e853fb7d7') in 0,016600 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000037 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_9.png
-  artifactKey: Guid(e4e4f72e19435503d8cba1c4bd4ae5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_9.png using Guid(e4e4f72e19435503d8cba1c4bd4ae5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0941a7322903e57289bf9744d3309df') in 0,013608 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000015 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_14.png
-  artifactKey: Guid(691d2dcbb66982945b691764a0437810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_14.png using Guid(691d2dcbb66982945b691764a0437810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200cffcbbbdd4c7d8883309b7ce2a605') in 0,011423 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000014 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_18.png
-  artifactKey: Guid(456c0bee70aa554b69617a8ccd7557aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_18.png using Guid(456c0bee70aa554b69617a8ccd7557aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e7e7134e3f6f5af2f0ed387ebf7155') in 0,012041 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000022 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_16.png
-  artifactKey: Guid(9d563de96c1dc7f95bfe77d0d8a2edf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_16.png using Guid(9d563de96c1dc7f95bfe77d0d8a2edf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2aee70fb4ddf23d159b4a632469a4a') in 0,012338 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000020 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_19.png
-  artifactKey: Guid(28b14e12befa7f92393011379093af4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_19.png using Guid(28b14e12befa7f92393011379093af4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7092bd3ab5de6aea9e0594a8e1535338') in 0,020100 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000081 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_20.png
-  artifactKey: Guid(0c69b431489d32a8994e2431692e4cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/07_3_atk/3_atk_20.png using Guid(0c69b431489d32a8994e2431692e4cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f2ecb61e406301bea10b5711f7af5f') in 0,017127 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 22,430809 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_3.png
-  artifactKey: Guid(08bc2cfe2e8f8829aa3227126c9ad889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_3.png using Guid(08bc2cfe2e8f8829aa3227126c9ad889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc5120014e8f83b595b2dcc01d86e3e') in 0,029050 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000025 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_5.png
-  artifactKey: Guid(e54948643810b35a9984909fa08968d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_5.png using Guid(e54948643810b35a9984909fa08968d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a2f8ffe33a123e858d9e00091699d0') in 0,023299 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0,000028 seconds.
-  path: Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_7.png
-  artifactKey: Guid(31b72bf8e6fd25f98909e3c637d24836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/05_1_atk/1_atk_7.png using Guid(31b72bf8e6fd25f98909e3c637d24836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21698b1d21037bdde6062ea5dded01f') in 0,018494 seconds
+  Time since last request: 0,000017 seconds.
+  path: Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_7.png
+  artifactKey: Guid(aae95ff5d92cdf3409e2290583540094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Crystal_Elementals_Crystal_Mauler_Free_v1.0/animations/PNG/idle/idle_7.png using Guid(aae95ff5d92cdf3409e2290583540094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f322aaa07695da7e9e2bfa7977adc397') in 0,013527 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 125, details: Operation aborted.
 AssetImportWorker is now disconnected from the server
 Process exiting
-Thread: ID 140642972664768, CleanupSafetyData: safetyData 7fe950077560
-Thread: ID 140642972664768, CleanupSafetyData: safetyData 7fe950076330
-Thread: ID 140642972664768, CleanupSafetyData: safetyData 7fe950074620
+Thread: ID 140595995833280, CleanupSafetyData: safetyData 7fde50077560
+Thread: ID 140595995833280, CleanupSafetyData: safetyData 7fde50076330
+Thread: ID 140595995833280, CleanupSafetyData: safetyData 7fde50d1d6d0
 Assertion failed on expression: 'm_PodArrays.empty()'
 Checking for leaked weakptr:
   Found no leaked weakptrs.
@@ -1098,7 +594,7 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [32,0 KB-64,0 KB]: 1 frames, [1,0 MB-2,0 MB]: 72 frames, [8,0 MB-16,0 MB]: 1 frames
+      Peak usage frame count: [1,0 MB-2,0 MB]: 10 frames, [8,0 MB-16,0 MB]: 1 frames
       Initial Block Size 16,0 MB
       Current Block Size 16,0 MB
       Peak Allocated Bytes 9,3 MB
@@ -1124,7 +620,7 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_MEMORYPROFILER]
-  Peak usage frame count: [256,0 KB-0,5 MB]: 73 frames, [0,5 MB-1,0 MB]: 1 frames
+  Peak usage frame count: [256,0 KB-0,5 MB]: 10 frames, [0,5 MB-1,0 MB]: 1 frames
   Requested Block Size 1,0 MB
   Peak Block count 1
   Peak Allocated memory 0,7 MB
@@ -1136,13 +632,13 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 8,9 MB
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [32,0 MB-64,0 MB]: 74 frames
+      Peak usage frame count: [32,0 MB-64,0 MB]: 11 frames
       Requested Block Size 16,0 MB
       Peak Block count 4
       Peak Allocated memory 55,5 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4,0 MB-8,0 MB]: 74 frames
+      Peak usage frame count: [4,0 MB-8,0 MB]: 11 frames
       Requested Block Size 16,0 MB
       Peak Block count 1
       Peak Allocated memory 5,0 MB
@@ -1174,31 +670,31 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 8,9 MB
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64,0 KB-128,0 KB]: 2 frames, [128,0 KB-256,0 KB]: 72 frames
+      Peak usage frame count: [64,0 KB-128,0 KB]: 1 frames, [128,0 KB-256,0 KB]: 10 frames
       Requested Block Size 16,0 MB
       Peak Block count 1
-      Peak Allocated memory 155,1 KB
+      Peak Allocated memory 145,7 KB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1,0 KB]: 74 frames
+      Peak usage frame count: [0-1,0 KB]: 11 frames
       Requested Block Size 16,0 MB
       Peak Block count 0
       Peak Allocated memory 0 B
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 20150
+  Peak main deferred allocation count 20277
     [ALLOC_BUCKET]
       Large Block size 32,0 MB
       Used Block count 1
       Peak Allocated bytes 8,9 MB
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4,0 MB-8,0 MB]: 73 frames, [64,0 MB-128,0 MB]: 1 frames
+      Peak usage frame count: [4,0 MB-8,0 MB]: 10 frames, [64,0 MB-128,0 MB]: 1 frames
       Requested Block Size 4,0 MB
       Peak Block count 20
       Peak Allocated memory 90,1 MB
       Peak Large allocation bytes 14,4 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [0-1,0 KB]: 74 frames
+      Peak usage frame count: [0-1,0 KB]: 11 frames
       Requested Block Size 4,0 MB
       Peak Block count 0
       Peak Allocated memory 0 B
@@ -1210,19 +706,19 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 8,9 MB
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [256,0 KB-0,5 MB]: 71 frames, [1,0 MB-2,0 MB]: 2 frames, [16,0 MB-32,0 MB]: 1 frames
+      Peak usage frame count: [256,0 KB-0,5 MB]: 8 frames, [1,0 MB-2,0 MB]: 2 frames, [16,0 MB-32,0 MB]: 1 frames
       Requested Block Size 2,0 MB
       Peak Block count 12
       Peak Allocated memory 20,5 MB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1,0 KB]: 74 frames
+      Peak usage frame count: [0-1,0 KB]: 11 frames
       Requested Block Size 2,0 MB
       Peak Block count 0
       Peak Allocated memory 0 B
       Peak Large allocation bytes 0 B
 [ALLOC_PROFILER]
-  Peak usage frame count: [64,0 KB-128,0 KB]: 74 frames
+  Peak usage frame count: [64,0 KB-128,0 KB]: 11 frames
   Requested Block Size 16,0 MB
   Peak Block count 1
   Peak Allocated memory 77,0 KB
@@ -1232,7 +728,7 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 2,6 KB
 [ALLOC_PROFILER_EDITOR]
-  Peak usage frame count: [0-1,0 KB]: 74 frames
+  Peak usage frame count: [0-1,0 KB]: 11 frames
   Requested Block Size 1,0 MB
   Peak Block count 0
   Peak Allocated memory 0 B
@@ -1241,4 +737,4 @@ Memory Statistics:
       Large Block size 32,0 MB
       Used Block count 1
       Peak Allocated bytes 2,6 KB
-##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1709279657702,"processId":7614,"allocatedMemory":49350414,"memoryLabels":[{"Default":524707},{"Permanent":18419},{"Thread":1086544},{"Manager":4176521},{"VertexData":204},{"Geometry":408},{"Particles":17888},{"VFX":44},{"Texture":78433},{"Shader":164202},{"Material":4784},{"GfxDevice":225504},{"Animation":15054},{"Audio":13660},{"FMODOther":2085494},{"Font":1792},{"FontEngine":336},{"Physics":274205},{"Physics2D":153296},{"Serialization":6041626},{"Input":59520},{"JobScheduler":13087104},{"GarbageCollector":1049152},{"Mono":92},{"ScriptingNativeRuntime":191864},{"BaseObject":1836979},{"Resource":1300},{"Renderer":8796},{"Transform":48},{"File":12627},{"Network":3332},{"WebCam":40},{"Culling":48},{"Terrain":1073},{"TerrainPhysics":8},{"Wind":24},{"STL":156672},{"String":800920},{"DynamicArray":896683},{"HashMap":1327466},{"Utility":4761574},{"PoolAlloc":1496},{"AI":59720},{"TypeTree":4549},{"ScriptManager":1545145},{"MonoScriptCache":636768},{"RuntimeInitializeOnLoadManager":80},{"AncestorCache":40},{"SpriteAtlas":128},{"GI":16472},{"Director":7928},{"WebRequest":720},{"VR":46041},{"SceneManager":600},{"Video":256},{"LazyScriptCache":40},{"ManagedAttributeManager":1},{"TextureStreaming":1416},{"NativeArray":18097},{"ScreenCapture":8},{"Camera":25},{"Secure":1},{"CrashReporter":1040},{"SerializationCache":1576},{"APIUpdating":11856},{"Subsystems":392},{"VirtualTexturing":59712},{"StaticSafetyDebugInfo":327680},{"EditorGui":4728292},{"EditorUtility":43066},{"VersionControl":4},{"Undo":736},{"AssetDatabase":2386424},{"AssetImporter":288747},{"RestService":2880},{"EditorGi":24624},{"ProgressiveLightmapper":11304},{"License":3144},{"UnityConnect":25496},{"Collab":25},{"Upm":1272},{"DrivenProperties":96},{"LocalIPC":119},{"ProfilerEditor":10999},{"CoreBusinessMetrics":2876},{"AssetReference":40},{"IPCStream":40}]}
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1709292541362,"processId":20191,"allocatedMemory":48877504,"memoryLabels":[{"Default":105401},{"Permanent":18419},{"Thread":1086544},{"Manager":4168329},{"VertexData":204},{"Geometry":408},{"Particles":17888},{"VFX":44},{"Texture":78433},{"Shader":164202},{"Material":4784},{"GfxDevice":225248},{"Animation":15054},{"Audio":13660},{"FMODOther":2085494},{"Font":1792},{"FontEngine":336},{"Physics":270621},{"Physics2D":153296},{"Serialization":6032986},{"Input":59520},{"JobScheduler":13087104},{"GarbageCollector":1049152},{"Mono":92},{"ScriptingNativeRuntime":191864},{"BaseObject":1836979},{"Resource":1300},{"Renderer":8796},{"Transform":48},{"File":12589},{"Network":3332},{"WebCam":40},{"Culling":48},{"Terrain":1073},{"TerrainPhysics":8},{"Wind":24},{"STL":149760},{"String":800920},{"DynamicArray":895788},{"HashMap":1327466},{"Utility":4761574},{"PoolAlloc":1496},{"AI":59720},{"TypeTree":4549},{"ScriptManager":1545145},{"MonoScriptCache":636768},{"RuntimeInitializeOnLoadManager":80},{"AncestorCache":40},{"SpriteAtlas":128},{"GI":16472},{"Director":7928},{"WebRequest":720},{"VR":46041},{"SceneManager":600},{"Video":256},{"LazyScriptCache":40},{"ManagedAttributeManager":1},{"TextureStreaming":1416},{"NativeArray":18097},{"ScreenCapture":8},{"Camera":25},{"Secure":1},{"CrashReporter":1040},{"SerializationCache":1576},{"APIUpdating":11856},{"Subsystems":392},{"VirtualTexturing":59712},{"StaticSafetyDebugInfo":327680},{"EditorGui":4728292},{"EditorUtility":17978},{"VersionControl":4},{"Undo":736},{"AssetDatabase":2386424},{"AssetImporter":288747},{"RestService":2880},{"EditorGi":24624},{"ProgressiveLightmapper":11304},{"License":3144},{"UnityConnect":25496},{"Collab":25},{"Upm":1272},{"DrivenProperties":96},{"LocalIPC":120},{"ProfilerEditor":10999},{"CoreBusinessMetrics":2876},{"AssetReference":40},{"IPCStream":40}]}

@@ -5,7 +5,6 @@ using UnityEngine;
 public class WaterCharacter : Character
 {
     public Transform controladorAtk1;
-    private 
     public Transform controladorAtk2;
     public Transform controladorAtk3;
     public Transform controladorSpecialAtk;
