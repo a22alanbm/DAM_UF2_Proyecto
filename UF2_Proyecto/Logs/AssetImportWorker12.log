@@ -1,0 +1,757 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.17f1 (4fc78088f837) revision 5228416'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit ProfessionalWorkstation' Language: 'es' Physical Memory: 16087 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+51342
+Successfully changed project path to: C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto
+C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [54756] Host "[IP] 192.168.1.131 [Port] 0 [Flags] 2 [Guid] 1127438883 [EditorId] 1127438883 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-3P4O3T5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [54756] Host "[IP] 192.168.1.131 [Port] 0 [Flags] 2 [Guid] 1127438883 [EditorId] 1127438883 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-3P4O3T5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 16.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.17f1 (4fc78088f837)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0xa7a1)
+    Vendor:   Intel
+    VRAM:     8043 MB
+    Driver:   31.0.101.4314
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013594 seconds.
+- Loaded All Assemblies, in  0.619 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.481 seconds
+Domain Reload Profiling: 1099ms
+	BeginReloadAssembly (186ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (110ms)
+	LoadAllAssembliesAndSetupDomain (238ms)
+		LoadAssemblies (183ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (234ms)
+			TypeCache.Refresh (231ms)
+				TypeCache.ScanAssembly (205ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (482ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (382ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (247ms)
+			ProcessInitializeOnLoadMethodAttributes (104ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.087 seconds
+Refreshing native plugins compatible for Editor in 6.72 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.004 seconds
+Domain Reload Profiling: 2081ms
+	BeginReloadAssembly (260ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (74ms)
+	LoadAllAssembliesAndSetupDomain (674ms)
+		LoadAssemblies (565ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (270ms)
+			TypeCache.Refresh (225ms)
+				TypeCache.ScanAssembly (201ms)
+			ScanForSourceGeneratedMonoScriptInfo (36ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1005ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (774ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (115ms)
+			ProcessInitializeOnLoadAttributes (567ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Failed to load shader (instanceID 416, GUID bedd19944f451ba4d83e7ed69be98d5c)
+Failed to load shader (instanceID 418, GUID 9c442dc870b456e48b615cd8add0e9ef)
+Failed to load shader (instanceID 412, GUID 603d454d711fe784cba9ce08dd22b881)
+Failed to load shader (instanceID 408, GUID 0a8f4dcd626bcd14bbbfa5a5e116b16e)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 4.44 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1020 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (109.6 KB). Loaded Objects now: 1487.
+Memory consumption went from 91.4 MB to 91.3 MB.
+Total: 2.365700 ms (FindLiveObjects: 0.123700 ms CreateObjectMapping: 0.018800 ms MarkObjects: 2.102300 ms  DeleteObjects: 0.120000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 80207.012474 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/02_run/run_2.png
+  artifactKey: Guid(fa16fa2be15e310ad962cc97c1ff397f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/02_run/run_2.png using Guid(fa16fa2be15e310ad962cc97c1ff397f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a116a463ef307e1986fb8072798f6bb6') in 0.252005 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.579855 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_2.png
+  artifactKey: Guid(7fd65739f833f7433a0f447353654a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_2.png using Guid(7fd65739f833f7433a0f447353654a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152aa3245776dfc1f68418ea5993135f') in 0.024445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_10.png
+  artifactKey: Guid(94e498dba7184fc0a9bf027c2ff6851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_10.png using Guid(94e498dba7184fc0a9bf027c2ff6851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e3e77a9472617c8cffe7a8794bf7e4') in 0.029039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_16.png
+  artifactKey: Guid(af78644b3c277e8198cd4b324011a00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_16.png using Guid(af78644b3c277e8198cd4b324011a00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78274598e7630b3336acbbfb75d6ef09') in 0.061121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_7.png
+  artifactKey: Guid(2d365146a8f8804e2bf8356a2efb54c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_7.png using Guid(2d365146a8f8804e2bf8356a2efb54c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f700a2a50fd7d7ac8485669eae3d06') in 0.062734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_12.png
+  artifactKey: Guid(79b8b9436ad7d643b8b77ed88e7c20cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_12.png using Guid(79b8b9436ad7d643b8b77ed88e7c20cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d76f06c056d9e42e4e4302718e432c') in 0.063992 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000953 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_15.png
+  artifactKey: Guid(64765994a20baf5a8835ccf0dc969f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_15.png using Guid(64765994a20baf5a8835ccf0dc969f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a884fb6416b01dd3fc99e3d8f3817450') in 0.056003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_6.png
+  artifactKey: Guid(9c02caacca3d9be50b7565d1a72a20c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/03_jump/jump_6.png using Guid(9c02caacca3d9be50b7565d1a72a20c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2cfa52903528f38ab2f3456118ae4e9') in 0.039400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.545645 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_2.png
+  artifactKey: Guid(fb5a617db67fe9b11860233428dc782f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_2.png using Guid(fb5a617db67fe9b11860233428dc782f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba6a9b1c8c4c8b269271afc075e8dc6') in 0.077154 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_6.png
+  artifactKey: Guid(a04cd4f66f51b4d0394abd52beb4d54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_6.png using Guid(a04cd4f66f51b4d0394abd52beb4d54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335185eaf46b50d11e1f587a25592f59') in 0.068085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_5.png
+  artifactKey: Guid(da071fe73dcce099e859dc891555b772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/04_roll/roll_5.png using Guid(da071fe73dcce099e859dc891555b772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a766e407abbc7b1f9e8a8372804dc5') in 0.061236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 17.526548 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_2.png
+  artifactKey: Guid(0e962a0ad3b3a76778df9d81f4a50700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_2.png using Guid(0e962a0ad3b3a76778df9d81f4a50700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6d061cde94c196308e3f935f04f597b') in 0.022135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_6.png
+  artifactKey: Guid(152500b6343db5849bff10504d5ecc69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_6.png using Guid(152500b6343db5849bff10504d5ecc69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dacd913bd039875aeaa69aa247aecc8') in 0.043759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_7.png
+  artifactKey: Guid(0f19c00d3f6575cbf89837c67a3b770d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Fire_Elementals_fire_knight_FREE_v1.1/png/09_defend/defend_7.png using Guid(0f19c00d3f6575cbf89837c67a3b770d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a4d603d7ae59c5bb4c5305150dd79d') in 0.057828 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 40.407889 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/idle/idle_2.png
+  artifactKey: Guid(85effff9c4f7b214aa23703a205a6dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/idle/idle_2.png using Guid(85effff9c4f7b214aa23703a205a6dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7df47962a83bdd774cfa2adb16a259') in 0.001127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/idle/idle_6.png
+  artifactKey: Guid(887305ae7ac05c9418cbea7ee4cd1494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/idle/idle_6.png using Guid(887305ae7ac05c9418cbea7ee4cd1494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '407f8ac598f22d28499b4a9b9f93788e') in 0.001754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 16.760013 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/03_j_up.gif
+  artifactKey: Guid(5817e4143fe1cf140b185c249fc8afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/03_j_up.gif using Guid(5817e4143fe1cf140b185c249fc8afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fc50e0727e495f894a68851d1d4485') in 0.001607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/07_3_atk.gif
+  artifactKey: Guid(2f8a9ccb967fa8346a0b75641a48bf10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/07_3_atk.gif using Guid(2f8a9ccb967fa8346a0b75641a48bf10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b9872f0e5fb5c7644ce54ef0040eab') in 0.001206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002672 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/10_roll.gif
+  artifactKey: Guid(f369ed0cb1d94d74cb1400aeaf5d64b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/10_roll.gif using Guid(f369ed0cb1d94d74cb1400aeaf5d64b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c29aac4b24c8a17af92668e7b08cd5') in 0.001183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/11_defend.gif
+  artifactKey: Guid(d5006d814942250419f5df09de1b7324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/gifs/11_defend.gif using Guid(d5006d814942250419f5df09de1b7324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233898c53d12916b34aabb69e3e26b66') in 0.038218 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.626802 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_2.png
+  artifactKey: Guid(3708995948a7b744594e9f09361d1991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_2.png using Guid(3708995948a7b744594e9f09361d1991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b58eeb4e163afe85146abe83a9d953b') in 0.024640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_8.png
+  artifactKey: Guid(2a0d789a9af4f1649ae17897d61af9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_8.png using Guid(2a0d789a9af4f1649ae17897d61af9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa3b40709ee2919f60cc873d76c3e846') in 0.022417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_19.png
+  artifactKey: Guid(4ec949e5fedc8f34c8c3ccffca4c4ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_19.png using Guid(4ec949e5fedc8f34c8c3ccffca4c4ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8bf56bc20e154758a89249499ed3f96') in 0.097311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_6.png
+  artifactKey: Guid(a7054f4d9c881cc48b9e11a69c978a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_6.png using Guid(a7054f4d9c881cc48b9e11a69c978a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15981aad5617c0f0299a7c39fd6bf5d0') in 0.057826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_14.png
+  artifactKey: Guid(19f348659afb23f48a6617bf6765e616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_14.png using Guid(19f348659afb23f48a6617bf6765e616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e4261d5fedcc426ede52dd4e80dc500') in 0.055167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_22.png
+  artifactKey: Guid(ac476f9ecd10e1d47bbc2bcd692dfca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_22.png using Guid(ac476f9ecd10e1d47bbc2bcd692dfca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f0d10d38903a413e807a4f1d4ac3a2') in 0.048518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_4.png
+  artifactKey: Guid(d8a25f4a865bcda48bcadfd26dcc51b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_4.png using Guid(d8a25f4a865bcda48bcadfd26dcc51b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b2832ae73718edb900bba1cfa3abf7') in 0.050373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_11.png
+  artifactKey: Guid(187173326dbe59e4ab251d7510743d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_Elementals_ground_monk_FREE_v1.3/png/3_atk/3_atk_11.png using Guid(187173326dbe59e4ab251d7510743d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7b1b5d8fa0df0a404c4c570d513c9dc') in 0.045132 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 202.867561 seconds.
+  path: Assets/DownloadedContent/Characters/Elementals_ground_monk_FREE_v1.3/ground_monk_FREE_1.3.1.aseprite
+  artifactKey: Guid(9bb076384863e3b4493c1dc3eba522f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Elementals_ground_monk_FREE_v1.3/ground_monk_FREE_1.3.1.aseprite using Guid(9bb076384863e3b4493c1dc3eba522f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21b6a0c8d65bc43d349a121ad237431') in 1.460804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 268
+========================================================================
+Received Import Request.
+  Time since last request: 37.898666 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_2.png
+  artifactKey: Guid(a3657b8610b0666439c054ea08395add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_2.png using Guid(a3657b8610b0666439c054ea08395add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09132a35a620af42e5a945d53e8a20f') in 0.049344 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_6.png
+  artifactKey: Guid(5e30177c1ec3f03499e2b0e0d071334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_6.png using Guid(5e30177c1ec3f03499e2b0e0d071334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fdd98872e96963b91988beb9465ba07') in 0.036895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_5.png
+  artifactKey: Guid(6e04e8f4e0835f3489cac604756776e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_5.png using Guid(6e04e8f4e0835f3489cac604756776e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094fc9958b1865dc6128f94725658672') in 0.054063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 55.358271 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_2.png
+  artifactKey: Guid(a3657b8610b0666439c054ea08395add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_2.png using Guid(a3657b8610b0666439c054ea08395add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7f9bcf4ea4cd611d8e3963e829be8a') in 0.040549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_6.png
+  artifactKey: Guid(5e30177c1ec3f03499e2b0e0d071334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_6.png using Guid(5e30177c1ec3f03499e2b0e0d071334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37df4d728c4dce50fc8098e5fba028cb') in 0.041157 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_5.png
+  artifactKey: Guid(6e04e8f4e0835f3489cac604756776e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Ground_monk_FREE_v1.3/png/idle/idle_5.png using Guid(6e04e8f4e0835f3489cac604756776e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f6b63ac7ff1718df770a4a46ba8cee') in 0.040775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 140.985053 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0
+  artifactKey: Guid(d8d4f1f88bedb1f41939b2a75ce6a14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0 using Guid(d8d4f1f88bedb1f41939b2a75ce6a14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f6f6fd9502bcc640cb5eb9749ea354') in 0.001174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.801940 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/Elementals_Leaf_ranger_Free_v1.0
+  artifactKey: Guid(b19065d9fbc0daa4da87ae80cf8aa45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/Elementals_Leaf_ranger_Free_v1.0 using Guid(b19065d9fbc0daa4da87ae80cf8aa45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454fab771b10d802e922d01c34c95e93') in 0.000809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.049448 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/Elementals_Leaf_ranger_Free_v1.0/leaf_ranger.png
+  artifactKey: Guid(3d2f0ab973dfda4408f1a51a19ee30c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/Elementals_Leaf_ranger_Free_v1.0/leaf_ranger.png using Guid(3d2f0ab973dfda4408f1a51a19ee30c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401d7bea750117e512c25c8899e9da5f') in 0.038398 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 11.179519 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/Elementals_Leaf_ranger_Free_v1.0/animations
+  artifactKey: Guid(a0a00de9413bb6241a2baebeeeaf045d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/Elementals_Leaf_ranger_Free_v1.0/animations using Guid(a0a00de9413bb6241a2baebeeeaf045d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55efaa9bd9c2e5873432ef708a86facf') in 0.001217 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 51.903411 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG
+  artifactKey: Guid(57743d3785379d9438637f35d5dc95e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG using Guid(57743d3785379d9438637f35d5dc95e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce3677c8ea6f88582b3d02e9a7af6b8') in 0.000674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.221436 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle
+  artifactKey: Guid(d65df33e9c9dbd147a81df00e08727cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle using Guid(d65df33e9c9dbd147a81df00e08727cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21f7f26721f77739594455168e84388') in 0.000597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.065610 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_1.png
+  artifactKey: Guid(2681e04a7a0f5324b9db7dbddbc6b0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_1.png using Guid(2681e04a7a0f5324b9db7dbddbc6b0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fcdb405818565e4f6b8b17d38567866') in 0.083837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_7.png
+  artifactKey: Guid(930faa2ab7aa7744fb2bb62aed3aa3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_7.png using Guid(930faa2ab7aa7744fb2bb62aed3aa3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490ed8bab70989047f4e8b2d0ce10f6a') in 0.088756 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_3.png
+  artifactKey: Guid(e827898b224cacc4c9786160bb9e6c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_3.png using Guid(e827898b224cacc4c9786160bb9e6c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d111c026364000b53b0fbb90f3d0cd') in 0.072100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_10.png
+  artifactKey: Guid(2f81d420ceba4844ba0071c39b76e0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_10.png using Guid(2f81d420ceba4844ba0071c39b76e0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f9bc53282f2e5ff37823618e2f3dedd') in 0.041694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_8.png
+  artifactKey: Guid(bff730a21eecbb64bade280061d40eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_8.png using Guid(bff730a21eecbb64bade280061d40eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67a21b07322ce242830c71617fcfac7') in 0.050369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_5.png
+  artifactKey: Guid(5a9ea1222c8956b45a6327fae968430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_5.png using Guid(5a9ea1222c8956b45a6327fae968430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054d6c8118cbe2f985f63667fdcecdcd') in 0.047156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 22.909660 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_1.png
+  artifactKey: Guid(2681e04a7a0f5324b9db7dbddbc6b0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_1.png using Guid(2681e04a7a0f5324b9db7dbddbc6b0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3a7d3bca9dd111cd722edae9979dbb') in 0.052431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_7.png
+  artifactKey: Guid(930faa2ab7aa7744fb2bb62aed3aa3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_7.png using Guid(930faa2ab7aa7744fb2bb62aed3aa3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5c44ba7398b54dd6f49efd7fe06713') in 0.047553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_12.png
+  artifactKey: Guid(df7edad99cad0e44194a2800bab716eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_12.png using Guid(df7edad99cad0e44194a2800bab716eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a36705f35ab06af3d7adc2bac13718') in 0.059285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_8.png
+  artifactKey: Guid(bff730a21eecbb64bade280061d40eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_8.png using Guid(bff730a21eecbb64bade280061d40eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d04371d7870a57e4bfea7e9efd51f2') in 0.046198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_5.png
+  artifactKey: Guid(5a9ea1222c8956b45a6327fae968430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Leaf_ranger_Free_v1.0/animations/PNG/idle/idle_5.png using Guid(5a9ea1222c8956b45a6327fae968430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54071aef8a27fe30128c2a9534ed375') in 0.055586 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 17.752285 seconds.
+  path: Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1
+  artifactKey: Guid(314a2e2813aa5114caa18cf4d44577f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1 using Guid(314a2e2813aa5114caa18cf4d44577f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd411194d0c55ae24a330eb6c327ab6') in 0.001040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.055374 seconds.
+  path: Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/metal_bladekeeper.png
+  artifactKey: Guid(b842839198dec014384d40437231f3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/metal_bladekeeper.png using Guid(b842839198dec014384d40437231f3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9688496a3a18f8d40394a4e904c3fd6') in 0.001449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.320982 seconds.
+  path: Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/aseprite
+  artifactKey: Guid(89a9d8e11569f974ea7fadd6d8841491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/aseprite using Guid(89a9d8e11569f974ea7fadd6d8841491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06c36064b273721045816557d0cb5eb') in 0.001059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.217524 seconds.
+  path: Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/aseprite/metal_bladekeeper_FREE_v1.1.aseprite
+  artifactKey: Guid(7a1a481208f019e43bdf2c8fcf919db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/aseprite/metal_bladekeeper_FREE_v1.1.aseprite using Guid(7a1a481208f019e43bdf2c8fcf919db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ef138c1cfff1b46926ddd338d7f10a') in 1.374393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 244
+========================================================================
+Received Import Request.
+  Time since last request: 1.594527 seconds.
+  path: Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/PNG animations
+  artifactKey: Guid(4399e0bea974b804faa9e097b62f8337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/PNG animations using Guid(4399e0bea974b804faa9e097b62f8337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346dc39e85ca98f70797d76b3f3aec39') in 0.001503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.483741 seconds.
+  path: Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/PNG animations/01_idle
+  artifactKey: Guid(e5e5b1cd8a8b3b84aab7fcee4b8a82b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Metal_Elementals_metal_bladekeeper_FREE_v1.1/PNG animations/01_idle using Guid(e5e5b1cd8a8b3b84aab7fcee4b8a82b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d86b5c75c88d8d9874727ec9049865c') in 0.000815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 85.247848 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_elementals_wind_hashashin_FREE_v1.1
+  artifactKey: Guid(c2707cec9f62a5f48b08c0673952c244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_elementals_wind_hashashin_FREE_v1.1 using Guid(c2707cec9f62a5f48b08c0673952c244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2c3acec67d6d7f1323c74a61dd4750') in 0.002550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 311.019463 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1
+  artifactKey: Guid(d1ccb1b4df115184aa0b6d54ed81ed88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1 using Guid(d1ccb1b4df115184aa0b6d54ed81ed88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518759cfe3c8e43023bcfe05cae41aad') in 0.000692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.223517 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/wind_hashashin.png
+  artifactKey: Guid(a4532dfcb85a9c740898f6058fdc2269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/wind_hashashin.png using Guid(a4532dfcb85a9c740898f6058fdc2269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0048df62ec0a16a9eaa63a131c27ec') in 0.089989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/wind_SpriteSheet_288x128.png
+  artifactKey: Guid(8a9b5b09e88212e43b7ba2bcac8bce77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/wind_SpriteSheet_288x128.png using Guid(8a9b5b09e88212e43b7ba2bcac8bce77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba007127703e32396ddf4716556ad92') in 0.060143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.124757 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG
+  artifactKey: Guid(57ca072c5e462cf4d8027d9a2fa1033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG using Guid(57ca072c5e462cf4d8027d9a2fa1033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c0184929af2ba78fb14533ef71424d') in 0.000777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.223380 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle
+  artifactKey: Guid(17be2548f66270446b0e67a25d05a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle using Guid(17be2548f66270446b0e67a25d05a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7453a7e7db8f44a47e2482dba12b0e44') in 0.000736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.097157 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_1.png
+  artifactKey: Guid(a168857a6150ca04d86ab8f964df9010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_1.png using Guid(a168857a6150ca04d86ab8f964df9010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84eef8fb56c9c79bb0164cfb3cde0af') in 0.034586 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.006724 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_5.png
+  artifactKey: Guid(e0e95ffaf7609894399c0f8d4ff176d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_5.png using Guid(e0e95ffaf7609894399c0f8d4ff176d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f455e9388536a43910e0bbfbc31b92') in 0.046437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_7.png
+  artifactKey: Guid(5bd6f89dded35bb47a4b64ada6ca0726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_7.png using Guid(5bd6f89dded35bb47a4b64ada6ca0726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652856165f7dee190dc45a201d4143ee') in 0.037621 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_4.png
+  artifactKey: Guid(c6f0e34d866dd564cb6e052e8688281e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_4.png using Guid(c6f0e34d866dd564cb6e052e8688281e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ccb5d5667d8cbdd7cc4cf2d0503a47') in 0.046872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.163972 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_2.png
+  artifactKey: Guid(3300510c2a18e2b4ab66572a81627406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_2.png using Guid(3300510c2a18e2b4ab66572a81627406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd632859503b7c24677a09a068fa41441') in 0.116610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_5.png
+  artifactKey: Guid(e0e95ffaf7609894399c0f8d4ff176d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_5.png using Guid(e0e95ffaf7609894399c0f8d4ff176d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7d052562308cc61b57370863e7113b') in 0.090960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_7.png
+  artifactKey: Guid(5bd6f89dded35bb47a4b64ada6ca0726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Characters/Wind_hashashin_FREE_v1.1/PNG/idle/idle_7.png using Guid(5bd6f89dded35bb47a4b64ada6ca0726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2350bc258ffee1f6d09f82dfb4fe48') in 0.094127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -15,7 +15,7 @@ C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-60518
+51342
 Successfully changed project path to: C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto
 C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,12 +49,12 @@ C:/Users/Usuario/Documents/GitHub/DAM_UF2_Proyecto/UF2_Proyecto
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [22520] Host "[IP] 192.168.46.48 [Port] 0 [Flags] 2 [Guid] 1683180115 [EditorId] 1683180115 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-3P4O3T5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [57488] Host "[IP] 192.168.1.131 [Port] 0 [Flags] 2 [Guid] 2681401913 [EditorId] 2681401913 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-3P4O3T5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [22520] Host "[IP] 192.168.46.48 [Port] 0 [Flags] 2 [Guid] 1683180115 [EditorId] 1683180115 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-3P4O3T5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [57488] Host "[IP] 192.168.1.131 [Port] 0 [Flags] 2 [Guid] 2681401913 [EditorId] 2681401913 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-3P4O3T5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
-Refreshing native plugins compatible for Editor in 25.42 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 84.47 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.17f1 (4fc78088f837)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Resources/UnitySubsystems
@@ -70,46 +70,44 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.072838 seconds.
-- Loaded All Assemblies, in  1.566 seconds
+Registered in 0.030815 seconds.
+- Loaded All Assemblies, in  0.964 seconds
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.974 seconds
-Domain Reload Profiling: 2522ms
-	BeginReloadAssembly (282ms)
+- Finished resetting the current domain, in  0.617 seconds
+Domain Reload Profiling: 1579ms
+	BeginReloadAssembly (286ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (2ms)
-	RebuildCommonClasses (122ms)
-	RebuildNativeTypeToScriptingClass (53ms)
-	initialDomainReloadingComplete (510ms)
-	LoadAllAssembliesAndSetupDomain (580ms)
-		LoadAssemblies (285ms)
+	RebuildCommonClasses (76ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (185ms)
+	LoadAllAssembliesAndSetupDomain (398ms)
+		LoadAssemblies (280ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (560ms)
-			TypeCache.Refresh (557ms)
-				TypeCache.ScanAssembly (517ms)
+		AnalyzeDomain (394ms)
+			TypeCache.Refresh (390ms)
+				TypeCache.ScanAssembly (335ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (975ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (618ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (739ms)
+		SetupLoadedEditorAssemblies (490ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (112ms)
-			SetLoadedEditorAssemblies (55ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (18ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (23ms)
-			ProcessInitializeOnLoadAttributes (438ms)
-			ProcessInitializeOnLoadMethodAttributes (111ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (315ms)
+			ProcessInitializeOnLoadMethodAttributes (134ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -117,60 +115,59 @@ Domain Reload Profiling: 2522ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  3.300 seconds
-Refreshing native plugins compatible for Editor in 51.90 ms, found 4 plugins.
+- Loaded All Assemblies, in  1.460 seconds
+Refreshing native plugins compatible for Editor in 8.68 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.878 seconds
-Domain Reload Profiling: 6173ms
-	BeginReloadAssembly (600ms)
+- Finished resetting the current domain, in  1.403 seconds
+Domain Reload Profiling: 2860ms
+	BeginReloadAssembly (315ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (12ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (41ms)
-	RebuildCommonClasses (298ms)
-	RebuildNativeTypeToScriptingClass (122ms)
-	initialDomainReloadingComplete (247ms)
-	LoadAllAssembliesAndSetupDomain (2027ms)
-		LoadAssemblies (1725ms)
+	RebuildCommonClasses (97ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (103ms)
+	LoadAllAssembliesAndSetupDomain (912ms)
+		LoadAssemblies (688ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (770ms)
-			TypeCache.Refresh (513ms)
-				TypeCache.ScanAssembly (408ms)
-			ScanForSourceGeneratedMonoScriptInfo (205ms)
-			ResolveRequiredComponents (47ms)
-	FinalizeReload (2879ms)
+		AnalyzeDomain (390ms)
+			TypeCache.Refresh (294ms)
+				TypeCache.ScanAssembly (262ms)
+			ScanForSourceGeneratedMonoScriptInfo (86ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1406ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (2438ms)
+		SetupLoadedEditorAssemblies (1092ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (19ms)
-			SetLoadedEditorAssemblies (8ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (292ms)
-			ProcessInitializeOnLoadAttributes (2019ms)
-			ProcessInitializeOnLoadMethodAttributes (83ms)
-			AfterProcessingInitializeOnLoad (17ms)
+			BeforeProcessingInitializeOnLoad (138ms)
+			ProcessInitializeOnLoadAttributes (811ms)
+			ProcessInitializeOnLoadMethodAttributes (113ms)
+			AfterProcessingInitializeOnLoad (9ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (14ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
 Failed to load shader (instanceID 416, GUID bedd19944f451ba4d83e7ed69be98d5c)
 Failed to load shader (instanceID 418, GUID 9c442dc870b456e48b615cd8add0e9ef)
 Failed to load shader (instanceID 412, GUID 603d454d711fe784cba9ce08dd22b881)
 Failed to load shader (instanceID 408, GUID 0a8f4dcd626bcd14bbbfa5a5e116b16e)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.51 seconds
-Refreshing native plugins compatible for Editor in 27.51 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 6.93 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1016 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (109.1 KB). Loaded Objects now: 1483.
-Memory consumption went from 91.2 MB to 91.1 MB.
-Total: 7.280300 ms (FindLiveObjects: 0.186700 ms CreateObjectMapping: 0.055100 ms MarkObjects: 6.790900 ms  DeleteObjects: 0.245700 ms)
+Unloading 1018 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (109.2 KB). Loaded Objects now: 1485.
+Memory consumption went from 91.3 MB to 91.2 MB.
+Total: 5.688700 ms (FindLiveObjects: 0.139200 ms CreateObjectMapping: 0.031900 ms MarkObjects: 5.235900 ms  DeleteObjects: 0.279000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -187,9 +184,326 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 4648.168061 seconds.
-  path: Assets/stringstar fields/_stringstar_fields.aseprite
-  artifactKey: Guid(24050a2db3f8a8f44911864c9d4efb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/stringstar fields/_stringstar_fields.aseprite using Guid(24050a2db3f8a8f44911864c9d4efb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7df83633e7c19c08d37406e8b4c8123') in 0.510046 seconds
+  Time since last request: 14485.128204 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons
+  artifactKey: Guid(69c8db40c053c303ca4dc50ca1d4451e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons using Guid(69c8db40c053c303ca4dc50ca1d4451e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0539a11fffb3bf8cc523e8c6e3a2b644') in 0.005151 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 7
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.044751 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (1).png
+  artifactKey: Guid(a94b5690fe47028d3b429fefb6a968db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (1).png using Guid(a94b5690fe47028d3b429fefb6a968db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f938a8744a86aedfd6aee98f60c0745') in 0.414056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (18).png
+  artifactKey: Guid(0b0dc8c0aca58d6baa58f7283df88a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (18).png using Guid(0b0dc8c0aca58d6baa58f7283df88a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '484156d23e88e99ab5bf86876f4b899f') in 0.173760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (11).png
+  artifactKey: Guid(5987eac7a0f29a3c19acb60306420dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (11).png using Guid(5987eac7a0f29a3c19acb60306420dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94d80f32a78b2a237b4ec779e0ee68e') in 0.061696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (19).png
+  artifactKey: Guid(648cbc99fbfd1bde6b54d9391c69cf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (19).png using Guid(648cbc99fbfd1bde6b54d9391c69cf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741e6cfa86302b0f05791ccefc98fb87') in 0.054945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (4).png
+  artifactKey: Guid(405545c3f32ae8223a5f39a3020620de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (4).png using Guid(405545c3f32ae8223a5f39a3020620de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4e7666149109f99155acfeb56f6fbd') in 0.083155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (10).png
+  artifactKey: Guid(52823699ae0bf3242acd0d571354c0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (10).png using Guid(52823699ae0bf3242acd0d571354c0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b4da5718db96a1699f1889907d3861') in 0.058835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (17).png
+  artifactKey: Guid(6f4a3077e85124aa1a254061a8ce2c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (17).png using Guid(6f4a3077e85124aa1a254061a8ce2c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e413a76d827456a6e780aa5ce07d67b') in 0.049622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (15).png
+  artifactKey: Guid(081c47e9245e6979aa6c09e154c0d9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (15).png using Guid(081c47e9245e6979aa6c09e154c0d9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f6468c5d77e84dfacd5e747e305bc3') in 0.115987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (20).png
+  artifactKey: Guid(3d5410d499590512a98c15e4f6a2717b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (20).png using Guid(3d5410d499590512a98c15e4f6a2717b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b163a46d83347e143a37911e424c2d05') in 0.077490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (3).png
+  artifactKey: Guid(856fd8182e27415ac935cd7b55f1c4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (3).png using Guid(856fd8182e27415ac935cd7b55f1c4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf0bd60667ebaf31631279eea53b01d') in 0.084407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (7).png
+  artifactKey: Guid(64a3cd9acaa23bb8e85c532e198c2ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (7).png using Guid(64a3cd9acaa23bb8e85c532e198c2ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3042642eea3ba741006308b03d8a2cf7') in 0.188127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (32).png
+  artifactKey: Guid(082d377717ad8de26ac4e88c5dd6dcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (32).png using Guid(082d377717ad8de26ac4e88c5dd6dcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e7bfb31ba2acd8524c72209939811a') in 0.184308 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (24).png
+  artifactKey: Guid(406f9c5a7403dba16abf1534e09c5687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (24).png using Guid(406f9c5a7403dba16abf1534e09c5687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4b9ab457a0b59139233b4112dba11c') in 0.065182 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (25).png
+  artifactKey: Guid(0d966f291cc4a316b830e7da312850bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Ability_icons/Ability_icon (25).png using Guid(0d966f291cc4a316b830e7da312850bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d8e4ddeef405a737f2b1b986b5fe0a') in 0.055314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 30.252066 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates
+  artifactKey: Guid(fd04c06daf3da106da282eaa1f07d4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates using Guid(fd04c06daf3da106da282eaa1f07d4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f38f6c3d495e3226117bbb08bdc43d') in 0.000861 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.063289 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (1).png
+  artifactKey: Guid(f7fd3fb58f250cde78259835f7a67c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (1).png using Guid(f7fd3fb58f250cde78259835f7a67c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bdd193c579fb692d71ead449011e17c') in 0.039023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (6).png
+  artifactKey: Guid(c6beb13ffdad332afa7be9d7669a6ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (6).png using Guid(c6beb13ffdad332afa7be9d7669a6ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0024fe3a642092f088535b8e496ca804') in 0.023980 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (8).png
+  artifactKey: Guid(0eec2faa4d9614b4a879ef751f60ac68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (8).png using Guid(0eec2faa4d9614b4a879ef751f60ac68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5296eba8a40f469ecf1938f90e974001') in 0.027679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (10).png
+  artifactKey: Guid(fdf5a0214f892bdffa4f2b4e45eeac80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (10).png using Guid(fdf5a0214f892bdffa4f2b4e45eeac80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc098e41abedf06dc119f569a6a49900') in 0.035905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (20).png
+  artifactKey: Guid(08f03fdefcaff9bf8a7796f90e5a7490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (20).png using Guid(08f03fdefcaff9bf8a7796f90e5a7490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261137e93f8e27d1aee5f931caf7b676') in 0.075836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (27).png
+  artifactKey: Guid(2412a1afe06557779921086e3216d630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (27).png using Guid(2412a1afe06557779921086e3216d630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8201996c14cd5536369273350b4bcd3e') in 0.043724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (21).png
+  artifactKey: Guid(7442dbc7d90e0f87c9a06fca702daa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (21).png using Guid(7442dbc7d90e0f87c9a06fca702daa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce770ab72fcb77558243ae287c0b1af') in 0.055957 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (18).png
+  artifactKey: Guid(7cf7f27d8bfc5d9d79ffa573e5c7dbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (18).png using Guid(7cf7f27d8bfc5d9d79ffa573e5c7dbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747c49646c2410e8e00192deb16efb99') in 0.067234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (12).png
+  artifactKey: Guid(eb517c0b81ee456808c4c07c54fc136e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (12).png using Guid(eb517c0b81ee456808c4c07c54fc136e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965094e4ce3d9c00ae523c7a09f8b378') in 0.072306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (16).png
+  artifactKey: Guid(a93c712abfb4d00cba80cde87a4adeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (16).png using Guid(a93c712abfb4d00cba80cde87a4adeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48b5ab0c6e1477f46cc1a6a1e6878a4') in 0.091163 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (5).png
+  artifactKey: Guid(8fc62b1b7db2b89eaa99f768c06942c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (5).png using Guid(8fc62b1b7db2b89eaa99f768c06942c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16dc337912ad4658335a2bfa6dabdeee') in 0.146213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (25).png
+  artifactKey: Guid(0f2a578f3e79d4514b89ac97d959a441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (25).png using Guid(0f2a578f3e79d4514b89ac97d959a441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16ad7b965bfe18c3f1554146ab0606a') in 0.047316 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.690071 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (32).png
+  artifactKey: Guid(fb03e74b96301b17698e47984dba29bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (32).png using Guid(fb03e74b96301b17698e47984dba29bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd497b327bbe8ff4d606fd2b96ef6b22b') in 0.044481 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (38).png
+  artifactKey: Guid(c5eb83189b1acb8d994391b4876df7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (38).png using Guid(c5eb83189b1acb8d994391b4876df7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7069a7d931e18c977b6399049d1b75') in 0.032874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (41).png
+  artifactKey: Guid(36ccff154c5729a5096fbaf515b47210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (41).png using Guid(36ccff154c5729a5096fbaf515b47210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5bf75d2819a46f7f2ec14a8aa44a54a') in 0.077474 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (37).png
+  artifactKey: Guid(fbdaf7b10125d433f80c0351f45fcc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (37).png using Guid(fbdaf7b10125d433f80c0351f45fcc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461be9a93ebb24ce2a77d8ae9d2ca142') in 0.067368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002506 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (43).png
+  artifactKey: Guid(0e8beb251d85fce33852279b19744103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (43).png using Guid(0e8beb251d85fce33852279b19744103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04eb320c853a93dfbe5ff797358c9ce6') in 0.026117 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (47).png
+  artifactKey: Guid(443ef986d786cb84e8ddb7ccf45af889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (47).png using Guid(443ef986d786cb84e8ddb7ccf45af889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c31342ba1f0729c857467c5ecc9ed9') in 0.077767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (55).png
+  artifactKey: Guid(e0f87360b06d084f2bf024f8f6075892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (55).png using Guid(e0f87360b06d084f2bf024f8f6075892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c256f32910fc6fd94fa17ad611ac9617') in 0.092526 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (53).png
+  artifactKey: Guid(2fe1d8c347567009bb7c9160793fac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (53).png using Guid(2fe1d8c347567009bb7c9160793fac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb70eaa9666a6a63a2e43494835011d') in 0.040415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (60).png
+  artifactKey: Guid(7d16ad631f0a30a01994ca28bfd3efd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (60).png using Guid(7d16ad631f0a30a01994ca28bfd3efd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bd53de419f18101ecca98a4be8a04f') in 0.090650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (51).png
+  artifactKey: Guid(84f824def13f52657837664f6ec61bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (51).png using Guid(84f824def13f52657837664f6ec61bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0994d6e2be094d4f2db2a9af8dab766') in 0.086128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (54).png
+  artifactKey: Guid(2b504e64fd4e36de796cb852a3fd8906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (54).png using Guid(2b504e64fd4e36de796cb852a3fd8906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a3557bec5fa7a42f57005ee4a5aedc') in 0.039655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.050279 seconds.
+  path: Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (62).png
+  artifactKey: Guid(943d3c25bc1542d6ab557f38f25c5ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DownloadedContent/Edinnu_UI_asset_pack/Dialogue_plates/Plate (62).png using Guid(943d3c25bc1542d6ab557f38f25c5ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759e645643e618f324bac923273323d3') in 0.106236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
