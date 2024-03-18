@@ -16,6 +16,10 @@ public class Pause : MonoBehaviour
         }
     }
 
+    private void OnMouseDown(){
+        TogglePause();
+    }
+
     void Update()
     {
         // Activa/desactiva el objeto al pulsar la tecla "Escape"
