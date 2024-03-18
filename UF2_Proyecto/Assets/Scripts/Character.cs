@@ -1,8 +1,11 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Character : MonoBehaviour
 {
+    [SerializeField] private GameObject blackFadeObject; // Objeto con el script de desvanecimiento
+    [SerializeField] private Camera mainCamera; // Cámara a la que se le aplicará el efecto de desvanecimiento
     private float moveSpeed = 5f;
     private float jumpForce = 13f;
     private float impulsoVoltereta = 5f;
@@ -17,13 +20,21 @@ public class Character : MonoBehaviour
     private bool isFacingRight = true;
     private bool puedeRealizarAcciones = true;
     private bool haciendoVoltereta = false;
-    private bool defendiendo = false;
+    private bool invulnerable = false;
     private bool atacando = false;
 
     protected float TimeAtk1;
     protected float TimeAtk2;
     protected float TimeAtk3;
     protected float TimeSpecialAtk;
+
+    [SerializeField] private GameObject[] vidaVista;
+    [SerializeField] private GameObject[] manaVisto;
+
+
+    private int vida;
+
+    private int mana;
 
     void Start()
     {
@@ -32,10 +43,15 @@ public class Character : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         TimeInitializer();
+        mana = 99;
+        vida = 99;
+        UpdateUI();
+        InvokeRepeating("IncrementarMana", 1f, 1f);
     }
 
     void Update()
     {
+        UpdateUI();
         if (puedeRealizarAcciones)
         {
             FueraDelMapa();
@@ -46,7 +62,7 @@ public class Character : MonoBehaviour
                 float movimientoVoltereta = impulsoVoltereta * (isFacingRight ? 1f : -1f);
                 rb.velocity = new Vector2(movimientoVoltereta, rb.velocity.y);
             }
-            else if (defendiendo) { }
+            else if (invulnerable) { }
             else if (atacando) { }
             else
             {
@@ -56,10 +72,6 @@ public class Character : MonoBehaviour
                 MovimientoLateral();
                 // Lógica de voltear
                 Voltear();
-                if (IsGrounded() && Input.GetKeyDown(KeyCode.K))
-                {
-                    recibirDaño(0);
-                }
                 // Salto con la tecla espacio solo si está en el suelo
                 Saltar();
                 // Voltereta con la tecla R solo si está en el suelo
@@ -79,9 +91,6 @@ public class Character : MonoBehaviour
                     // Lógica de animación de salto y caída
                     enElAire();
                 }
-
-
-
             }
         }
     }
@@ -187,27 +196,30 @@ public class Character : MonoBehaviour
         if (IsGrounded() && (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow)))
         {
             animator.SetTrigger("Defensa");
-            defendiendo = true;
+            invulnerable = true;
             yield return new WaitForSeconds(2f);
-            defendiendo = false;
+            invulnerable = false;
         }
 
     }
 
     public void recibirDaño(int daño)
     {
-        if (!defendiendo)
+        if (!invulnerable)
         {
             puedeRealizarAcciones = false;
+            invulnerable = true;
+            ModificarVida(daño * -1);
             animator.SetTrigger("Daño");
-            Tiempo(3f);
-            puedeRealizarAcciones = true;
+            StartCoroutine(Tiempo(1f));
         }
     }
 
     private IEnumerator Tiempo(float numero)
     {
         yield return new WaitForSeconds(numero);
+        puedeRealizarAcciones = true;
+        invulnerable = false;
     }
 
 
@@ -224,7 +236,9 @@ public class Character : MonoBehaviour
         rb.gravityScale = 0.1f;
 
         animator.SetTrigger("AirAtk");
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.5f);
+        MakeAirAtk();
+        yield return new WaitForSeconds(0.5f);
         rb.gravityScale = gravity;
         puedeRealizarAcciones = true;
     }
@@ -237,7 +251,9 @@ public class Character : MonoBehaviour
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("Atk1");
-            yield return new WaitForSeconds(TimeAtk1);
+            yield return new WaitForSeconds(TimeAtk1 / 2);
+            MakeAtk1();
+            yield return new WaitForSeconds(TimeAtk1 / 2);
             atacando = false;
             puedeRealizarAcciones = true;
 
@@ -248,7 +264,9 @@ public class Character : MonoBehaviour
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("Atk2");
-            yield return new WaitForSeconds(TimeAtk2);
+            yield return new WaitForSeconds(TimeAtk2 / 2);
+            MakeAtk2();
+            yield return new WaitForSeconds(TimeAtk2 / 2);
             atacando = false;
             puedeRealizarAcciones = true;
 
@@ -258,7 +276,10 @@ public class Character : MonoBehaviour
                 atacando = true;
                 puedeRealizarAcciones = false;
                 animator.SetTrigger("Atk3");
-                yield return new WaitForSeconds(TimeAtk3);
+                yield return new WaitForSeconds(TimeAtk3 / 3);
+                yield return new WaitForSeconds(TimeAtk3 / 3);
+                MakeAtk3();
+                yield return new WaitForSeconds(TimeAtk3 / 3);
                 atacando = false;
                 puedeRealizarAcciones = true;
             }
@@ -268,28 +289,135 @@ public class Character : MonoBehaviour
             }
         }
     }
-
+    private void IncrementarMana()
+    {
+        if (mana < 99)
+        {
+            ModificarMana(1); // Llama a la función existente para modificar el mana
+        }
+    }
     private IEnumerator AtkEspecial()
     {
-        if (IsGrounded() && (Input.GetKeyDown(KeyCode.E)))
+        if (IsGrounded() && Input.GetKeyDown(KeyCode.E) && mana == 99)
         {
+            mana = 0;
             atacando = true;
             puedeRealizarAcciones = false;
             animator.SetTrigger("SpecialAtk");
-            yield return new WaitForSeconds(TimeSpecialAtk);
+            yield return new WaitForSeconds(TimeSpecialAtk / 3);
+            yield return new WaitForSeconds(TimeSpecialAtk / 3);
+            MakeSpecialAtk();
+            yield return new WaitForSeconds(TimeSpecialAtk / 3);
             atacando = false;
             puedeRealizarAcciones = true;
         }
     }
 
 
-    protected virtual void TimeInitializer(){
+    protected virtual void TimeInitializer()
+    {
+
+    }
+    // Método para actualizar la visualización de la vida
+    private void UpdateVidaUI()
+    {
+        // Calcular la cantidad de vida por objeto en el vidaVista
+        int vidaPorObjeto = vida / vidaVista.Length;
+
+        // Obtener el número de objetos activos requeridos basados en el nivel de vida
+        int objetosActivos = Mathf.CeilToInt((float)vida / vidaPorObjeto);
+
+        // Iterar sobre los objetos en vidaVista
+        for (int i = 0; i < vidaVista.Length; i++)
+        {
+            // Determinar si este objeto debe estar activo o desactivado
+            bool activo = (i < objetosActivos && vida > i * 11);
+
+            // Activar o desactivar el objeto en vidaVista según el cálculo anterior
+            vidaVista[i].SetActive(!activo);
+        }
+    }
+
+    // Método para actualizar la visualización del mana
+    private void UpdateManaUI()
+    {
+        // Calcular la cantidad de mana por objeto en manaVisto
+        int manaPorObjeto = mana / manaVisto.Length;
+
+        // Obtener el número de objetos activos requeridos basados en el nivel de mana
+        int objetosActivos = Mathf.CeilToInt((float)mana / manaPorObjeto);
+
+        // Iterar sobre los objetos en manaVisto
+        for (int i = 0; i < manaVisto.Length; i++)
+        {
+            // Determinar si este objeto debe estar activo o desactivado
+            bool activo = (i < objetosActivos && mana > i * 11);
+
+            // Activar o desactivar el objeto en manaVisto según el cálculo anterior
+            manaVisto[i].SetActive(!activo);
+        }
+    }
+
+
+
+    private void UpdateUI()
+    {
+        UpdateVidaUI();
+        UpdateManaUI();
+    }
+
+    // Método para modificar la cantidad de vida
+    public void ModificarVida(int cantidad)
+    {
+        vida += cantidad;
+        UpdateVidaUI();
+
+        if (vida <= 0)
+        {
+            puedeRealizarAcciones = false;
+            StartCoroutine(Morir());
+        }
 
     }
 
-    protected virtual void MakeAtk1(){}
-    protected virtual void MakeAtk2(){}
-    protected virtual void MakeAtk3(){}
-    protected virtual void MakeSpecialAtk(){}
-    protected virtual void MakeAirAtk(){}
+    // Método para modificar la cantidad de mana
+    public void ModificarMana(int cantidad)
+    {
+        mana += cantidad;
+        UpdateManaUI();
+    }
+    private IEnumerator Morir()
+    {
+        // Asegurarse de que se haya asignado un objeto de desvanecimiento y una cámara
+        puedeRealizarAcciones = false;
+        animator.SetTrigger("Death");
+        if (blackFadeObject != null && mainCamera != null)
+        {
+            // Obtener el script de desvanecimiento del objeto
+            fadeblackController fadeController = blackFadeObject.GetComponent<fadeblackController>();
+            // Comenzar el desvanecimiento
+            fadeController.FadeIn();
+            // Acceder al SongController y hacer FadeOut
+            SongController songController = FindObjectOfType<SongController>();
+            if (songController != null)
+            {
+                songController.StartCoroutine(songController.FadeOut());
+            }
+            yield return new WaitForSeconds(5f);
+            SceneManager.LoadScene(3);
+        }
+        else
+        {
+            Debug.LogError("No se ha asignado un objeto de desvanecimiento o una cámara.");
+        }
+    }
+
+
+
+
+    protected virtual void MakeAtk1() { }
+    protected virtual void MakeAtk2() { }
+    protected virtual void MakeAtk3() { }
+    protected virtual void MakeSpecialAtk() { }
+    protected virtual void MakeAirAtk() { }
 }

@@ -5,8 +5,10 @@ public class BookController : MonoBehaviour
 {
     private Animator animator;
     [SerializeField] private GameObject[] objectsToShow;
-    public GameObject objectToDeactivate; // Objeto a desactivar
-    public GameObject objectToActivate;   // Objeto a activar
+    [SerializeField] public bool doesitstart = false;
+    [SerializeField] public GameObject objectToDeactivate; // Objeto a desactivar
+    [SerializeField] public GameObject objectToActivate;   // Objeto a activar
+    private bool empezado; 
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +19,13 @@ public class BookController : MonoBehaviour
         {
             Debug.LogError("Se requiere un BoxCollider2D para detectar clics. Agrega un BoxCollider2D al objeto.");
         }
+
+        if (doesitstart && ! empezado){
+            empezado=true;
+            StartCoroutine(SwitchObjects());
+            animator.SetTrigger("Open");
+        }
+
     }
 
     // Método llamado cuando se hace clic en el objeto
@@ -25,6 +34,7 @@ public class BookController : MonoBehaviour
         // Verifica si el botón izquierdo del ratón fue presionado y el libro no está en proceso de apertura
         if (Input.GetMouseButtonDown(0))
         {
+            
             // Activa el trigger "Open" en el Animator
             StartCoroutine(SwitchObjects());
             animator.SetTrigger("Open");
@@ -65,5 +75,10 @@ public class BookController : MonoBehaviour
     void Update()
     {
         // Puedes realizar otras operaciones de actualización aquí si es necesario
+        if (doesitstart&& ! empezado){
+            empezado=true;
+            StartCoroutine(SwitchObjects());
+            animator.SetTrigger("Open");
+        }
     }
 }
