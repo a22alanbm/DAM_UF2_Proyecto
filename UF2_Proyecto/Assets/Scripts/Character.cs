@@ -391,6 +391,8 @@ public class Character : MonoBehaviour
         // Asegurarse de que se haya asignado un objeto de desvanecimiento y una cámara
         puedeRealizarAcciones = false;
         animator.SetTrigger("Death");
+        yield return new WaitForSeconds(1f);
+        gameObject.SetActive(false);
         if (blackFadeObject != null && mainCamera != null)
         {
             // Obtener el script de desvanecimiento del objeto

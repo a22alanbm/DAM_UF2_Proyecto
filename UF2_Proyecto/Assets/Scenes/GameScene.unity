@@ -2268,6 +2268,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: dc90d34505659c8c4a734182b8f32a9c, type: 3}
   - {fileID: 21300000, guid: a98f91d6725014498a5061057b2e246f, type: 3}
   - {fileID: 21300000, guid: b9d4a843f1e1ea981818fefb1ce04521, type: 3}
+  blackFadeObject: {fileID: 0}
+  mainCamera: {fileID: 0}
 --- !u!1001 &994611263
 PrefabInstance:
   m_ObjectHideFlags: 0

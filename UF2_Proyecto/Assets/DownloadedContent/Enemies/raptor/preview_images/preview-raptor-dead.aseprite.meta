@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 9d96667bdc263a7469144f354a2e88df
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: preview-raptor-dead_Frame_0
+    originalName: 
+    pivot: {x: 0.61538464, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 52
+      height: 25
+    spriteID: f0aac7fbb30b8904b9eb8af701775dac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: preview-raptor-dead_Frame_1
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 37
+      width: 45
+      height: 20
+    spriteID: 559977b7a2487c342ad7108e35d161d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 37}
+  - name: preview-raptor-dead_Frame_2
+    originalName: 
+    pivot: {x: 0.4901961, y: 0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 65
+      width: 51
+      height: 17
+    spriteID: 24ee9999f95794d4bbab979d90b568ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 65}
+  - name: preview-raptor-dead_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 90
+      width: 52
+      height: 16
+    spriteID: e441d7e18d60eec45b2f21c5b700f371
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 90}
+  - name: preview-raptor-dead_Frame_4
+    originalName: 
+    pivot: {x: 0.5090909, y: 0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 22
+      width: 55
+      height: 9
+    spriteID: 9a6150d64e43cd049965bf5840f18a5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 22}
+  - name: preview-raptor-dead_Frame_5
+    originalName: 
+    pivot: {x: 0.5090909, y: 0.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 4
+      width: 55
+      height: 10
+    spriteID: d2549279d62375443a05a252ee3e9015
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 4}
+  - name: preview-raptor-dead_Frame_6
+    originalName: 
+    pivot: {x: 0.5090909, y: 0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 39
+      width: 55
+      height: 9
+    spriteID: 166bd664fb6294842996571d5ed7f7a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 39}
+  - name: preview-raptor-dead_Frame_7
+    originalName: 
+    pivot: {x: 0.5090909, y: 0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 56
+      width: 55
+      height: 9
+    spriteID: 28653d4f2960143499ce2ccc0f647113
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 56}
+  - name: preview-raptor-dead_Frame_8
+    originalName: 
+    pivot: {x: 0.5090909, y: 0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 73
+      width: 55
+      height: 9
+    spriteID: f014360a29e8eb940bc77a00b3b127f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 73}
+  - name: preview-raptor-dead_Frame_9
+    originalName: 
+    pivot: {x: 0.5090909, y: 0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 90
+      width: 55
+      height: 9
+    spriteID: a4d06c1e2e5e65a48b8791d806497d26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 90}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1131910446
+    name: preview-raptor-dead
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: preview-raptor-dead_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: 0
+        width: 52
+        height: 25
+      spriteId: f0aac7fbb30b8904b9eb8af701775dac
+    - name: preview-raptor-dead_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 40
+        y: 0
+        width: 45
+        height: 20
+      spriteId: 559977b7a2487c342ad7108e35d161d2
+    - name: preview-raptor-dead_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 39
+        y: -1
+        width: 51
+        height: 17
+      spriteId: 24ee9999f95794d4bbab979d90b568ab
+    - name: preview-raptor-dead_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 38
+        y: -1
+        width: 52
+        height: 16
+      spriteId: e441d7e18d60eec45b2f21c5b700f371
+    - name: preview-raptor-dead_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 36
+        y: -1
+        width: 55
+        height: 9
+      spriteId: 9a6150d64e43cd049965bf5840f18a5e
+    - name: preview-raptor-dead_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 36
+        y: -1
+        width: 55
+        height: 10
+      spriteId: d2549279d62375443a05a252ee3e9015
+    - name: preview-raptor-dead_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 36
+        y: -1
+        width: 55
+        height: 9
+      spriteId: 166bd664fb6294842996571d5ed7f7a8
+    - name: preview-raptor-dead_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 36
+        y: -1
+        width: 55
+        height: 9
+      spriteId: 28653d4f2960143499ce2ccc0f647113
+    - name: preview-raptor-dead_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 36
+        y: -1
+        width: 55
+        height: 9
+      spriteId: f014360a29e8eb940bc77a00b3b127f0
+    - name: preview-raptor-dead_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 36
+        y: -1
+        width: 55
+        height: 9
+      spriteId: a4d06c1e2e5e65a48b8791d806497d26
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 64}

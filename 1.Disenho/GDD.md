@@ -2,37 +2,37 @@
 
 ## PRESENTACIÓN/RESUMEN
 
-- Título. 
-- Concepto: descripción breve (un párrafo) de las ideas principales del juego
-- Género (puede ser más de uno)
-- Público (target audience)
-- Plataforma (PC, smartphone, tablet,...)
+- Título = The Seven's Tale
+- Concepto = Los siete deben aventurarse para salvar al reino de un poder maligno que poco a poco asola el mundo.
+- Género = Acción, aventura.
+- Público = Entusiastas de la fantasía medieval.
+- Plataforma = PC.
 
 
 ## GAMEPLAY
 
 ### Objetivos
 
-Descripción de cuáles son los objetivos principales (y secundarios si los hay) del juego
+Durante el juego pasarás de nivel 0 a nivel 5, matar los monstruos hará que suba de nivel, por cada nivel hay un monstruo más complicado y feroz, serás capaz de hacerte camino por el peligroso bosque encantado (de conocerte)? 
 
 #### Jugabilidad
 
-Descripción de la interacción y experiencia del jugador. Sistemas de premios o recompensas. Puzzles,...
+No hay recompensas, en la guerra solo hay pérdidas, debes combatir con los ataques del personaje y acabar con los enemigos, cada personaje y ataque aplican una técnica diferente que afecta directamente a los resultados.
 
 ### Progresión
 
-Avance entre las distintas fases (si las hay) del juego.
+Los monstruos de nivel 0 dan poca experiencia, los de nivel 1 algo más y así prograsivamente hasta que llegues al 5, entonces volverás a la taberna victoriosx.
 
 ### GUI
 
-Descripción del GUI y de la información mostrada al jugador durante el desarrollo de la partida
+Hay una barra de vida y una barra de maná que permite que uses una habilidad especial y poderosa pero que tardará en recuperarse.
 
 ## MECÁNICAS
 
-- Reglas: condiciones de victoria, condiciones de pérdida, reglas de combate,...
-- Interacción: controles e interacción del jugador con el personaje, acciones posibles, interacción con otros elementos o personajes,...
-- Puntaje: sistema de puntaje
-- Dificultad: parámetros de dificultad progresiva
+- Reglas: Sobrevivir y matar.
+- Interacción: Q simple y mantenida para atacar, E ataque especial, S para defender, A y D para moverse, W o Espacio para saltar, R para rodar Esc para parar el juego.
+- Puntaje: Carece de él.
+- Dificultad: Dificultad progresiva en base a enemigos más poderosos y peligrosos de 0 al 4.
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
