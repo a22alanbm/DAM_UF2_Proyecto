@@ -58,18 +58,35 @@ Finalmente, la determinación y el coraje de los siete guerreros inspiran un lev
 ## ASSETS
 
 https://chierit.itch.io/elementals-water-priestess y derivados.
+
 https://pixramen.itch.io/2d-dino-character-velociraptor
+
 https://finalbossblues.com/timefantasy/page/4/
+
 https://www.pinterest.es/pin/steam-stray-cadaver-inn-in-2024--1063623636982655262/
+
 https://elthen.itch.io/2d-pixel-art-minotaur-sprites
+
 https://lizcheong.itch.io/mud-enemy-sprite
+
 https://rowdy41.itch.io/edinnu-ui
+
 https://charmedwheat.itch.io/npcs-idle-and-talk
+
 https://trixelized.itch.io/starstring-fields
+
+https://foxeldev.itch.io/pixelbooks
+
 https://www.freepik.com/search?format=search&query=black%20background%20solid%20concrete%20wall%20
+
+https://www.goodfon.com/fantasy/wallpaper-art-city-town-paint-painting-fantastic-deviantart-fantasy-wo.html
+
 https://media.istockphoto.com/id/1310151781/photo/burning-books-books-on-fire-burning-news-burning-pages-of-books-burned-thoughts-of-books.jpg?s=612x612&w=0&k=20&c=pFhBmnQ1rgXBjJ7xdnszvtMC7XKwsEiQsYPwmsESIao=
 
 https://open.spotify.com/intl-es/track/6h1nuPZk9fQjjgKEuiRJOf?si=3279a6032be94742
+
 https://patricealbert.bandcamp.com/track/the-sound-of-silence
+
 https://open.spotify.com/intl-es/track/2nP8z6THTm4DVaFDPD9IUK?si=d9fb599f453e450e
+
 https://www.youtube.com/watch?v=RjVGz-GUpNQ
