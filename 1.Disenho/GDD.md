@@ -19,11 +19,11 @@ Durante el juego pasarás de nivel 0 a nivel 5, matar los monstruos hará que su
 
 No hay recompensas, en la guerra solo hay pérdidas, debes combatir con los ataques del personaje y acabar con los enemigos, cada personaje y ataque aplican una técnica diferente que afecta directamente a los resultados.
 
-### Progresión
+#### Progresión
 
 Los monstruos de nivel 0 dan poca experiencia, los de nivel 1 algo más y así prograsivamente hasta que llegues al 5, entonces volverás a la taberna victoriosx.
 
-### GUI
+#### GUI
 
 Hay una barra de vida y una barra de maná que permite que uses una habilidad especial y poderosa pero que tardará en recuperarse.
 
