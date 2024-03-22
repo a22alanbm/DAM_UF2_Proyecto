@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    
+
     [SerializeField] private int type; // Objeto con el script de desvanecimiento
     [SerializeField] public float speed = 3f; // Velocidad de movimiento del enemigo
     [SerializeField] public float attackRange = 1.5f; // Rango de ataque del enemigo
@@ -73,7 +73,9 @@ public class EnemyController : MonoBehaviour
     void AttackPlayer()
     {
         // Llamar a la función recibirDaño del jugador
-        animator.SetTrigger("Atk");
+        if(type!=0){
+            animator.SetTrigger("Atk");
+        }
         player.GetComponent<Character>().recibirDaño(damage);
     }
 
@@ -121,15 +123,18 @@ public class EnemyController : MonoBehaviour
             AgregarExperiencia();
 
             StartCoroutine(tiempo());
-            
+
         }
     }
-    IEnumerator tiempo(){
+    IEnumerator tiempo()
+    {
         animator.SetTrigger("Death");
-        yield return new WaitForSeconds(2);
-
-            spawner.EnemyDestroyed(type);
-            Destroy(gameObject);
+        if (type != 0)
+        {
+            yield return new WaitForSeconds(2);
+        }
+        spawner.EnemyDestroyed(type);
+        Destroy(gameObject);
     }
     public void SetSpawner(EnemySpawner spawner)
     {

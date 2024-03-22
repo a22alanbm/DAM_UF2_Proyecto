@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {instanceID: 0}
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 51
       height: 26
-    spriteID: 9bf949fbce6efef428070038354c546a
+    spriteID: 1204238a2c3bb883d868a09987af1ca5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 38
       width: 51
       height: 25
-    spriteID: d47b6a14e9bbbdc45974c6b36468ff7c
+    spriteID: 94a88c0613038b505a2e948cee3de0d9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -177,7 +177,7 @@ ScriptedImporter:
         y: 0
         width: 51
         height: 26
-      spriteId: 9bf949fbce6efef428070038354c546a
+      spriteId: 1204238a2c3bb883d868a09987af1ca5
     - name: raptor-idle_Frame_1
       frameIndex: 1
       cellRect:
@@ -185,7 +185,7 @@ ScriptedImporter:
         y: 0
         width: 51
         height: 25
-      spriteId: d47b6a14e9bbbdc45974c6b36468ff7c
+      spriteId: 94a88c0613038b505a2e948cee3de0d9
     linkedCells: []
     parentIndex: -1
   platformSettings: []

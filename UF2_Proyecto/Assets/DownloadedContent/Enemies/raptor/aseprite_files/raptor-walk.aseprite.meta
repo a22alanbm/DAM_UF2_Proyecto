@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {instanceID: 0}
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 74
       width: 52
       height: 26
-    spriteID: ac29d4ce66d59db4db95f63d485f7028
+    spriteID: cdfbe268f2eb4c56a9220b9fc64fd84c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 53
       height: 27
-    spriteID: a56ccda1a36c527459c7f9b51bc0437d
+    spriteID: e736ea732669bd771bac30f09617684a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 54
       height: 26
-    spriteID: a2df6984a5fa26b429b8dd913ae480bc
+    spriteID: 4134770eef1b4bb4bbaa5fa55b59f6dc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 39
       width: 53
       height: 27
-    spriteID: a54c4ee8e32150b4d8b9ee1dd2a33360
+    spriteID: fe00a579bb86f897385b8de801b5baf3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 38
       width: 52
       height: 26
-    spriteID: 47cd7dcfe799c744a830409b026796b9
+    spriteID: 27971b87f6c097a7e8cd0413d2276545
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 72
       width: 52
       height: 25
-    spriteID: 5f998b0f6d280004ba2de2695ab43863
+    spriteID: c3befd7acd19775109996e22b7046c5c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -257,7 +257,7 @@ ScriptedImporter:
         y: 0
         width: 52
         height: 26
-      spriteId: ac29d4ce66d59db4db95f63d485f7028
+      spriteId: cdfbe268f2eb4c56a9220b9fc64fd84c
     - name: raptor-walk_Frame_1
       frameIndex: 1
       cellRect:
@@ -265,7 +265,7 @@ ScriptedImporter:
         y: 0
         width: 53
         height: 27
-      spriteId: a56ccda1a36c527459c7f9b51bc0437d
+      spriteId: e736ea732669bd771bac30f09617684a
     - name: raptor-walk_Frame_2
       frameIndex: 2
       cellRect:
@@ -273,7 +273,7 @@ ScriptedImporter:
         y: 0
         width: 54
         height: 26
-      spriteId: a2df6984a5fa26b429b8dd913ae480bc
+      spriteId: 4134770eef1b4bb4bbaa5fa55b59f6dc
     - name: raptor-walk_Frame_3
       frameIndex: 3
       cellRect:
@@ -281,7 +281,7 @@ ScriptedImporter:
         y: 0
         width: 53
         height: 27
-      spriteId: a54c4ee8e32150b4d8b9ee1dd2a33360
+      spriteId: fe00a579bb86f897385b8de801b5baf3
     - name: raptor-walk_Frame_4
       frameIndex: 4
       cellRect:
@@ -289,7 +289,7 @@ ScriptedImporter:
         y: 0
         width: 52
         height: 26
-      spriteId: 47cd7dcfe799c744a830409b026796b9
+      spriteId: 27971b87f6c097a7e8cd0413d2276545
     - name: raptor-walk_Frame_5
       frameIndex: 5
       cellRect:
@@ -297,7 +297,7 @@ ScriptedImporter:
         y: 0
         width: 52
         height: 25
-      spriteId: 5f998b0f6d280004ba2de2695ab43863
+      spriteId: c3befd7acd19775109996e22b7046c5c
     linkedCells: []
     parentIndex: -1
   platformSettings: []

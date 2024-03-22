@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {instanceID: 0}
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 76
       width: 56
       height: 25
-    spriteID: 65f82025056755d44a999444a216c4ad
+    spriteID: e123a85c8dae9e5ff93b2a0274246761
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 43
       width: 65
       height: 23
-    spriteID: 960c1fda98f588b478926897552c1dd8
+    spriteID: 55898f288fd1df833bb62fd00347239a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 66
       height: 25
-    spriteID: 2106dcb0ca10ec142a0fe44a2391fad7
+    spriteID: 37b6e4fefb9bc8f3e82edb1adf1941b9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 68
       height: 31
-    spriteID: 8ce3ff8a0baf5e2478b7bc3e56a58a3f
+    spriteID: f146d970214668d5eb0556316d0b1cc2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 76
       width: 45
       height: 30
-    spriteID: 28976c91888160843ad67bd861110f34
+    spriteID: dc49090c93ed85eacaf85879a4ad3e6b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 76
       width: 45
       height: 30
-    spriteID: 5212b454825ab674aac65d5f17536562
+    spriteID: 7a60192fad7a05a9395a51121fa1c898
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 76
       width: 55
       height: 26
-    spriteID: 0ce0075fabb35424da747c9294c2ca7d
+    spriteID: 9519253fe96932ce4bb8290654e40298
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 43
       width: 64
       height: 23
-    spriteID: 4ecb8d00824ebcb418d1ef25c6186ea9
+    spriteID: 16edf9eea4238fe1a81d7cae1f8fe116
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 43
       width: 65
       height: 25
-    spriteID: 4335f3c98309e2c409f753da8fa3e11f
+    spriteID: 56e4261716847dea0b7984a7871370ce
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 4
       width: 68
       height: 26
-    spriteID: 669ae9e4ff903e7408afcaef4fec4074
+    spriteID: bfb557f843e95fb9daf6e35a3c607607
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -337,7 +337,7 @@ ScriptedImporter:
         y: 0
         width: 56
         height: 25
-      spriteId: 65f82025056755d44a999444a216c4ad
+      spriteId: e123a85c8dae9e5ff93b2a0274246761
     - name: raptor-bite_Frame_1
       frameIndex: 1
       cellRect:
@@ -345,7 +345,7 @@ ScriptedImporter:
         y: 0
         width: 65
         height: 23
-      spriteId: 960c1fda98f588b478926897552c1dd8
+      spriteId: 55898f288fd1df833bb62fd00347239a
     - name: raptor-bite_Frame_2
       frameIndex: 2
       cellRect:
@@ -353,7 +353,7 @@ ScriptedImporter:
         y: 0
         width: 66
         height: 25
-      spriteId: 2106dcb0ca10ec142a0fe44a2391fad7
+      spriteId: 37b6e4fefb9bc8f3e82edb1adf1941b9
     - name: raptor-bite_Frame_3
       frameIndex: 3
       cellRect:
@@ -361,7 +361,7 @@ ScriptedImporter:
         y: 0
         width: 68
         height: 31
-      spriteId: 8ce3ff8a0baf5e2478b7bc3e56a58a3f
+      spriteId: f146d970214668d5eb0556316d0b1cc2
     - name: raptor-bite_Frame_4
       frameIndex: 4
       cellRect:
@@ -369,7 +369,7 @@ ScriptedImporter:
         y: 0
         width: 45
         height: 30
-      spriteId: 28976c91888160843ad67bd861110f34
+      spriteId: dc49090c93ed85eacaf85879a4ad3e6b
     - name: raptor-bite_Frame_5
       frameIndex: 5
       cellRect:
@@ -377,7 +377,7 @@ ScriptedImporter:
         y: 0
         width: 45
         height: 30
-      spriteId: 5212b454825ab674aac65d5f17536562
+      spriteId: 7a60192fad7a05a9395a51121fa1c898
     - name: raptor-bite_Frame_6
       frameIndex: 6
       cellRect:
@@ -385,7 +385,7 @@ ScriptedImporter:
         y: 0
         width: 55
         height: 26
-      spriteId: 0ce0075fabb35424da747c9294c2ca7d
+      spriteId: 9519253fe96932ce4bb8290654e40298
     - name: raptor-bite_Frame_7
       frameIndex: 7
       cellRect:
@@ -393,7 +393,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 23
-      spriteId: 4ecb8d00824ebcb418d1ef25c6186ea9
+      spriteId: 16edf9eea4238fe1a81d7cae1f8fe116
     - name: raptor-bite_Frame_8
       frameIndex: 8
       cellRect:
@@ -401,7 +401,7 @@ ScriptedImporter:
         y: 0
         width: 65
         height: 25
-      spriteId: 4335f3c98309e2c409f753da8fa3e11f
+      spriteId: 56e4261716847dea0b7984a7871370ce
     - name: raptor-bite_Frame_9
       frameIndex: 9
       cellRect:
@@ -409,7 +409,7 @@ ScriptedImporter:
         y: 0
         width: 68
         height: 26
-      spriteId: 669ae9e4ff903e7408afcaef4fec4074
+      spriteId: bfb557f843e95fb9daf6e35a3c607607
     linkedCells: []
     parentIndex: -1
   platformSettings: []

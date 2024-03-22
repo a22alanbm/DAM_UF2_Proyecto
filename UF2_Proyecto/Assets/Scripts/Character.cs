@@ -392,7 +392,7 @@ public class Character : MonoBehaviour
         puedeRealizarAcciones = false;
         animator.SetTrigger("Death");
         yield return new WaitForSeconds(1f);
-        gameObject.SetActive(false);
+        spriteRenderer.enabled = false;
         if (blackFadeObject != null && mainCamera != null)
         {
             // Obtener el script de desvanecimiento del objeto
@@ -405,14 +405,18 @@ public class Character : MonoBehaviour
             {
                 songController.StartCoroutine(songController.FadeOut());
             }
+            Debug.Log("Antes de esperar");
             yield return new WaitForSeconds(5f);
+            Debug.Log("Cambiar de Escena");
             SceneManager.LoadScene(3);
         }
         else
         {
             Debug.LogError("No se ha asignado un objeto de desvanecimiento o una cámara.");
         }
+        
     }
+
 
 
 

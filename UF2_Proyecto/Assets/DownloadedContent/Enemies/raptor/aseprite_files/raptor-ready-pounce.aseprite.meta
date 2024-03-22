@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {instanceID: 0}
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 57
       height: 13
-    spriteID: 667ba14e54253794f89dcd9a00a546d7
+    spriteID: 4528cae7dd112ac228a8f0ffbd985dd6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 55
       height: 13
-    spriteID: e5200a8af081f004bb2aed7b9896e2f3
+    spriteID: 71811777dd3c16b49ad0fb8c4fed5e90
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -177,7 +177,7 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 64
-      spriteId: 667ba14e54253794f89dcd9a00a546d7
+      spriteId: 4528cae7dd112ac228a8f0ffbd985dd6
     - name: raptor-ready-pounce_Frame_1
       frameIndex: 1
       cellRect:
@@ -185,7 +185,7 @@ ScriptedImporter:
         y: 0
         width: 55
         height: 13
-      spriteId: e5200a8af081f004bb2aed7b9896e2f3
+      spriteId: 71811777dd3c16b49ad0fb8c4fed5e90
     linkedCells: []
     parentIndex: -1
   platformSettings: []

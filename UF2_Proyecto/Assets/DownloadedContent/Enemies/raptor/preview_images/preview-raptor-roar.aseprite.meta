@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {instanceID: 0}
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 106
       width: 52
       height: 25
-    spriteID: e064008a565bb2249a658f405a8a4613
+    spriteID: 10291fee0d11b0111b8a4d96abcfb7e6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 139
       width: 52
       height: 25
-    spriteID: d0dcc93dfc957a2489e8f7a4c53f4575
+    spriteID: eea087c002f14b54786a9e98ca506c83
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 172
       width: 52
       height: 25
-    spriteID: 264c6da20f82adf4489aca1eb89292c3
+    spriteID: 0275524fb9b1d8113be5095d84ac37dd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 106
       width: 47
       height: 31
-    spriteID: 53fd2f518dd940940a13858bd30b56e6
+    spriteID: 19a11330fa8891a79902f2d2e7e8d4e6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 145
       width: 45
       height: 30
-    spriteID: 9de02acb89b44734cb304e916aec66b6
+    spriteID: 4b4f325ef4449c3578982b70139ce850
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 183
       width: 45
       height: 30
-    spriteID: 4ca73278e92968f4c9bfa7328a627625
+    spriteID: 06b12fffde3d006eb928f65768a0bd60
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 72
       width: 68
       height: 26
-    spriteID: bb9a2408bd5e8984daec26698ea223db
+    spriteID: 6283d99634112e98eb7269080d287ce5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 38
       width: 79
       height: 26
-    spriteID: 08ce413f2bc59c84e9c28566039f3d89
+    spriteID: 62ddb1edfa7aae74bb5d67677e805c41
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 4
       width: 81
       height: 26
-    spriteID: 19213a6d60318144fbaf68a2de30fea8
+    spriteID: 4b51734124f12f60aabcbe6c061655af
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -317,7 +317,7 @@ ScriptedImporter:
         y: 0
         width: 52
         height: 25
-      spriteId: e064008a565bb2249a658f405a8a4613
+      spriteId: 10291fee0d11b0111b8a4d96abcfb7e6
     - name: preview-raptor-roar_Frame_1
       frameIndex: 1
       cellRect:
@@ -325,7 +325,7 @@ ScriptedImporter:
         y: 0
         width: 52
         height: 25
-      spriteId: d0dcc93dfc957a2489e8f7a4c53f4575
+      spriteId: eea087c002f14b54786a9e98ca506c83
     - name: preview-raptor-roar_Frame_2
       frameIndex: 2
       cellRect:
@@ -333,7 +333,7 @@ ScriptedImporter:
         y: 0
         width: 52
         height: 25
-      spriteId: 264c6da20f82adf4489aca1eb89292c3
+      spriteId: 0275524fb9b1d8113be5095d84ac37dd
     - name: preview-raptor-roar_Frame_3
       frameIndex: 3
       cellRect:
@@ -341,7 +341,7 @@ ScriptedImporter:
         y: 0
         width: 47
         height: 31
-      spriteId: 53fd2f518dd940940a13858bd30b56e6
+      spriteId: 19a11330fa8891a79902f2d2e7e8d4e6
     - name: preview-raptor-roar_Frame_4
       frameIndex: 4
       cellRect:
@@ -349,7 +349,7 @@ ScriptedImporter:
         y: 0
         width: 45
         height: 30
-      spriteId: 9de02acb89b44734cb304e916aec66b6
+      spriteId: 4b4f325ef4449c3578982b70139ce850
     - name: preview-raptor-roar_Frame_5
       frameIndex: 5
       cellRect:
@@ -357,7 +357,7 @@ ScriptedImporter:
         y: 0
         width: 45
         height: 30
-      spriteId: 4ca73278e92968f4c9bfa7328a627625
+      spriteId: 06b12fffde3d006eb928f65768a0bd60
     - name: preview-raptor-roar_Frame_6
       frameIndex: 6
       cellRect:
@@ -365,7 +365,7 @@ ScriptedImporter:
         y: 0
         width: 68
         height: 26
-      spriteId: bb9a2408bd5e8984daec26698ea223db
+      spriteId: 6283d99634112e98eb7269080d287ce5
     - name: preview-raptor-roar_Frame_7
       frameIndex: 7
       cellRect:
@@ -373,7 +373,7 @@ ScriptedImporter:
         y: 0
         width: 79
         height: 26
-      spriteId: 08ce413f2bc59c84e9c28566039f3d89
+      spriteId: 62ddb1edfa7aae74bb5d67677e805c41
     - name: preview-raptor-roar_Frame_8
       frameIndex: 8
       cellRect:
@@ -381,7 +381,7 @@ ScriptedImporter:
         y: 0
         width: 81
         height: 26
-      spriteId: 19213a6d60318144fbaf68a2de30fea8
+      spriteId: 4b51734124f12f60aabcbe6c061655af
     linkedCells: []
     parentIndex: -1
   platformSettings: []

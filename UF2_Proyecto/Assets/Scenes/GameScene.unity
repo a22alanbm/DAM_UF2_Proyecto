@@ -4686,6 +4686,18 @@ PrefabInstance:
       propertyPath: vidaVista.Array.data[8]
       value: 
       objectReference: {fileID: 651966308}
+    - target: {fileID: 7201988863622576925, guid: edcce3c25a69f0e48a5ea03cf91a7a2e, type: 3}
+      propertyPath: m_Mass
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7201988863622576925, guid: edcce3c25a69f0e48a5ea03cf91a7a2e, type: 3}
+      propertyPath: m_AngularDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8115381089431415431, guid: edcce3c25a69f0e48a5ea03cf91a7a2e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8428651721953008834, guid: edcce3c25a69f0e48a5ea03cf91a7a2e, type: 3}
       propertyPath: m_Name
       value: WaterCharacter
