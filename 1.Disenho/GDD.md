@@ -11,11 +11,11 @@
 
 ## GAMEPLAY
 
-### Objetivos
+#### Objetivos
 
 Durante el juego pasarás de nivel 0 a nivel 5, matar los monstruos hará que suba de nivel, por cada nivel hay un monstruo más complicado y feroz, serás capaz de hacerte camino por el peligroso bosque encantado (de conocerte)? 
 
-#### Jugabilidad
+#### Jugabilidad
 
 No hay recompensas, en la guerra solo hay pérdidas, debes combatir con los ataques del personaje y acabar con los enemigos, cada personaje y ataque aplican una técnica diferente que afecta directamente a los resultados.
 
